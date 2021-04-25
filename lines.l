@@ -1,6 +1,6 @@
-  7121 25-04-21.txt
+  7310 25-04-21.txt
      3 README.md
      7 autocommit.sh
      6 getlines.sh
-     4 lines.l
-  7141 total
+     3 lines.l
+  7329 total
