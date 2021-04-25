@@ -11869,3 +11869,19 @@
 [2021-04-25 15:58:10]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-25 15:58:58]: ***  [, Level 0]: 'peepo' entered and joined the game
 [2021-04-25 15:59:45]: ***  [, Level 0]: 'hhh3' entered and joined the game
+[2021-04-25 16:01:27]: ***  [, Level 0]: 'Chinese' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-25 16:01:40]: ***  [, Level 0]: 'Chinese' left the minigame 'Block'
+[2021-04-25 16:01:41]: ***  [, Level 0]: 'Sven' has left the game
+[2021-04-25 16:01:41]: ***  [, Level 0]: '[D] Sven' has left the game
+[2021-04-25 16:01:41]: Hunter.exe [DogParty, Level 37]: ./survival
+[2021-04-25 16:01:50]: ***  [, Level 0]: 'Chinese' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-25 16:01:53]: ***  [, Level 0]: 'whutasme' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-25 16:02:07]: ***  [, Level 0]: 'Chinese' left the minigame 'Survival'
+[2021-04-25 16:02:10]: ***  [, Level 0]: 'whutasme' left the minigame 'Survival'
+[2021-04-25 16:02:57]: hhh3 [, Level 48]: wait
+[2021-04-25 16:03:00]: ***  [, Level 0]: 'hhnaut31' entered and joined the game
+[2021-04-25 16:03:10]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-25 16:04:12]: ***  [, Level 0]: 'JxK|JoK'Air' entered and joined the game
+[2021-04-25 16:04:32]: ***  [, Level 0]: 'peepo' has left the game
+[2021-04-25 16:04:52]: [D] P4Pyr0s [FookinLads, Level 25]: Devastator:  fun war?
+[2021-04-25 16:05:32]: ***  [, Level 0]: '(1)JxK|JoK'Air' entered and joined the game
