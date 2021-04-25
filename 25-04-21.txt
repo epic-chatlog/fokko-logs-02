@@ -11863,3 +11863,9 @@
 [2021-04-25 15:55:06]: Hunter.exe [DogParty, Level 37]: cool
 [2021-04-25 15:55:10]: whutasme [, Level 0]: cool
 [2021-04-25 15:55:14]: whutasme [, Level 0]: bye
+[2021-04-25 15:56:18]: ***  [, Level 0]: '(1)(C)Ali' has left the game
+[2021-04-25 15:56:22]: whutasme [, Level 0]: xD
+[2021-04-25 15:56:39]: ***  [, Level 0]: '(C)Ali' has left the game
+[2021-04-25 15:58:10]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-25 15:58:58]: ***  [, Level 0]: 'peepo' entered and joined the game
+[2021-04-25 15:59:45]: ***  [, Level 0]: 'hhh3' entered and joined the game
