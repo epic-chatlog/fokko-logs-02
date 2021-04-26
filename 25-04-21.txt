@@ -12465,3 +12465,9 @@
 [2021-04-25 21:37:00]: Chinese [, Level 25]: wtf
 [2021-04-25 21:37:22]: ***  [, Level 0]: 'MieSlime' has left the game
 [2021-04-25 21:38:10]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-25 21:40:34]: ***  [, Level 0]: 'niQ' has left the game
+[2021-04-25 21:42:07]: ***  [, Level 0]: 'Ðream' has left the game
+[2021-04-25 21:42:07]: ***  [, Level 0]: 'Ƭevan' has left the game
+[2021-04-25 21:42:19]: ***  [, Level 0]: '(1)Ðream' has left the game
+[2021-04-25 21:42:19]: ***  [, Level 0]: '(1)Ƭevan' has left the game
+[2021-04-25 21:43:10]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
