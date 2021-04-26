@@ -12409,3 +12409,14 @@
 [2021-04-25 21:03:10]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-25 21:06:32]: ***  [, Level 0]: 'bob' entered and joined the game
 [2021-04-25 21:08:10]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-25 21:09:23]: ***  [, Level 0]: 'VAUSA' entered and joined the game
+[2021-04-25 21:10:02]: VAUSA [, Level 0]: bob:
+[2021-04-25 21:10:10]: VAUSA [, Level 0]: bob: help
+[2021-04-25 21:10:23]: bob [, Level 36]: no
+[2021-04-25 21:10:32]: ***  [, Level 0]: 'Vpure' entered and joined the game
+[2021-04-25 21:10:33]: NeMo [, Level 27]: bob: thank god i just deposit 30k
+[2021-04-25 21:10:37]: NeMo [, Level 27]: P4Pyr0s: have a lot xD
+[2021-04-25 21:10:45]: NeMo [, Level 27]: MORE THAN 30k
+[2021-04-25 21:11:27]: ***  [, Level 0]: '(1)VAUSA' entered and joined the game
+[2021-04-25 21:11:57]: ***  [, Level 0]: '(1)Vpure' entered and joined the game
+[2021-04-25 21:13:10]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
