@@ -14538,3 +14538,6 @@
 [2021-04-26 15:01:37]: ***  [, Level 0]: 'NinjaWhiteYT' has left the game (Timeout Protection over)
 [2021-04-26 15:05:46]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-26 15:06:09]: sun.slow(y) [FookinLads, Level 35]: Zephir ツ: now real war :)
+[2021-04-26 15:07:11]: ***  [, Level 0]: 'sun.slow(y)' has left the game
+[2021-04-26 15:10:46]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-26 15:11:03]: Zephir ツ [404, Level 40]: Souly: u like my spike ?
