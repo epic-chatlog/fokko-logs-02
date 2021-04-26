@@ -14002,3 +14002,32 @@
 [2021-04-26 13:40:55]: power [TrRShClNrRs, Level 0]: leggo Zephir ツ
 [2021-04-26 13:41:07]: ***  [, Level 0]: '[D] BC|serwan' has left the game
 [2021-04-26 13:41:07]: ***  [, Level 0]: 'BC|serwan' has left the game
+[2021-04-26 13:41:27]: (1)casserole :p [, Level 0]: bind [key] "say /money drop 1 ; + fire "
+[2021-04-26 13:41:56]: ¡ RodCYREX 神 [Blood Day, Level 13]: onu bana tensot
+[2021-04-26 13:41:58]: (C)Ali [, Level 26]: ki verdi lan
+[2021-04-26 13:42:01]: ¡ RodCYREX 神 [Blood Day, Level 13]: ben
+[2021-04-26 13:42:05]: ¡ RodCYREX 神 [Blood Day, Level 13]: dummy ve bende vardı
+[2021-04-26 13:42:06]: NinjaWhiteYT [, Level 37]: Marcisten:
+[2021-04-26 13:42:18]: (C)Ali [, Level 26]: tşk knk
+[2021-04-26 13:42:21]: ¡ RodCYREX 神 [Blood Day, Level 13]: (1)(C)Ali:  tenston attı ilk bana sonra bende sana attım np
+[2021-04-26 13:42:32]: ¡ RodCYREX 神 [Blood Day, Level 13]: o üçlü atan viplerde oluyo sanırım
+[2021-04-26 13:42:45]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-26 13:42:46]: Marcisten [Helper, Level 0]: serwan
+[2021-04-26 13:42:49]: Marcisten [Helper, Level 0]: FACUK
+[2021-04-26 13:42:51]: ***  [, Level 0]: 'Cylox' has left the game
+[2021-04-26 13:43:27]: Devastator [\ЧՁθ/, Level 41]: casserole :p:  and how i can do this with wepon
+[2021-04-26 13:44:31]: (1)¡ RodCYREX  [Blood Day, Level 1]: oyundaki ayarları yaptım bunda bazı ayar değişmemiş
+[2021-04-26 13:44:33]: CuBerMaN1 [KVKY, Level 0]: help
+[2021-04-26 13:44:36]: CuBerMaN1 [KVKY, Level 0]: anybody
+[2021-04-26 13:44:40]: (1)¡ RodCYREX  [Blood Day, Level 1]: ayarları yüklememiş sanırım ondan tekrar yapıyom
+[2021-04-26 13:44:45]: casserole :p [, Level 0]: i don t rly know it s a bit tricky 1)get rid of hammer and gun 2) do the same thing but you have to drop you grenade launcher
+[2021-04-26 13:44:48]: ***  [, Level 0]: 'ERROR' has left the game (Timeout Protection over)
+[2021-04-26 13:44:48]: ***  [, Level 0]: 'ERROR,' has left the game (Timeout Protection over)
+[2021-04-26 13:45:07]: CuBerMaN1 [KVKY, Level 0]: power
+[2021-04-26 13:45:11]: Devastator [\ЧՁθ/, Level 41]: wtf
+[2021-04-26 13:45:22]: power [TrRShClNrRs, Level 0]: Devastator:
+[2021-04-26 13:45:39]: power [TrRShClNrRs, Level 0]: xD
+[2021-04-26 13:45:41]: casserole :p [, Level 0]: idk how to drop weapon and shoot with shotgun in 1 bind
+[2021-04-26 13:45:46]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-26 13:45:49]: power [TrRShClNrRs, Level 0]: HardreenClutch:
+[2021-04-26 13:46:12]: H0dƌƔ1 [ℋero, Level 28]: wtf xD
