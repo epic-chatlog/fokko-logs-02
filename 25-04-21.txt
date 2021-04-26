@@ -12342,3 +12342,6 @@
 [2021-04-25 19:14:10]: ***  [, Level 0]: 'FaalSivaas' has left the game
 [2021-04-25 19:14:25]: ***  [, Level 0]: 'Kilian Dermoth' entered and joined the game
 [2021-04-25 19:15:41]: ***  [, Level 0]: 'Kilian Dermoth' has left the game
+[2021-04-25 19:18:10]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-25 19:20:04]: ***  [, Level 0]: '[D] El patron' has left the game (Timeout)
+[2021-04-25 19:20:04]: ***  [, Level 0]: 'El patron' has left the game (Timeout)
