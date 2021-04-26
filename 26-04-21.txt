@@ -14536,3 +14536,5 @@
 [2021-04-26 15:01:03]: Zephir ツ [404, Level 40]: Souly: that sad, i have 50k in my account, but i have deposite
 [2021-04-26 15:01:37]: ***  [, Level 0]: 'NinjaWhite' has left the game (Timeout Protection over)
 [2021-04-26 15:01:37]: ***  [, Level 0]: 'NinjaWhiteYT' has left the game (Timeout Protection over)
+[2021-04-26 15:05:46]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-26 15:06:09]: sun.slow(y) [FookinLads, Level 35]: Zephir ツ: now real war :)
