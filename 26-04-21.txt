@@ -14519,3 +14519,8 @@
 [2021-04-26 14:50:50]: ***  [, Level 0]: '¡ RodCYREX 神' has left the game (Timeout Protection over)
 [2021-04-26 14:51:35]: ***  [, Level 0]: '(1)¡ RodCYREX 神' has left the game
 [2021-04-26 14:51:51]: ***  [, Level 0]: 'ghp' entered and joined the game
+[2021-04-26 14:52:46]: ***  [, Level 0]: '[D] ghp' entered and joined the game
+[2021-04-26 14:55:46]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-26 14:55:52]: Zephir ツ [404, Level 40]: Souly: you are annoying
+[2021-04-26 14:55:56]: (1)Souly [real noby, Level 41]: no u
+[2021-04-26 14:55:59]: ***  [, Level 0]: Zephir ツ's killing spree was ended by (1)SoulyD (5 blocks)
