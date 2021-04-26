@@ -12109,3 +12109,4 @@
 [2021-04-25 17:38:17]: ☺ [, Level 0]: yes i am actually here
 [2021-04-25 17:39:08]: whutasme [, Level 0]: you know how i remove a bind  or command
 [2021-04-25 17:39:31]: whutasme [, Level 0]: ?
+[2021-04-25 17:43:10]: ***  [, Level 0]: [INFO] You can create an account using '/register'
