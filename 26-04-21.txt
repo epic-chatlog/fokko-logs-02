@@ -14639,3 +14639,7 @@
 [2021-04-26 15:45:46]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-26 15:50:46]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-26 15:52:22]: ***  [, Level 0]: 'Keeper.*' entered and joined the game
+[2021-04-26 15:52:40]: ***  [, Level 0]: 'Keeeper.*' entered and joined the game
+[2021-04-26 15:55:46]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-26 15:57:09]: ***  [, Level 0]: 's 🅱 e v e' entered and joined the game
+[2021-04-26 15:57:14]: s 🅱 e v e [, Level 0]: Guys im back be happy
