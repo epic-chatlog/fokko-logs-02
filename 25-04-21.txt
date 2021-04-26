@@ -12495,3 +12495,7 @@
 [2021-04-25 22:13:10]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-25 22:13:54]: ***  [, Level 0]: 'ianmarkosuna' has left the game
 [2021-04-25 22:18:10]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-25 22:21:51]: ***  [, Level 0]: 'Boti.' entered and joined the game
+[2021-04-25 22:22:00]: Boti. [.bad, Level 0]: hello afk bitches
+[2021-04-25 22:22:10]: ***  [, Level 0]: 'DoycE' entered and joined the game
+[2021-04-25 22:23:10]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
