@@ -12119,3 +12119,11 @@
 [2021-04-25 17:50:19]: NeMo [, Level 27]: smiley boy
 [2021-04-25 17:50:43]: NeMo [, Level 27]: ☺:
 [2021-04-25 17:50:53]: whutasme [, Level 0]: ?
+[2021-04-25 17:52:36]: ***  [, Level 0]: 'cikt' entered and joined the game
+[2021-04-25 17:52:43]: ☺ [, Level 29]: i will afk bye
+[2021-04-25 17:52:46]: NeMo [, Level 27]: bye
+[2021-04-25 17:52:51]: ***  [, Level 0]: '(1)NeMo' entered and joined the game
+[2021-04-25 17:53:10]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-25 17:53:27]: ***  [, Level 0]: 'cikt' has left the game
+[2021-04-25 17:53:48]: ***  [, Level 0]: 'Kix^_^' has left the game
+[2021-04-25 17:54:55]: ***  [, Level 0]: 'Ze$أer' entered and joined the game
