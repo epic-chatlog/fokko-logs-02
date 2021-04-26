@@ -12524,3 +12524,9 @@
 [2021-04-25 22:42:55]: h4mzq [, Level 0]: ??????????
 [2021-04-25 22:43:10]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-25 22:43:21]: ***  [, Level 0]: 'nickid' entered and joined the game
+[2021-04-25 22:44:32]: Dilara [, Level 16]: keiner in police btw Axandos
+[2021-04-25 22:44:32]: ***  [, Level 0]: 'nickid' has left the game
+[2021-04-25 22:46:31]: ***  [, Level 0]: 'Nosorozecszymek' entered and joined the game
+[2021-04-25 22:47:22]: ***  [, Level 0]: 'Nosorozecszymek' has left the game
+[2021-04-25 22:48:02]: h4mzq [, Level 0]: KİLL
+[2021-04-25 22:48:10]: ***  [, Level 0]: [INFO] You can create an account using '/register'
