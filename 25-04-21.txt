@@ -12489,3 +12489,7 @@
 [2021-04-25 22:05:20]: ***  [, Level 0]: 'janrohan' entered and joined the game
 [2021-04-25 22:06:03]: ***  [, Level 0]: 'janrohan' has left the game
 [2021-04-25 22:08:10]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-25 22:09:03]: ***  [, Level 0]: 'janrohan' entered and joined the game
+[2021-04-25 22:10:28]: ***  [, Level 0]: 'janrohan' has left the game
+[2021-04-25 22:12:35]: ***  [, Level 0]: 'ianmarkosuna' entered and joined the game
+[2021-04-25 22:13:10]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
