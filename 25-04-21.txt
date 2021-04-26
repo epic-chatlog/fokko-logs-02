@@ -12508,3 +12508,6 @@
 [2021-04-25 22:33:31]: ***  [, Level 0]: 'bundaskenyer231' has left the game
 [2021-04-25 22:33:32]: ***  [, Level 0]: 'bundaskenyer231' entered and joined the game
 [2021-04-25 22:33:38]: ***  [, Level 0]: 'bundaskenyer231' has left the game
+[2021-04-25 22:37:41]: ***  [, Level 0]: 'FGE' entered and joined the game
+[2021-04-25 22:38:10]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-25 22:38:54]: ***  [, Level 0]: 'h4mzq' entered and joined the game
