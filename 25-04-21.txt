@@ -12397,3 +12397,8 @@
 [2021-04-25 20:34:40]: ***  [, Level 0]: '[D] SenZe.*' has left the game
 [2021-04-25 20:34:53]: ***  [, Level 0]: 'SenZe.*' has left the game
 [2021-04-25 20:35:54]: kurama [New Gen., Level 12]: StreamerDragon: '
+[2021-04-25 20:38:10]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-25 20:38:39]: ***  [, Level 0]: 'davi' entered and joined the game
+[2021-04-25 20:38:52]: ***  [, Level 0]: 'davi' joined the spectators
+[2021-04-25 20:38:55]: ***  [, Level 0]: 'davi' joined the game
+[2021-04-25 20:39:05]: ***  [, Level 0]: 'davi' has left the game
