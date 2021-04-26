@@ -12345,3 +12345,7 @@
 [2021-04-25 19:18:10]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-25 19:20:04]: ***  [, Level 0]: '[D] El patron' has left the game (Timeout)
 [2021-04-25 19:20:04]: ***  [, Level 0]: 'El patron' has left the game (Timeout)
+[2021-04-25 19:23:10]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-25 19:24:43]: ***  [, Level 0]: 'Quadrick' entered and joined the game
+[2021-04-25 19:24:52]: ***  [, Level 0]: 'Quadrick' has left the game
+[2021-04-25 19:25:23]: ***  [, Level 0]: '(2)NeMo' entered and joined the game
