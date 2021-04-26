@@ -12361,3 +12361,5 @@
 [2021-04-25 19:50:57]: ***  [, Level 0]: 'Quadrick' entered and joined the game
 [2021-04-25 19:51:02]: ***  [, Level 0]: 'Quadrick' has left the game
 [2021-04-25 19:53:10]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-25 19:58:10]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-25 20:00:13]: ***  [, Level 0]: 'Dy li_o_lu' entered and joined the game
