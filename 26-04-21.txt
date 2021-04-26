@@ -11811,3 +11811,17 @@
 [2021-04-26 10:03:12]: ***  [, Level 0]: '[D] El patron' has left the game
 [2021-04-26 10:03:16]: ***  [, Level 0]: 'Axandos' would have timed out, but can use timeout protection now
 [2021-04-26 10:03:38]: ***  [, Level 0]: 'Arin' has left the game
+[2021-04-26 10:04:49]: ***  [, Level 0]: 'lolpeop1408' entered and joined the game
+[2021-04-26 10:05:36]: Matiteusz [TrRShClNrRs, Level 20]: Zephir ツ:
+[2021-04-26 10:05:46]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-26 10:05:56]: ***  [, Level 0]: 'NinjaWhiteYT' entered and joined the game
+[2021-04-26 10:06:05]: ***  [, Level 0]: 'any ☍' has left the game (Timeout Protection over)
+[2021-04-26 10:06:05]: ***  [, Level 0]: 'any' has left the game (Timeout Protection over)
+[2021-04-26 10:06:13]: ***  [, Level 0]: 'Dilara' entered and joined the game
+[2021-04-26 10:06:46]: lolpeop1408 [Ape, Level 0]: dude
+[2021-04-26 10:06:56]: lolpeop1408 [Ape, Level 0]: de lag is killing me
+[2021-04-26 10:07:16]: ***  [, Level 0]: 'Axandos' has left the game (Timeout Protection over)
+[2021-04-26 10:08:41]: lolpeop1408 [Ape, Level 0]: de game is fixt
+[2021-04-26 10:08:45]: ***  [, Level 0]: 'taeryíbvx' entered and joined the game
+[2021-04-26 10:08:52]: ***  [, Level 0]: 'termamo' entered and joined the game
+[2021-04-26 10:09:16]: ***  [, Level 0]: 'taeryíbvx' has left the game
