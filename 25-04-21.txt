@@ -12092,3 +12092,5 @@
 [2021-04-25 17:08:10]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-25 17:13:10]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-25 17:16:09]: ***  [, Level 0]: '(C)Ali' entered and joined the game
+[2021-04-25 17:17:32]: ***  [, Level 0]: '(C)Ali' would have timed out, but can use timeout protection now
+[2021-04-25 17:18:10]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
