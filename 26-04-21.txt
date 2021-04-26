@@ -13928,3 +13928,12 @@
 [2021-04-26 13:25:38]: (C)Ali [, Level 26]: ben tyan hesabla oynuyom,
 [2021-04-26 13:25:46]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-26 13:25:58]: ¡ RodCYREX 神 [Blood Day, Level 13]: ok ben canlı yayın izliyom ekrana bakıyom seni kesen olursa haber ederim
+[2021-04-26 13:26:18]: (C)Ali [, Level 26]: tamm
+[2021-04-26 13:26:21]: ***  [, Level 0]: Marcisten Dummy finished in: 15 minute(s) 36.30 second(s)
+[2021-04-26 13:26:22]: ***  [, Level 0]: power2 finished in: 2 minute(s) 54.34 second(s)
+[2021-04-26 13:27:02]: BC|serwan [BC, Level 0]: power: DONT KILL HEM
+[2021-04-26 13:27:43]: ***  [, Level 0]: 'GOLD' has left the game
+[2021-04-26 13:27:43]: ***  [, Level 0]: 'YelloWorlD' has left the game
+[2021-04-26 13:27:59]: KingCuBer3 [KVKY, Level 24]: power help
+[2021-04-26 13:29:55]: KingCuBer3 [KVKY, Level 24]: QEQWEQWEWEWEWEQW
+[2021-04-26 13:30:46]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
