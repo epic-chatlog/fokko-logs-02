@@ -12437,3 +12437,15 @@
 [2021-04-25 21:23:39]: ***  [, Level 0]: 'Vpure' has left the game
 [2021-04-25 21:23:39]: ***  [, Level 0]: 'VAUSA' has left the game
 [2021-04-25 21:28:10]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-25 21:29:12]: ***  [, Level 0]: 'niQ' entered and joined the game
+[2021-04-25 21:29:35]: niQ [HomelessDOG, Level 0]: qq
+[2021-04-25 21:29:52]: niQ [HomelessDOG, Level 0]: чёт рано проснулся, делать нечего особо
+[2021-04-25 21:30:57]: niQ [HomelessDOG, Level 38]: это ты как его туда утащил
+[2021-04-25 21:31:02]: niQ [HomelessDOG, Level 38]: он же всегда кил пишет
+[2021-04-25 21:31:32]: ***  [, Level 0]: 'kurama' has left the game (Timeout)
+[2021-04-25 21:32:08]: ***  [, Level 0]: 'Навальн�' entered and joined the game
+[2021-04-25 21:32:26]: niQ [HomelessDOG, Level 38]: а поч тут фармишь? тут же ток +1
+[2021-04-25 21:33:01]: niQ [HomelessDOG, Level 38]: сильно)
+[2021-04-25 21:33:08]: Ƭevan [TrRShClNrRs, Level 50]: ага)
+[2021-04-25 21:33:10]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-25 21:33:21]: ***  [, Level 0]: 'MieSlime' entered and joined the game
