@@ -12096,3 +12096,4 @@
 [2021-04-25 17:18:10]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-25 17:21:32]: ***  [, Level 0]: '(C)Ali' has left the game (Timeout Protection over)
 [2021-04-25 17:23:10]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-25 17:28:10]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
