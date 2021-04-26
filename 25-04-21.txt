@@ -12392,3 +12392,8 @@
 [2021-04-25 20:30:19]: kurama [New Gen., Level 12]: kais:
 [2021-04-25 20:30:29]: kurama [New Gen., Level 12]: kais: hwlp
 [2021-04-25 20:31:48]: ***  [, Level 0]: '[D] SenZe.*' has left the game
+[2021-04-25 20:33:08]: ***  [, Level 0]: '[D] SenZe.*' entered and joined the game
+[2021-04-25 20:33:10]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-25 20:34:40]: ***  [, Level 0]: '[D] SenZe.*' has left the game
+[2021-04-25 20:34:53]: ***  [, Level 0]: 'SenZe.*' has left the game
+[2021-04-25 20:35:54]: kurama [New Gen., Level 12]: StreamerDragon: '
