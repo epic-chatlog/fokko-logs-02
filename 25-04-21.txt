@@ -12481,3 +12481,8 @@
 [2021-04-25 21:56:19]: ***  [, Level 0]: 'PoliceTee' entered and joined the game
 [2021-04-25 21:57:55]: PoliceTee [PoliceForce, Level 0]: Chinese: i go to school so i will log out i dont need it XD
 [2021-04-25 21:58:10]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-25 21:58:43]: ***  [, Level 0]: 'PoliceTee' has left the game
+[2021-04-25 21:58:43]: ***  [, Level 0]: 'BulgarianTee' has left the game
+[2021-04-25 22:01:28]: ***  [, Level 0]: 'ryanisanicon' entered and joined the game
+[2021-04-25 22:01:43]: ***  [, Level 0]: 'ryanisanicon' has left the game
+[2021-04-25 22:03:10]: ***  [, Level 0]: [INFO] You can create an account using '/register'
