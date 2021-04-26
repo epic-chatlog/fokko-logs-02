@@ -12332,3 +12332,8 @@
 [2021-04-25 19:04:07]: ***  [, Level 0]: 'whutasme' has left the game
 [2021-04-25 19:04:07]: ***  [, Level 0]: '☺' has left the game
 [2021-04-25 19:05:30]: ***  [, Level 0]: '♥TAKO♥' has left the game
+[2021-04-25 19:07:20]: ***  [, Level 0]: '看我表演' would have timed out, but can use timeout protection now
+[2021-04-25 19:07:20]: ***  [, Level 0]: '走开让我来' would have timed out, but can use timeout protection now
+[2021-04-25 19:08:10]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-25 19:11:20]: ***  [, Level 0]: '看我表演' has left the game (Timeout Protection over)
+[2021-04-25 19:11:20]: ***  [, Level 0]: '走开让我来' has left the game (Timeout Protection over)
