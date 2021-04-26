@@ -12493,3 +12493,5 @@
 [2021-04-25 22:10:28]: ***  [, Level 0]: 'janrohan' has left the game
 [2021-04-25 22:12:35]: ***  [, Level 0]: 'ianmarkosuna' entered and joined the game
 [2021-04-25 22:13:10]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-25 22:13:54]: ***  [, Level 0]: 'ianmarkosuna' has left the game
+[2021-04-25 22:18:10]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
