@@ -12403,3 +12403,4 @@
 [2021-04-25 20:38:55]: ***  [, Level 0]: 'davi' joined the game
 [2021-04-25 20:39:05]: ***  [, Level 0]: 'davi' has left the game
 [2021-04-25 20:43:10]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-25 20:48:10]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
