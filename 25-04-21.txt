@@ -12349,3 +12349,6 @@
 [2021-04-25 19:24:43]: ***  [, Level 0]: 'Quadrick' entered and joined the game
 [2021-04-25 19:24:52]: ***  [, Level 0]: 'Quadrick' has left the game
 [2021-04-25 19:25:23]: ***  [, Level 0]: '(2)NeMo' entered and joined the game
+[2021-04-25 19:28:10]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-25 19:28:12]: ***  [, Level 0]: 'Quadrick' entered and joined the game
+[2021-04-25 19:28:20]: ***  [, Level 0]: 'Quadrick' has left the game
