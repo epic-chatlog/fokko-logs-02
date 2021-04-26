@@ -12486,3 +12486,6 @@
 [2021-04-25 22:01:28]: ***  [, Level 0]: 'ryanisanicon' entered and joined the game
 [2021-04-25 22:01:43]: ***  [, Level 0]: 'ryanisanicon' has left the game
 [2021-04-25 22:03:10]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-25 22:05:20]: ***  [, Level 0]: 'janrohan' entered and joined the game
+[2021-04-25 22:06:03]: ***  [, Level 0]: 'janrohan' has left the game
+[2021-04-25 22:08:10]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
