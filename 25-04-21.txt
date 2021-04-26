@@ -12499,3 +12499,6 @@
 [2021-04-25 22:22:00]: Boti. [.bad, Level 0]: hello afk bitches
 [2021-04-25 22:22:10]: ***  [, Level 0]: 'DoycE' entered and joined the game
 [2021-04-25 22:23:10]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-25 22:23:50]: ***  [, Level 0]: You are now level 28!
+[2021-04-25 22:24:37]: ***  [, Level 0]: 'DoycE' has left the game
+[2021-04-25 22:28:10]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
