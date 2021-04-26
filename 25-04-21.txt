@@ -12325,3 +12325,10 @@
 [2021-04-25 19:01:52]: ♥TAKO♥ [DogParty, Level 26]: thx :d
 [2021-04-25 19:01:56]: whutasme [, Level 0]: np
 [2021-04-25 19:02:02]: whutasme [, Level 0]: yee yee
+[2021-04-25 19:03:10]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-25 19:03:56]: whutasme [, Level 0]: i have to going sleep bye
+[2021-04-25 19:04:00]: ♥TAKO♥ [DogParty, Level 26]: bb
+[2021-04-25 19:04:01]: ♥TAKO♥ [DogParty, Level 26]: <3
+[2021-04-25 19:04:07]: ***  [, Level 0]: 'whutasme' has left the game
+[2021-04-25 19:04:07]: ***  [, Level 0]: '☺' has left the game
+[2021-04-25 19:05:30]: ***  [, Level 0]: '♥TAKO♥' has left the game
