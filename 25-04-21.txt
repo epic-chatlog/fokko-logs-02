@@ -12511,3 +12511,16 @@
 [2021-04-25 22:37:41]: ***  [, Level 0]: 'FGE' entered and joined the game
 [2021-04-25 22:38:10]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-25 22:38:54]: ***  [, Level 0]: 'h4mzq' entered and joined the game
+[2021-04-25 22:40:34]: ***  [, Level 0]: 'Axandos' entered and joined the game
+[2021-04-25 22:40:43]: ***  [, Level 0]: 'Axandos²' entered and joined the game
+[2021-04-25 22:40:47]: Chinese [, Level 25]: Axandos:
+[2021-04-25 22:41:32]: Axandos² [, Level 21]: Chinese:  alles gut
+[2021-04-25 22:41:57]: Dilara [, Level 16]: Axandos: will keine pussy sein ich sage ehrlich ich bin der weiße
+[2021-04-25 22:42:04]: Axandos [, Level 26]: was Dilara
+[2021-04-25 22:42:10]: Dilara [, Level 16]: bin Ninja
+[2021-04-25 22:42:21]: h4mzq [, Level 0]: WTF
+[2021-04-25 22:42:52]: h4mzq [, Level 0]: ?????????
+[2021-04-25 22:42:54]: h4mzq [, Level 0]: ?????????????
+[2021-04-25 22:42:55]: h4mzq [, Level 0]: ??????????
+[2021-04-25 22:43:10]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-25 22:43:21]: ***  [, Level 0]: 'nickid' entered and joined the game
