@@ -12385,3 +12385,10 @@
 [2021-04-25 20:24:32]: ***  [, Level 0]: 'coffee [D]' has left the game
 [2021-04-25 20:24:44]: ***  [, Level 0]: 'SenZe.*' has left the game
 [2021-04-25 20:25:02]: ***  [, Level 0]: 'SenZe.*' entered and joined the game
+[2021-04-25 20:28:02]: ***  [, Level 0]: '[D] SenZe.*' entered and joined the game
+[2021-04-25 20:28:10]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-25 20:28:20]: kurama [New Gen., Level 12]: NeMo:
+[2021-04-25 20:28:23]: kurama [New Gen., Level 12]: NeMo: :-:
+[2021-04-25 20:30:19]: kurama [New Gen., Level 12]: kais:
+[2021-04-25 20:30:29]: kurama [New Gen., Level 12]: kais: hwlp
+[2021-04-25 20:31:48]: ***  [, Level 0]: '[D] SenZe.*' has left the game
