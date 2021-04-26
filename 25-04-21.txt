@@ -12434,3 +12434,6 @@
 [2021-04-25 21:22:05]: ***  [, Level 0]: '(1)Vpure' has left the game
 [2021-04-25 21:22:05]: ***  [, Level 0]: '(1)VAUSA' has left the game
 [2021-04-25 21:23:10]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-25 21:23:39]: ***  [, Level 0]: 'Vpure' has left the game
+[2021-04-25 21:23:39]: ***  [, Level 0]: 'VAUSA' has left the game
+[2021-04-25 21:28:10]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
