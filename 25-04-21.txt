@@ -12471,3 +12471,6 @@
 [2021-04-25 21:42:19]: ***  [, Level 0]: '(1)Ðream' has left the game
 [2021-04-25 21:42:19]: ***  [, Level 0]: '(1)Ƭevan' has left the game
 [2021-04-25 21:43:10]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-25 21:46:59]: ***  [, Level 0]: 'kaek slozno' entered and joined the game
+[2021-04-25 21:48:10]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-25 21:48:17]: ***  [, Level 0]: '[D] kaek slozno' entered and joined the game
