@@ -12430,3 +12430,7 @@
 [2021-04-25 21:17:26]: ***  [, Level 0]: '(2)NeMo' has left the game
 [2021-04-25 21:18:06]: (1)VAUSA [, Level 0]: bob: You are a fucking cocksucker
 [2021-04-25 21:18:10]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-25 21:19:59]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-25 21:22:05]: ***  [, Level 0]: '(1)Vpure' has left the game
+[2021-04-25 21:22:05]: ***  [, Level 0]: '(1)VAUSA' has left the game
+[2021-04-25 21:23:10]: ***  [, Level 0]: [INFO] You can create an account using '/register'
