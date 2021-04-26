@@ -12710,3 +12710,58 @@
 [2021-04-25 23:19:07]: ***  [, Level 0]: 'Jerry' entered and joined the game
 [2021-04-25 23:19:10]: ***  [, Level 0]: 'Keeeper.*' entered and joined the game
 [2021-04-25 23:19:11]: ***  [, Level 0]: 'Jerry' has left the game
+[2021-04-25 23:19:17]: [D] El patron [FookinLads, Level 24]: OP|Supers: fack nicht abn
+[2021-04-25 23:19:19]: ***  [, Level 0]: 'Jerry' entered and joined the game
+[2021-04-25 23:19:20]: OP|Supers [, Level 39]: stupid?
+[2021-04-25 23:19:27]: OP|Supers [, Level 39]: ich hab nix gemacht
+[2021-04-25 23:19:43]: OP|Supers [, Level 39]: xD
+[2021-04-25 23:19:56]: OP|Supers [, Level 39]: hol mich ra us jz
+[2021-04-25 23:20:31]: OP|Supers [, Level 39]: El patron: hol mich raus
+[2021-04-25 23:20:44]: El patron [FookinLads, Level 33]: OP|Supers: DANN FACK NICHT AB
+[2021-04-25 23:20:47]: OP|Supers [, Level 39]: hdf
+[2021-04-25 23:20:56]: OP|Supers [, Level 39]: Dilara:  du köter
+[2021-04-25 23:21:00]: OP|Supers [, Level 39]: safe maiki
+[2021-04-25 23:21:01]: OP|Supers [, Level 39]: xD
+[2021-04-25 23:21:11]: Dilara [, Level 16]: OP|Supers: funwar
+[2021-04-25 23:21:13]: ***  [, Level 0]: 'DamstreY' entered and joined the game
+[2021-04-25 23:21:14]: OP|Supers [, Level 39]: ?=
+[2021-04-25 23:21:16]: ***  [, Level 0]: 'Ƭevan' entered and joined the game
+[2021-04-25 23:21:18]: ***  [, Level 0]: 'Yeng' entered and joined the game
+[2021-04-25 23:21:20]: ***  [, Level 0]: '(1)Tom' entered and joined the game
+[2021-04-25 23:21:22]: ***  [, Level 0]: 'Ðream' entered and joined the game
+[2021-04-25 23:21:34]: ***  [, Level 0]: 'ERROR' entered and joined the game
+[2021-04-25 23:21:38]: OP|Supers [, Level 39]: lass es
+[2021-04-25 23:21:39]: OP|Supers [, Level 39]: dummer hs
+[2021-04-25 23:21:42]: Dilara [, Level 16]: taser noob
+[2021-04-25 23:21:58]: ***  [, Level 0]: 'ERROR,' entered and joined the game
+[2021-04-25 23:22:13]: ***  [, Level 0]: 'Tom' has left the game
+[2021-04-25 23:22:13]: ***  [, Level 0]: 'Jerry' has left the game
+[2021-04-25 23:22:14]: ***  [, Level 0]: '(1)Tom' has left the game
+[2021-04-25 23:22:15]: OP|Supers [, Level 39]: xD
+[2021-04-25 23:22:16]: OP|Supers [, Level 39]: junge
+[2021-04-25 23:22:18]: OP|Supers [, Level 39]: warum
+[2021-04-25 23:22:28]: OP|Supers [, Level 39]: junge
+[2021-04-25 23:22:31]: Dilara [, Level 16]: köter
+[2021-04-25 23:22:33]: El patron [FookinLads, Level 33]: KOTER
+[2021-04-25 23:22:33]: ***  [, Level 0]: 'casserole :p' entered and joined the game
+[2021-04-25 23:22:35]: OP|Supers [, Level 39]: koter
+[2021-04-25 23:22:37]: Keeper.* [Chilli.*, Level 30]: DamstreY: o prosze
+[2021-04-25 23:22:39]: OP|Supers [, Level 39]: xD lern deitsch
+[2021-04-25 23:22:44]: Dilara [, Level 16]: deitsch?
+[2021-04-25 23:22:48]: OP|Supers [, Level 39]: yoa
+[2021-04-25 23:22:55]: OP|Supers [, Level 39]: schaß bifchineesen
+[2021-04-25 23:22:55]: Yeng [, Level 0]: Keeeper.*: witam
+[2021-04-25 23:22:55]: Keeper.* [Chilli.*, Level 30]: DamstreY: chodz na spawna
+[2021-04-25 23:23:03]: OP|Supers [, Level 39]: ...
+[2021-04-25 23:23:06]: DamstreY [, Level 0]: Keeeper.*: jestem
+[2021-04-25 23:23:10]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-25 23:23:13]: ***  [, Level 0]: 'Yeng' has left the game
+[2021-04-25 23:23:23]: Keeper.* [Chilli.*, Level 30]: chodz
+[2021-04-25 23:23:28]: DamstreY [, Level 0]: BEDE go maltretowal !!!
+[2021-04-25 23:23:33]: Keeper.* [Chilli.*, Level 30]: xddd
+[2021-04-25 23:23:46]: Keeper.* [Chilli.*, Level 30]: DamstreY: chodz
+[2021-04-25 23:23:52]: Keeper.* [Chilli.*, Level 30]: xd
+[2021-04-25 23:23:56]: ERROR [404, Level 76]: xD
+[2021-04-25 23:23:59]: Supers [, Level 0]: ERROR:  XDDDD
+[2021-04-25 23:24:05]: ERROR [404, Level 76]: xD
+[2021-04-25 23:24:08]: Supers [, Level 0]: warum hab nur ich überlebt
