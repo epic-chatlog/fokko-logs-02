@@ -12502,3 +12502,9 @@
 [2021-04-25 22:23:50]: ***  [, Level 0]: You are now level 28!
 [2021-04-25 22:24:37]: ***  [, Level 0]: 'DoycE' has left the game
 [2021-04-25 22:28:10]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-25 22:29:37]: ***  [, Level 0]: 'Boti.' has left the game
+[2021-04-25 22:32:40]: ***  [, Level 0]: 'bundaskenyer231' entered and joined the game
+[2021-04-25 22:33:10]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-25 22:33:31]: ***  [, Level 0]: 'bundaskenyer231' has left the game
+[2021-04-25 22:33:32]: ***  [, Level 0]: 'bundaskenyer231' entered and joined the game
+[2021-04-25 22:33:38]: ***  [, Level 0]: 'bundaskenyer231' has left the game
