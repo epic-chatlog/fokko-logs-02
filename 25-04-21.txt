@@ -12352,3 +12352,4 @@
 [2021-04-25 19:28:10]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-25 19:28:12]: ***  [, Level 0]: 'Quadrick' entered and joined the game
 [2021-04-25 19:28:20]: ***  [, Level 0]: 'Quadrick' has left the game
+[2021-04-25 19:33:10]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
