@@ -12530,3 +12530,28 @@
 [2021-04-25 22:47:22]: ***  [, Level 0]: 'Nosorozecszymek' has left the game
 [2021-04-25 22:48:02]: h4mzq [, Level 0]: KİLL
 [2021-04-25 22:48:10]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-25 22:49:29]: ***  [, Level 0]: 'Amnesia.' entered and joined the game
+[2021-04-25 22:50:04]: ***  [, Level 0]: '(1)Dilara' changed name to 'NinjaWhite'
+[2021-04-25 22:50:04]: ***  [, Level 0]: '(1)Chinese' changed name to '(1)NinjaWhite'
+[2021-04-25 22:51:32]: ***  [, Level 0]: 'Amnesia.' has left the game
+[2021-04-25 22:51:45]: Axandos² [, Level 21]: Chinese:  kennt man sich?
+[2021-04-25 22:51:51]: Chinese [, Level 25]: ehm
+[2021-04-25 22:51:56]: Axandos² [, Level 21]: Chinese:  kennt man sich?
+[2021-04-25 22:51:59]: Chinese [, Level 25]: eventuel
+[2021-04-25 22:52:05]: Axandos² [, Level 21]: wer bist du Chinese
+[2021-04-25 22:52:09]: Chinese [, Level 25]: ähm
+[2021-04-25 22:52:18]: Axandos² [, Level 21]: wer
+[2021-04-25 22:52:23]: h4mzq [, Level 0]: plz
+[2021-04-25 22:52:24]: h4mzq [, Level 0]: dont
+[2021-04-25 22:52:25]: h4mzq [, Level 0]: HOK
+[2021-04-25 22:52:27]: Chinese [, Level 25]: habe ich doch gesagt
+[2021-04-25 22:52:27]: FGE [, Level 0]: oke
+[2021-04-25 22:52:34]: Axandos² [, Level 21]: wer
+[2021-04-25 22:52:37]: Chinese [, Level 25]: Ninja
+[2021-04-25 22:53:01]: Axandos² [, Level 21]: flagge war ein friedensangebot huh?
+[2021-04-25 22:53:06]: Chinese [, Level 25]: nein
+[2021-04-25 22:53:10]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-25 22:53:16]: Chinese [, Level 25]: ich weiß das sowas shit ist
+[2021-04-25 22:53:34]: Chinese [, Level 25]: aber musste das jetzt sein?
+[2021-04-25 22:53:52]: Axandos² [, Level 21]: du hast mich gestern gekillt
+[2021-04-25 22:54:00]: Chinese [, Level 25]: versucht
