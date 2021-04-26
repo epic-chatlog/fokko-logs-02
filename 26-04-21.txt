@@ -13572,3 +13572,48 @@
 [2021-04-26 12:20:00]: MOM [, Level 29]: plot 1
 [2021-04-26 12:20:24]: ***  [, Level 0]: 'NeXus' would have timed out, but can use timeout protection now
 [2021-04-26 12:20:26]: ***  [, Level 0]: '¡ RodCYREX 神' entered and joined the game
+[2021-04-26 12:20:40]: (1)MOM [, Level 29]: free 2 jetpacks, im leaving for today. Come plot 1
+[2021-04-26 12:20:46]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-26 12:20:57]: ***  [, Level 0]: 'Cup' has left the game (Timeout)
+[2021-04-26 12:21:00]: ***  [, Level 0]: 'DeD' entered and joined the game
+[2021-04-26 12:21:05]: ***  [, Level 0]: '[D] P4Pyr0s' has left the game (Timeout Protection over)
+[2021-04-26 12:21:05]: ***  [, Level 0]: 'P4Pyr0s' has left the game (Timeout Protection over)
+[2021-04-26 12:21:06]: ***  [, Level 0]: 'JustRace' entered and joined the game
+[2021-04-26 12:21:08]: ***  [, Level 0]: 'Thyris' has left the game (Timeout Protection over)
+[2021-04-26 12:21:14]: ***  [, Level 0]: '(1)cookie' entered and joined the game
+[2021-04-26 12:21:20]: ***  [, Level 0]: 'Axandos' has left the game (Timeout)
+[2021-04-26 12:21:33]: ***  [, Level 0]: '☾★ ᶫᵒve' has left the game
+[2021-04-26 12:21:33]: ***  [, Level 0]: '💔death bed' has left the game
+[2021-04-26 12:21:40]: Anygiga [WmS, Level 5]: (1)nenny:
+[2021-04-26 12:21:44]: ***  [, Level 0]: '▒▒▒▒' has left the game (Timeout Protection over)
+[2021-04-26 12:21:44]: ***  [, Level 0]: '[D] ▒▒▒�' has left the game (Timeout Protection over)
+[2021-04-26 12:21:57]: MOM [, Level 29]: 1 jetpack left at plot 1, im leaving for today
+[2021-04-26 12:22:00]: ***  [, Level 0]: 'DeD' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-26 12:22:21]: (1)cookie [, Level 0]: wtf wrong white the game
+[2021-04-26 12:22:31]: ***  [, Level 0]: 'Cup' entered and joined the game
+[2021-04-26 12:22:37]: (1)MOM [, Level 29]: (1)cookie: ddos
+[2021-04-26 12:22:38]: JustRace [404, Level 0]: (1)cookie:  server getting ddosed
+[2021-04-26 12:22:43]: (1)cookie [, Level 0]: JustRace:  yeah
+[2021-04-26 12:22:48]: TeigHuhn [WmS, Level 12]: arigato
+[2021-04-26 12:22:52]: JustRace [404, Level 0]: (1)cookie:  fokkonaut's problems
+[2021-04-26 12:22:53]: ***  [, Level 0]: '(1)nenny' has left the game (Timeout Protection over)
+[2021-04-26 12:22:53]: ***  [, Level 0]: 'nenny' has left the game (Timeout Protection over)
+[2021-04-26 12:22:53]: (1)MOM [, Level 29]: ciao
+[2021-04-26 12:22:56]: ***  [, Level 0]: '(1)MOM' has left the game
+[2021-04-26 12:22:57]: TeigHuhn [WmS, Level 12]: MOM:
+[2021-04-26 12:22:59]: TeigHuhn [WmS, Level 12]: i am dead
+[2021-04-26 12:23:02]: (1)cookie [, Level 0]: JustRace:  yes i know
+[2021-04-26 12:23:03]: ***  [, Level 0]: 'MOM' has left the game (Timeout)
+[2021-04-26 12:23:03]: TeigHuhn [WmS, Level 12]: left
+[2021-04-26 12:23:26]: Link [\ЧՁθ/, Level 11]: im here first
+[2021-04-26 12:23:47]: ***  [, Level 0]: 'Axel' would have timed out, but can use timeout protection now
+[2021-04-26 12:23:50]: Cylox. [{TQuila}, Level 25]: lag
+[2021-04-26 12:23:53]: ***  [, Level 0]: 'Bruh.' entered and joined the game
+[2021-04-26 12:23:59]: ***  [, Level 0]: 'Axandos²' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-26 12:24:24]: ***  [, Level 0]: 'NeXus' has left the game (Timeout Protection over)
+[2021-04-26 12:24:35]: (1)cookie [, Level 0]: fokkonaut go meak your game
+[2021-04-26 12:24:38]: ***  [, Level 0]: 'TeigHuhn' has left the game (Timeout)
+[2021-04-26 12:24:38]: ***  [, Level 0]: 'Anygiga' has left the game (Timeout)
+[2021-04-26 12:25:03]: ***  [, Level 0]: 'Axandos' entered and joined the game
+[2021-04-26 12:25:16]: ***  [, Level 0]: 'lscouby' entered and joined the game
+[2021-04-26 12:25:39]: ***  [, Level 0]: '(1)cookie' has left the game
