@@ -14790,3 +14790,4 @@
 [2021-04-26 16:45:45]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-26 16:50:45]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-26 16:51:19]: ***  [, Level 0]: 'NeMo' entered and joined the game
+[2021-04-26 16:55:45]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
