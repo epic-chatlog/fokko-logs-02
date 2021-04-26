@@ -12110,3 +12110,12 @@
 [2021-04-25 17:39:08]: whutasme [, Level 0]: you know how i remove a bind  or command
 [2021-04-25 17:39:31]: whutasme [, Level 0]: ?
 [2021-04-25 17:43:10]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-25 17:48:10]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-25 17:48:15]: ***  [, Level 0]: 'Kix^_^' entered and joined the game
+[2021-04-25 17:48:19]: ***  [, Level 0]: 'Toti' entered and joined the game
+[2021-04-25 17:48:54]: ***  [, Level 0]: 'NeMo' entered and joined the game
+[2021-04-25 17:49:07]: Kix^_^ [, Level 0]: how to get money?
+[2021-04-25 17:50:12]: NeMo [, Level 27]: P4Pyr0s:
+[2021-04-25 17:50:19]: NeMo [, Level 27]: smiley boy
+[2021-04-25 17:50:43]: NeMo [, Level 27]: ☺:
+[2021-04-25 17:50:53]: whutasme [, Level 0]: ?
