@@ -12101,3 +12101,11 @@
 [2021-04-25 17:32:49]: ***  [, Level 0]: 'halfcastlaw' has left the game
 [2021-04-25 17:33:10]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-25 17:34:03]: ***  [, Level 0]: '☺' entered and joined the game
+[2021-04-25 17:37:30]: ***  [, Level 0]: 'whutasme' entered and joined the game
+[2021-04-25 17:37:36]: P4Pyr0s [FookinLads, Level 29]: whutasme:  heyy ^^
+[2021-04-25 17:37:42]: whutasme [, Level 0]: P4Pyr0s: hey
+[2021-04-25 17:37:58]: P4Pyr0s [FookinLads, Level 29]: wanna join me at police
+[2021-04-25 17:38:10]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-25 17:38:17]: ☺ [, Level 0]: yes i am actually here
+[2021-04-25 17:39:08]: whutasme [, Level 0]: you know how i remove a bind  or command
+[2021-04-25 17:39:31]: whutasme [, Level 0]: ?
