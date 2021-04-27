@@ -15167,3 +15167,6 @@
 [2021-04-26 22:45:25]: Vesorp [666, Level 26]: XD
 [2021-04-26 22:45:29]: Vesorp [666, Level 26]: go inf
 [2021-04-26 22:45:45]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-26 22:49:13]: Vesorp [666, Level 26]: Marcisten:
+[2021-04-26 22:50:18]: Vesorp [666, Level 26]: XD
+[2021-04-26 22:50:45]: ***  [, Level 0]: [INFO] You can create an account using '/register'
