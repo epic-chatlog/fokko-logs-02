@@ -18359,3 +18359,38 @@
 [2021-04-27 14:13:41]: ***  [, Level 0]: '[D] aro' has left the game
 [2021-04-27 14:13:45]: Kirito [{TQuila}, Level 41]: Does somebody has any ideas how the map could be changed?
 [2021-04-27 14:13:50]: Kiko [, Level 5]: Isegrin:
+[2021-04-27 14:13:56]: aro [, Level 0]: Kirito: delete
+[2021-04-27 14:14:01]: Kirito [{TQuila}, Level 41]: aro: huh?
+[2021-04-27 14:14:01]: ***  [, Level 0]: '[D] aro' entered and joined the game
+[2021-04-27 14:14:16]: [D] aro [, Level 0]: CoronaKilledMe: you good man
+[2021-04-27 14:14:37]: axel_ex [TrRShClNrRs, Level 31]: Brezn: hold up
+[2021-04-27 14:14:42]: axel_ex [TrRShClNrRs, Level 31]: Brezn: you're not logged in
+[2021-04-27 14:14:50]: HeavyGeneral [FookinLads, Level 45]: Flipper: na sry
+[2021-04-27 14:14:51]: Brezn [, Level 0]: axel_ex: i know
+[2021-04-27 14:15:15]: ***  [, Level 0]: aro is on a killing spree with 5 blocks
+[2021-04-27 14:15:18]: axel_ex [TrRShClNrRs, Level 31]: Isegrin: trollink moment
+[2021-04-27 14:15:33]: ***  [, Level 0]: 'CoronaKilledMe' has left the game
+[2021-04-27 14:15:43]: JxK|JoK'Air [, Level 60]: hmmm
+[2021-04-27 14:15:46]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-27 14:15:49]: axel_ex [TrRShClNrRs, Level 31]: xd
+[2021-04-27 14:16:27]: Flupper [|*MorE*|, Level 0]: ./inp_mousesence 100000
+[2021-04-27 14:16:36]: [D] aro [, Level 0]: (2)Zʷʰʸˀ: get fucked
+[2021-04-27 14:16:42]: [D] aro [, Level 0]: DerPate: come
+[2021-04-27 14:16:47]: DerPate [, Level 0]: i did nothing
+[2021-04-27 14:16:47]: Bozzkurt [SkinLover, Level 0]: inp_mousesens 100000
+[2021-04-27 14:16:50]: [D] aro [, Level 0]: DerPate: come
+[2021-04-27 14:17:02]: [D] aro [, Level 0]: grenade
+[2021-04-27 14:17:49]: ***  [, Level 0]: 'axel_ex' has left the game
+[2021-04-27 14:17:49]: ***  [, Level 0]: 'Axel ²' has left the game
+[2021-04-27 14:17:50]: Kiko [, Level 5]: Bozzkurt: the winner take the flag
+[2021-04-27 14:17:55]: Bozzkurt [SkinLover, Level 0]: ok
+[2021-04-27 14:17:59]: ☺ [, Level 0]: DerPate: help me
+[2021-04-27 14:18:03]: ***  [, Level 0]: Zʷʰʸˀ is on a killing spree with 5 blocks
+[2021-04-27 14:18:03]: ***  [, Level 0]: aro's killing spree was ended by Zʷʰʸˀ (6 blocks)
+[2021-04-27 14:18:04]: Kiko [, Level 5]: Bozzkurt: wait there is 3 fights
+[2021-04-27 14:18:16]: ***  [, Level 0]: '[D] aro' has left the game
+[2021-04-27 14:18:16]: ***  [, Level 0]: 'aro' has left the game
+[2021-04-27 14:18:36]: ***  [, Level 0]: 'Isegrin' has left the game
+[2021-04-27 14:18:37]: Bozzkurt [SkinLover, Level 0]: 10
+[2021-04-27 14:18:40]: ☺ [, Level 0]: DerPate:
+[2021-04-27 14:18:46]: Bozzkurt [SkinLover, Level 0]: self
