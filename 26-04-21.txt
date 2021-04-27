@@ -15054,3 +15054,6 @@
 [2021-04-26 20:10:45]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-26 20:15:45]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-26 20:20:45]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-26 20:25:45]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-26 20:26:14]: ***  [, Level 0]: '(1)Lord11' entered and joined the game
+[2021-04-26 20:26:44]: ***  [, Level 0]: '(2)Lord11' entered and joined the game
