@@ -15037,3 +15037,8 @@
 [2021-04-26 19:25:45]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-26 19:25:46]: ***  [, Level 0]: '(2)NeMo' entered and joined the game
 [2021-04-26 19:26:38]: ***  [, Level 0]: '(3)NeMo' entered and joined the game
+[2021-04-26 19:29:19]: ***  [, Level 0]: 'Lord11' entered and joined the game
+[2021-04-26 19:30:32]: ***  [, Level 0]: '(3)NeMo' has left the game
+[2021-04-26 19:30:45]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-26 19:31:45]: ***  [, Level 0]: '(3)NeMo' entered and joined the game
+[2021-04-26 19:31:46]: ***  [, Level 0]: 'nameless tee' entered and joined the game
