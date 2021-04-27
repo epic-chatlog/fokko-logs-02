@@ -15179,3 +15179,16 @@
 [2021-04-26 22:55:45]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-26 22:55:48]: Keeeper.* [Chilli.*, Level 26]: Vesorp: chuj
 [2021-04-26 22:55:57]: (1)Vesorp [666, Level 20]: jebać stare baby
+[2021-04-26 22:56:05]: Keeeper.* [Chilli.*, Level 26]: jebać disa
+[2021-04-26 22:56:06]: Keeeper.* [Chilli.*, Level 26]: xd
+[2021-04-26 22:56:07]: Vesorp [666, Level 26]: też
+[2021-04-26 22:58:17]: Vesorp [666, Level 26]: kurwa
+[2021-04-26 22:58:21]: Vesorp [666, Level 26]: chodź tutaj na chwile XD
+[2021-04-26 22:58:25]: (1)Vesorp [666, Level 20]: albo nie ważne
+[2021-04-26 22:58:37]: Keeper.* [Chilli.*, Level 30]: xd
+[2021-04-26 22:59:09]: ***  [, Level 0]: 122. (1)Vesorp Time: 00:43.20, requested by (1)Vesorp
+[2021-04-26 23:00:19]: Keeper.* [Chilli.*, Level 30]: Vesorp: zosta go ja mam z nim wara
+[2021-04-26 23:00:26]: (1)Vesorp [666, Level 20]: to ty zostaw go
+[2021-04-26 23:00:31]: (1)Vesorp [666, Level 20]: XD
+[2021-04-26 23:00:45]: (1)Vesorp [666, Level 20]: on nic nie umie a ty go napierdalasz XD
+[2021-04-26 23:00:45]: ***  [, Level 0]: [INFO] You can create an account using '/register'
