@@ -15087,3 +15087,16 @@
 [2021-04-26 22:11:34]: ***  [, Level 0]: '(1)Vesorp' entered and joined the game
 [2021-04-26 22:14:11]: ***  [, Level 0]: Vesorp finished in: 2 minute(s) 58.76 second(s)
 [2021-04-26 22:14:17]: ***  [, Level 0]: (1)Vesorp finished in: 2 minute(s) 12.22 second(s)
+[2021-04-26 22:15:38]: NeMo [, Level 27]: Vesorp: hey
+[2021-04-26 22:15:42]: NeMo [, Level 27]: good morning
+[2021-04-26 22:15:45]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-26 22:15:50]: (1)Vesorp [666, Level 20]: ?
+[2021-04-26 22:15:54]: NeMo [, Level 27]: ?
+[2021-04-26 22:17:00]: (1)Vesorp [666, Level 20]: u toxic player
+[2021-04-26 22:17:04]: NeMo [, Level 27]: who
+[2021-04-26 22:17:17]: NeMo [, Level 27]: me?
+[2021-04-26 22:17:25]: ***  [, Level 0]: 'frankhawk12' entered and joined the game
+[2021-04-26 22:17:27]: Vesorp [666, Level 26]: ye
+[2021-04-26 22:17:28]: NeMo [, Level 27]: oh thank u <3
+[2021-04-26 22:17:33]: frankhawk12 [, Level 0]: yooooooooooooooooooooooooooooooo
+[2021-04-26 22:17:39]: NeMo [, Level 27]: yooooooooooooooooooooooooooooooooooo
