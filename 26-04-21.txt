@@ -14880,3 +14880,8 @@
 [2021-04-26 17:37:46]: NeMo [, Level 27]: eZ
 [2021-04-26 17:37:51]: Rєĸσ✘ [R!FムE, Level 0]: Souly: bot
 [2021-04-26 17:37:57]: Souly [real noby, Level 61]: u
+[2021-04-26 17:38:23]: NeMo [, Level 27]: BB
+[2021-04-26 17:38:25]: NeMo [, Level 27]: RR
+[2021-04-26 17:38:27]: NeMo [, Level 27]: TR
+[2021-04-26 17:38:42]: ***  [, Level 0]: 'Rєĸσ✘' has left the game
+[2021-04-26 17:40:45]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
