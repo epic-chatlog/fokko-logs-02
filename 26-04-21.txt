@@ -15058,3 +15058,4 @@
 [2021-04-26 20:26:14]: ***  [, Level 0]: '(1)Lord11' entered and joined the game
 [2021-04-26 20:26:44]: ***  [, Level 0]: '(2)Lord11' entered and joined the game
 [2021-04-26 20:30:45]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-26 20:35:45]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
