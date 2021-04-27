@@ -15070,3 +15070,5 @@
 [2021-04-26 21:05:45]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-26 21:07:06]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-26 21:10:45]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-26 21:15:45]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-26 21:18:26]: ***  [, Level 0]: ':/ MX' entered and joined the game
