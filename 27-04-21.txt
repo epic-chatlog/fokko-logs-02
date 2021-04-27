@@ -19212,3 +19212,32 @@
 [2021-04-27 15:48:49]: (1)[D] P4Pyr0s [FookinLads, Level 6]: xD
 [2021-04-27 15:49:04]: (1)Kirito [, Level 0]: warte ich brauche musik
 [2021-04-27 15:49:11]: (1)[D] P4Pyr0s [FookinLads, Level 6]: ...
+[2021-04-27 15:50:05]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
+[2021-04-27 15:50:09]: (1)Kirito [, Level 0]: poh
+[2021-04-27 15:50:15]: (1)[D] P4Pyr0s [FookinLads, Level 6]: Kirito:  btw bitte las das mit dem danach ncoh 10 mal killen danke ^^
+[2021-04-27 15:50:22]: (1)Kirito [, Level 0]: kk
+[2021-04-27 15:50:46]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-27 15:51:56]: (1)[D] P4Pyr0s [FookinLads, Level 6]: xD#
+[2021-04-27 15:52:03]: (1)Kirito [, Level 0]: wow xD
+[2021-04-27 15:52:35]: (1)Kirito [, Level 0]: xDDD
+[2021-04-27 15:52:35]: ***  [, Level 0]: 'Louis's' entered and joined the game
+[2021-04-27 15:52:36]: ***  [, Level 0]: 'aro' entered and joined the game
+[2021-04-27 15:52:38]: ***  [, Level 0]: '(1)☺' entered and joined the game
+[2021-04-27 15:52:55]: (1)☺ [, Level 0]: WTFFF
+[2021-04-27 15:52:57]: ***  [, Level 0]: '☺' would have timed out, but can use timeout protection now
+[2021-04-27 15:52:57]: ***  [, Level 0]: 'whutasme' would have timed out, but can use timeout protection now
+[2021-04-27 15:53:08]: ***  [, Level 0]: '(1)whutasme' entered and joined the game
+[2021-04-27 15:53:35]: (1)☺ [, Level 0]: wtfffff
+[2021-04-27 15:53:40]: aro [, Level 0]: ?
+[2021-04-27 15:53:43]: (1)☺ [, Level 0]: i crashed
+[2021-04-27 15:53:46]: aro [, Level 0]: oh
+[2021-04-27 15:54:00]: (1)[D] P4Pyr0s [FookinLads, Level 6]: xD#
+[2021-04-27 15:54:03]: (1)☺ [, Level 0]: why ☺ its me how
+[2021-04-27 15:54:08]: (1)☺ [, Level 0]: WTF
+[2021-04-27 15:54:09]: aro [, Level 0]: lmao
+[2021-04-27 15:54:21]: ***  [, Level 0]: '(1)whutasme' has left the game
+[2021-04-27 15:54:21]: ***  [, Level 0]: '(1)☺' has left the game
+[2021-04-27 15:54:22]: aro [, Level 0]: (1)☺: it should timeout soon
+[2021-04-27 15:54:31]: ***  [, Level 0]: '(1)☺' entered and joined the game
+[2021-04-27 15:54:34]: aro [, Level 0]: (1)☺: it should timeout soon
+[2021-04-27 15:54:35]: (1)☺ [, Level 0]: OMMGM WTF
