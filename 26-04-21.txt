@@ -15241,3 +15241,8 @@
 [2021-04-26 23:16:41]: ***  [, Level 0]: 'Keeeper.*' has left the game (Timeout)
 [2021-04-26 23:16:41]: ***  [, Level 0]: 'Keeper.*' has left the game (Timeout)
 [2021-04-26 23:20:45]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-26 23:22:19]: (1)Vesorp [666, Level 20]: Marcisten:
+[2021-04-26 23:23:30]: (1)Vesorp [666, Level 20]: take
+[2021-04-26 23:24:02]: (1)Vesorp [666, Level 20]: where u go
+[2021-04-26 23:24:05]: Marcisten Dummy [Dummies, Level 26]: bank
+[2021-04-26 23:25:45]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
