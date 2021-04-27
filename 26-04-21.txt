@@ -15140,3 +15140,12 @@
 [2021-04-26 22:35:37]: Vesorp [666, Level 26]: wait
 [2021-04-26 22:35:39]: Marcisten Dummy [Dummies, Level 26]: okey
 [2021-04-26 22:35:45]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-26 22:37:06]: (1)Vesorp [666, Level 20]: fuck
+[2021-04-26 22:38:05]: ***  [, Level 0]: Vesorp finished in: 0 minute(s) 45.64 second(s)
+[2021-04-26 22:38:37]: Vesorp [666, Level 26]: Marcisten Dummy:
+[2021-04-26 22:38:38]: Vesorp [666, Level 26]: wake up
+[2021-04-26 22:38:47]: Vesorp [666, Level 26]: Marcisten Dummy:
+[2021-04-26 22:38:56]: Vesorp [666, Level 26]: ;-;
+[2021-04-26 22:39:30]: ***  [, Level 0]: (1)Vesorp finished in: 18 minute(s)  7.96 second(s)
+[2021-04-26 22:39:50]: (1)Vesorp [666, Level 20]: Marcisten Dummy: ...
+[2021-04-26 22:40:45]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
