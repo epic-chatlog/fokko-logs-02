@@ -14857,3 +14857,6 @@
 [2021-04-26 17:11:28]: ***  [, Level 0]: 's 🅱 e v e' has left the game
 [2021-04-26 17:11:46]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
 [2021-04-26 17:15:45]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-26 17:20:45]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-26 17:22:18]: ***  [, Level 0]: 'sun.slow(y)' has left the game (Timeout)
+[2021-04-26 17:22:18]: ***  [, Level 0]: 'Niemand' has left the game (Timeout)
