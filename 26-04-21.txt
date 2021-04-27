@@ -15126,3 +15126,17 @@
 [2021-04-26 22:29:56]: Vesorp [666, Level 26]: XDXDXD
 [2021-04-26 22:30:03]: Vesorp [666, Level 26]: (3)NeMo:
 [2021-04-26 22:30:45]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-26 22:31:36]: ***  [, Level 0]: Vesorp finished in: 0 minute(s) 39.02 second(s)
+[2021-04-26 22:31:36]: ***  [, Level 0]: New record:  1.40 second(s) better.
+[2021-04-26 22:32:40]: ***  [, Level 0]: 'Marcisten' entered and joined the game
+[2021-04-26 22:32:46]: Vesorp [666, Level 26]: hello Marcisten
+[2021-04-26 22:32:48]: ***  [, Level 0]: 'Marcisten Dummy' entered and joined the game
+[2021-04-26 22:32:50]: Marcisten Dummy [Dummies, Level 0]: hi Vesorp
+[2021-04-26 22:32:51]: (1)Vesorp [666, Level 20]: come
+[2021-04-26 22:34:51]: ***  [, Level 0]: Vesorp finished in: 1 minute(s)  2.08 second(s)
+[2021-04-26 22:34:52]: ***  [, Level 0]: Marcisten finished in: 1 minute(s) 58.08 second(s)
+[2021-04-26 22:34:52]: ***  [, Level 0]: New record: 5 minute(s) 34.36 second(s) better.
+[2021-04-26 22:34:56]: ***  [, Level 0]: Marcisten Dummy finished in: 2 minute(s)  5.00 second(s)
+[2021-04-26 22:35:37]: Vesorp [666, Level 26]: wait
+[2021-04-26 22:35:39]: Marcisten Dummy [Dummies, Level 26]: okey
+[2021-04-26 22:35:45]: ***  [, Level 0]: [INFO] You can create an account using '/register'
