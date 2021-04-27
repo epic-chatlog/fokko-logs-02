@@ -14791,3 +14791,23 @@
 [2021-04-26 16:50:45]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-26 16:51:19]: ***  [, Level 0]: 'NeMo' entered and joined the game
 [2021-04-26 16:55:45]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-26 17:00:39]: ***  [, Level 0]: 's 🅱 e v e' entered and joined the game
+[2021-04-26 17:00:45]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-26 17:00:47]: s 🅱 e v e [, Level 0]: ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+[2021-04-26 17:00:49]: NeMo [, Level 27]: s 🅱 e v e:  help
+[2021-04-26 17:00:50]: NeMo [, Level 27]: wtf
+[2021-04-26 17:00:54]: s 🅱 e v e [, Level 0]: NeMo: what
+[2021-04-26 17:00:58]: NeMo [, Level 27]: HELP
+[2021-04-26 17:01:04]: s 🅱 e v e [, Level 0]: ok
+[2021-04-26 17:01:09]: ***  [, Level 0]: '(1)NeMo' entered and joined the game
+[2021-04-26 17:01:28]: s 🅱 e v e [, Level 0]: NeMo:
+[2021-04-26 17:01:31]: NeMo [, Level 27]: what
+[2021-04-26 17:01:38]: s 🅱 e v e [, Level 0]: NeMo: can you gimme that beauty flag
+[2021-04-26 17:01:42]: NeMo [, Level 27]: sry
+[2021-04-26 17:01:44]: s 🅱 e v e [, Level 0]: :C
+[2021-04-26 17:02:05]: s 🅱 e v e [, Level 0]: oh
+[2021-04-26 17:02:05]: NeMo [, Level 27]: xD
+[2021-04-26 17:02:16]: NeMo [, Level 27]: (1)Souly:
+[2021-04-26 17:02:40]: s 🅱 e v e [, Level 0]: wow
+[2021-04-26 17:02:50]: s 🅱 e v e [, Level 0]: i saved you NeMo
+[2021-04-26 17:02:57]: NeMo [, Level 27]: ty
