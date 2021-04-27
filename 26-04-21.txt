@@ -15077,3 +15077,4 @@
 [2021-04-26 21:30:45]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-26 21:35:45]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-26 21:40:45]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-26 21:45:45]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
