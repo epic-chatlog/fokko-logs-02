@@ -15238,3 +15238,6 @@
 [2021-04-26 23:15:44]: (1)Vesorp [666, Level 20]: to tak litr wypiłem
 [2021-04-26 23:15:45]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-26 23:15:48]: (1)Vesorp [666, Level 20]: bo co to 2 na 3
+[2021-04-26 23:16:41]: ***  [, Level 0]: 'Keeeper.*' has left the game (Timeout)
+[2021-04-26 23:16:41]: ***  [, Level 0]: 'Keeper.*' has left the game (Timeout)
+[2021-04-26 23:20:45]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
