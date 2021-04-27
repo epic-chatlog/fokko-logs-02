@@ -15083,3 +15083,7 @@
 [2021-04-26 22:00:45]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-26 22:05:45]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-26 22:10:19]: ***  [, Level 0]: 'Vesorp' entered and joined the game
+[2021-04-26 22:10:45]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-26 22:11:34]: ***  [, Level 0]: '(1)Vesorp' entered and joined the game
+[2021-04-26 22:14:11]: ***  [, Level 0]: Vesorp finished in: 2 minute(s) 58.76 second(s)
+[2021-04-26 22:14:17]: ***  [, Level 0]: (1)Vesorp finished in: 2 minute(s) 12.22 second(s)
