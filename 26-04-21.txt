@@ -15065,3 +15065,4 @@
 [2021-04-26 20:42:35]: ***  [, Level 0]: '(2)Lord11' has left the game
 [2021-04-26 20:45:45]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-26 20:50:45]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-26 20:55:45]: ***  [, Level 0]: [INFO] You can create an account using '/register'
