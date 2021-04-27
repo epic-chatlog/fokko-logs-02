@@ -15254,3 +15254,8 @@
 [2021-04-26 23:30:45]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-26 23:33:39]: ***  [, Level 0]: 'ReXi' entered and joined the game
 [2021-04-26 23:35:45]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-26 23:38:36]: ***  [, Level 0]: 'Axandos' entered and joined the game
+[2021-04-26 23:38:44]: ***  [, Level 0]: 'Axandos²' entered and joined the game
+[2021-04-26 23:40:02]: ReXi [, Level 0]: Ðream: u coming?
+[2021-04-26 23:40:45]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-26 23:41:09]: Axandos² [, Level 21]: ReXi:  lang nichts von dir gehört, wie gehts
