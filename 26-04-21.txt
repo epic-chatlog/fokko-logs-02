@@ -15108,3 +15108,21 @@
 [2021-04-26 22:22:46]: NeMo [, Level 27]: lmfaooooo
 [2021-04-26 22:23:37]: Vesorp [666, Level 26]: I'm going to drink coffee...
 [2021-04-26 22:24:17]: ***  [, Level 0]: 'frankhawk12' has left the game
+[2021-04-26 22:25:45]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-26 22:27:04]: ***  [, Level 0]: ':/ MX' has left the game
+[2021-04-26 22:27:07]: ***  [, Level 0]: ':/ MX' entered and joined the game
+[2021-04-26 22:27:11]: ***  [, Level 0]: Vesorp finished in: 0 minute(s) 40.42 second(s)
+[2021-04-26 22:27:11]: ***  [, Level 0]: New record: 2 minute(s)  0.46 second(s) better.
+[2021-04-26 22:27:17]: ***  [, Level 0]: ':/ MX' has left the game
+[2021-04-26 22:27:19]: ***  [, Level 0]: ':/ MX' entered and joined the game
+[2021-04-26 22:27:34]: ***  [, Level 0]: ':/ MX' has left the game
+[2021-04-26 22:27:36]: ***  [, Level 0]: ':/ MX' entered and joined the game
+[2021-04-26 22:27:47]: ***  [, Level 0]: ':/ MX' has left the game
+[2021-04-26 22:27:50]: ***  [, Level 0]: ':/ MX' entered and joined the game
+[2021-04-26 22:28:24]: ***  [, Level 0]: 'Vesorp' finished the special race!
+[2021-04-26 22:28:24]: ***  [, Level 0]: 'Marcisten' entered and joined the game
+[2021-04-26 22:28:41]: ***  [, Level 0]: 'Marcisten' has left the game
+[2021-04-26 22:29:12]: ***  [, Level 0]: ':/ MX' has left the game (Timeout)
+[2021-04-26 22:29:56]: Vesorp [666, Level 26]: XDXDXD
+[2021-04-26 22:30:03]: Vesorp [666, Level 26]: (3)NeMo:
+[2021-04-26 22:30:45]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
