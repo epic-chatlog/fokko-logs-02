@@ -14885,3 +14885,4 @@
 [2021-04-26 17:38:27]: NeMo [, Level 27]: TR
 [2021-04-26 17:38:42]: ***  [, Level 0]: 'Rєĸσ✘' has left the game
 [2021-04-26 17:40:45]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-26 17:45:45]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
