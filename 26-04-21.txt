@@ -15063,3 +15063,4 @@
 [2021-04-26 20:42:06]: ***  [, Level 0]: '(1)Lord11' has left the game
 [2021-04-26 20:42:08]: ***  [, Level 0]: 'Lord11' has left the game
 [2021-04-26 20:42:35]: ***  [, Level 0]: '(2)Lord11' has left the game
+[2021-04-26 20:45:45]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
