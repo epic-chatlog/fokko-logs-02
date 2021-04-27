@@ -19555,3 +19555,8 @@
 [2021-04-27 16:38:17]: ***  [, Level 0]: 'JxK|JoK'Air' has left the game
 [2021-04-27 16:38:27]: s 🅱 e v e [Scorpiøn, Level 7]: F JxK|JoK'Air
 [2021-04-27 16:39:03]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
+[2021-04-27 16:40:19]: ***  [, Level 0]: 'Higgi₂' has left the game
+[2021-04-27 16:40:19]: ***  [, Level 0]: 'Higgi' has left the game
+[2021-04-27 16:40:45]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-27 16:43:19]: ***  [, Level 0]: 'ChilerDragon' has left the game (Timeout)
+[2021-04-27 16:43:20]: ***  [, Level 0]: 'd' entered and joined the game
