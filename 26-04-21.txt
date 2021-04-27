@@ -15012,3 +15012,4 @@
 [2021-04-26 18:44:44]: ***  [, Level 0]: 'kais' has left the game (Timeout Protection over)
 [2021-04-26 18:45:45]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-26 18:50:45]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-26 18:55:45]: ***  [, Level 0]: [INFO] You can create an account using '/register'
