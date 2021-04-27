@@ -15046,3 +15046,4 @@
 [2021-04-26 19:35:45]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-26 19:36:09]: ***  [, Level 0]: '(3)NeMo' entered and joined the game
 [2021-04-26 19:40:45]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-26 19:45:45]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
