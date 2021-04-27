@@ -14998,3 +14998,6 @@
 [2021-04-26 18:24:01]: NeMo [, Level 27]: lmao
 [2021-04-26 18:25:45]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-26 18:28:36]: ***  [, Level 0]: 'sun.slow(y)' has left the game
+[2021-04-26 18:30:23]: ***  [, Level 0]: '(1)Souly' has left the game
+[2021-04-26 18:30:23]: ***  [, Level 0]: '(1)SoulyD' has left the game
+[2021-04-26 18:30:45]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
