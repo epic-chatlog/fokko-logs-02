@@ -15252,3 +15252,5 @@
 [2021-04-26 23:28:31]: (1)Vesorp [666, Level 20]: :D
 [2021-04-26 23:28:37]: (1)Vesorp [666, Level 20]: Ðream:
 [2021-04-26 23:30:45]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-26 23:33:39]: ***  [, Level 0]: 'ReXi' entered and joined the game
+[2021-04-26 23:35:45]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
