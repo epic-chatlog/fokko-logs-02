@@ -15009,3 +15009,5 @@
 [2021-04-26 18:40:44]: ***  [, Level 0]: '(1)kais' has left the game (Timeout)
 [2021-04-26 18:40:44]: ***  [, Level 0]: 'kais' would have timed out, but can use timeout protection now
 [2021-04-26 18:40:45]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-26 18:44:44]: ***  [, Level 0]: 'kais' has left the game (Timeout Protection over)
+[2021-04-26 18:45:45]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
