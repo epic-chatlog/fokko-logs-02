@@ -15214,3 +15214,27 @@
 [2021-04-26 23:10:40]: ***  [, Level 0]: 'the last golub' has left the game
 [2021-04-26 23:10:40]: ***  [, Level 0]: 'the last kozlik' has left the game
 [2021-04-26 23:10:45]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-26 23:12:43]: (1)Vesorp [666, Level 20]: Keeeper.*: jesteś?
+[2021-04-26 23:12:50]: Keeper.* [Chilli.*, Level 31]: Vesorp: ta
+[2021-04-26 23:12:54]: (1)Vesorp [666, Level 20]: jaki kierunek?
+[2021-04-26 23:12:59]: Keeper.* [Chilli.*, Level 31]: mechanik
+[2021-04-26 23:13:02]: (1)Vesorp [666, Level 20]: kurwa wiedziałem
+[2021-04-26 23:13:10]: (1)Vesorp [666, Level 20]: każdy na to idzie
+[2021-04-26 23:13:21]: (1)Vesorp [666, Level 20]: nie rozumiem
+[2021-04-26 23:13:21]: Keeeper.* [Chilli.*, Level 26]: najlepiej
+[2021-04-26 23:13:26]: (1)Vesorp [666, Level 20]: no nie wiem
+[2021-04-26 23:13:31]: (1)Vesorp [666, Level 20]: ja na gastro
+[2021-04-26 23:13:36]: (1)Vesorp [666, Level 20]: i jest git
+[2021-04-26 23:13:58]: Keeper.* [Chilli.*, Level 31]: jak mój kolega lubi jeść i na gastro poszedł
+[2021-04-26 23:14:15]: (1)Vesorp [666, Level 20]: a kto nie lubi jeść
+[2021-04-26 23:14:35]: Keeper.* [Chilli.*, Level 31]: japierdole
+[2021-04-26 23:14:43]: Keeper.* [Chilli.*, Level 31]: 2 dni do 19
+[2021-04-26 23:14:50]: Keeper.* [Chilli.*, Level 31]: będzie pite
+[2021-04-26 23:15:04]: (1)Vesorp [666, Level 20]: ja w sobote
+[2021-04-26 23:15:06]: (1)Vesorp [666, Level 20]: piłem
+[2021-04-26 23:15:17]: Keeper.* [Chilli.*, Level 31]: coś tam pil
+[2021-04-26 23:15:24]: (1)Vesorp [666, Level 20]: 4 żubry
+[2021-04-26 23:15:33]: (1)Vesorp [666, Level 20]: i 2 litry były
+[2021-04-26 23:15:44]: (1)Vesorp [666, Level 20]: to tak litr wypiłem
+[2021-04-26 23:15:45]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-26 23:15:48]: (1)Vesorp [666, Level 20]: bo co to 2 na 3
