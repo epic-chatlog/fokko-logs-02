@@ -14902,3 +14902,4 @@
 [2021-04-26 17:50:45]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-26 17:53:12]: ***  [, Level 0]: 'sun.slow(y)' has left the game
 [2021-04-26 17:55:45]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-26 18:00:45]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
