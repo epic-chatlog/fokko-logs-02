@@ -20569,3 +20569,14 @@
 [2021-04-28 15:43:58]: ***  [, Level 0]: 'adam' has left the game
 [2021-04-28 15:45:46]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-28 15:50:46]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-28 15:52:36]: Seaber [, Level 32]: kais: u alive?
+[2021-04-28 15:52:53]: ***  [, Level 0]: 'HardreenClutch' entered and joined the game
+[2021-04-28 15:53:01]: (1)kais [, Level 59]: Seaber: yes ?
+[2021-04-28 15:53:56]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-28 15:54:20]: ***  [, Level 0]: 'Devastator' entered and joined the game
+[2021-04-28 15:55:20]: kais [, Level 66]: GODLIKe: ?
+[2021-04-28 15:55:36]: kais [, Level 66]: GODLIKe: u want afk ?
+[2021-04-28 15:55:41]: GODLIKe [, Level 44]: kais: no
+[2021-04-28 15:55:44]: GODLIKe [, Level 44]: kais: ı just fun
+[2021-04-28 15:55:46]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-28 15:55:47]: kais [, Level 66]: k
