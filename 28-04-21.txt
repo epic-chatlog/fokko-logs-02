@@ -19488,3 +19488,19 @@
 [2021-04-28 13:35:26]: ***  [, Level 0]: 'drago' has left the game (Timeout)
 [2021-04-28 13:35:26]: ***  [, Level 0]: 'xalina' has left the game (Timeout)
 [2021-04-28 13:35:46]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-28 13:36:37]: ***  [, Level 0]: 'Kirito' entered and joined the game
+[2021-04-28 13:37:46]: ***  [, Level 0]: 'nenny' entered and joined the game
+[2021-04-28 13:37:50]: ***  [, Level 0]: '(1)Cylox' entered and joined the game
+[2021-04-28 13:37:50]: ***  [, Level 0]: '(1)Cylox' has left the game
+[2021-04-28 13:38:31]: ***  [, Level 0]: 'nenny' has left the game
+[2021-04-28 13:38:54]: Cylox. [{TQuila}, Level 25]: Senpaii: help me
+[2021-04-28 13:38:59]: Senpaii [, Level 0]: i cant sry
+[2021-04-28 13:39:09]: Senpaii [, Level 0]: its to hard
+[2021-04-28 13:39:09]: ***  [, Level 0]: '(1)Cylox' entered and joined the game
+[2021-04-28 13:39:46]: Kirito [{TQuila}, Level 42]: Cylox: omg rip
+[2021-04-28 13:39:55]: Kirito [{TQuila}, Level 42]: Cylox:
+[2021-04-28 13:40:04]: Kirito [{TQuila}, Level 42]: wtf this laggs :D
+[2021-04-28 13:40:13]: Kirito [{TQuila}, Level 42]: i hate it
+[2021-04-28 13:40:18]: ***  [, Level 0]: 'Devastator' would have timed out, but can use timeout protection now
+[2021-04-28 13:40:18]: ***  [, Level 0]: 'HardreenClutch' would have timed out, but can use timeout protection now
+[2021-04-28 13:40:46]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
