@@ -20881,3 +20881,9 @@
 [2021-04-27 19:30:40]: PL|xyzmarek [, Level 8]: good
 [2021-04-27 19:30:45]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-27 19:30:49]: sun.slow(y) [FookinLads, Level 35]: TeigHuhn: HAB GEADDET
+[2021-04-27 19:33:15]: Anygiga [, Level 6]: Bruh.:  you started
+[2021-04-27 19:33:23]: Bruh. [Blood Day, Level 11]: xD
+[2021-04-27 19:35:02]: ***  [, Level 0]: 'altostratus22' entered and joined the game
+[2021-04-27 19:35:45]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-27 19:36:17]: PL|xyzmarek [, Level 8]: wttf my hammer
+[2021-04-27 19:36:19]: PL|xyzmarek [, Level 8]: XD
