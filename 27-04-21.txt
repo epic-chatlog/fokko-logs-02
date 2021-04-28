@@ -22081,3 +22081,21 @@
 [2021-04-27 22:31:46]: SelfReport [\ЧՁθ/, Level 13]: press 2 times f3
 [2021-04-27 22:32:14]: homeless tee [, Level 1]: doesnt work
 [2021-04-27 22:32:20]: homeless tee [, Level 1]: which menu u mean ?
+[2021-04-27 22:33:30]: ***  [, Level 0]: 'homeless tee' has left the game
+[2021-04-27 22:34:23]: ***  [, Level 0]: 'Oh Nonames!' entered and joined the game
+[2021-04-27 22:34:26]: ***  [, Level 0]: 'Oh Nonames!' has left the game
+[2021-04-27 22:34:59]: ***  [, Level 0]: 'Ksler' changed name to 'Whouse'
+[2021-04-27 22:35:03]: ***  [, Level 0]: 'S Y T H N' entered and joined the game
+[2021-04-27 22:35:22]: SelfReport [\ЧՁθ/, Level 13]: S Y T H N: hello
+[2021-04-27 22:35:43]: SelfReport [\ЧՁθ/, Level 13]: S Y T H N: why u are not in clan
+[2021-04-27 22:35:45]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-27 22:35:59]: S Y T H N [, Level 37]: like?
+[2021-04-27 22:36:03]: SelfReport [\ЧՁθ/, Level 13]: idk
+[2021-04-27 22:36:09]: S Y T H N [, Level 37]: which clan?
+[2021-04-27 22:36:22]: (D)le_trackers [Limoncello, Level 1]: im come my cat tomited
+[2021-04-27 22:36:27]: SelfReport [\ЧՁθ/, Level 13]: S Y T H N: nenny It's New Member Clan \ЧՁθ/
+[2021-04-27 22:36:36]: S Y T H N [, Level 37]: okey?
+[2021-04-27 22:37:38]: SelfReport [\ЧՁθ/, Level 13]: @everyone I AFK 1-5 minutes
+[2021-04-27 22:37:43]: le_trackers [Limoncello, Level 6]: no
+[2021-04-27 22:37:59]: SelfReport [\ЧՁθ/, Level 13]: @everyone I AFK 1-5 minutes
+[2021-04-27 22:38:09]: le_trackers [Limoncello, Level 6]: SelfReport:
