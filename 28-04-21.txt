@@ -19657,3 +19657,45 @@
 [2021-04-28 14:00:53]: Cylox. [{TQuila}, Level 25]: wtf
 [2021-04-28 14:00:54]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
 [2021-04-28 14:00:54]: Cylox. [{TQuila}, Level 25]: lafg
+[2021-04-28 14:01:07]: zilly dummy [, Level 0]: Help
+[2021-04-28 14:01:19]: ***  [, Level 0]: 'nenny' entered and joined the game
+[2021-04-28 14:01:32]: zilly dummy [, Level 0]: Help
+[2021-04-28 14:01:53]: ***  [, Level 0]: 'Virus' entered and joined the game
+[2021-04-28 14:01:54]: ***  [, Level 0]: 'Raidon' entered and joined the game
+[2021-04-28 14:01:55]: zilly dummy [, Level 0]: Im Chill
+[2021-04-28 14:02:00]: Virus [, Level 0]: u nub
+[2021-04-28 14:02:09]: ***  [, Level 0]: 'Virus' has left the game
+[2021-04-28 14:02:15]: zilly dummy [, Level 0]: Help
+[2021-04-28 14:02:25]: ***  [, Level 0]: 'Raidon's Pet' entered and joined the game
+[2021-04-28 14:02:36]: Isegrin [, Level 55]: prank
+[2021-04-28 14:02:47]: (1)Toniloni [\ЧՁθ/, Level 0]: Isegrin:  helping chillerdragon isnt a prank
+[2021-04-28 14:03:01]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-28 14:03:02]: Isegrin [, Level 55]: when
+[2021-04-28 14:03:14]: (1)Toniloni [\ЧՁθ/, Level 0]: this day
+[2021-04-28 14:03:17]: (1)Toniloni [\ЧՁθ/, Level 0]: all guys was dead
+[2021-04-28 14:03:25]: (1)Toniloni [\ЧՁθ/, Level 0]: and you chill with chillerdragon
+[2021-04-28 14:03:31]: nenny [\ЧՁθ/, Level 14]: Cylox:  portal yetkisi 10 euromu
+[2021-04-28 14:03:42]: nenny [\ЧՁθ/, Level 14]: sen para mı verdin harbi
+[2021-04-28 14:03:43]: Isegrin [, Level 55]: (1)Toniloni: I helped those guys, who where dead xD
+[2021-04-28 14:03:50]: Isegrin [, Level 55]: (1)Toniloni: and it was so laggy
+[2021-04-28 14:03:54]: (1)Toniloni [\ЧՁθ/, Level 0]: and you maked me in a prison
+[2021-04-28 14:03:56]: (1)Toniloni [\ЧՁθ/, Level 0]: this day
+[2021-04-28 14:04:01]: Cylox. [{TQuila}, Level 25]: xD
+[2021-04-28 14:04:02]: zilly dummy [, Level 0]: 2. Portal
+[2021-04-28 14:04:03]: Cylox. [{TQuila}, Level 25]: I like turtles.
+[2021-04-28 14:04:03]: Isegrin [, Level 55]: (1)Toniloni: prison = prank xD
+[2021-04-28 14:04:07]: Raidon [TrRShCINrRs, Level 21]: Cylox: portalmı var sende
+[2021-04-28 14:04:13]: (1)Toniloni [\ЧՁθ/, Level 0]: 300 second waiting not a nice prank
+[2021-04-28 14:04:23]: Isegrin [, Level 55]: soleri1: xaxaaxa
+[2021-04-28 14:04:27]: Isegrin [, Level 55]: (1)Toniloni: best
+[2021-04-28 14:04:30]: soleri1 [, Level 24]: Isegrin: xd
+[2021-04-28 14:04:40]: ***  [, Level 0]: '(1)soleri1' entered and joined the game
+[2021-04-28 14:05:04]: Cylox. [{TQuila}, Level 25]: aaaa
+[2021-04-28 14:05:08]: Isegrin [, Level 55]: soleri1: nub
+[2021-04-28 14:05:42]: Cylox. [{TQuila}, Level 25]: oow sad
+[2021-04-28 14:05:45]: nenny [\ЧՁθ/, Level 14]: Senpaii:
+[2021-04-28 14:05:46]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-28 14:05:51]: nenny [\ЧՁθ/, Level 14]: Anygiga:
+[2021-04-28 14:05:53]: ***  [, Level 0]: '(1)Raidon' entered and joined the game
+[2021-04-28 14:05:59]: ***  [, Level 0]: 'Isegrin' has left the game
+[2021-04-28 14:05:59]: (1)soleri1 [, Level 0]: zilly dummy: don't dead
