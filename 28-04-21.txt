@@ -20623,3 +20623,6 @@
 [2021-04-28 16:10:12]: ***  [, Level 0]: 'Mondaa' entered and joined the game
 [2021-04-28 16:10:45]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-28 16:11:02]: ***  [, Level 0]: '.yanis' has left the game
+[2021-04-28 16:12:38]: ***  [, Level 0]: 'aro' entered and joined the game
+[2021-04-28 16:12:59]: ***  [, Level 0]: 'your mother' entered and joined the game
+[2021-04-28 16:15:45]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
