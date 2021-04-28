@@ -19504,3 +19504,24 @@
 [2021-04-28 13:40:18]: ***  [, Level 0]: 'Devastator' would have timed out, but can use timeout protection now
 [2021-04-28 13:40:18]: ***  [, Level 0]: 'HardreenClutch' would have timed out, but can use timeout protection now
 [2021-04-28 13:40:46]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-28 13:41:00]: ***  [, Level 0]: '(1)Cylox' has left the game
+[2021-04-28 13:42:20]: Cylox [{TQuila}, Level 34]: wtf
+[2021-04-28 13:42:46]: Kirito [{TQuila}, Level 42]: Cylox: i am lagging too much xD
+[2021-04-28 13:42:55]: Cylox [{TQuila}, Level 34]: go
+[2021-04-28 13:43:23]: Kirito [{TQuila}, Level 42]: Cylox: idk if you want yes
+[2021-04-28 13:43:45]: Senpaii [, Level 13]: fix
+[2021-04-28 13:43:53]: ***  [, Level 0]: '[D] Senpaii' entered and joined the game
+[2021-04-28 13:44:04]: Kirito [{TQuila}, Level 42]: can you give shotgun
+[2021-04-28 13:44:18]: ***  [, Level 0]: 'Devastator' has left the game (Timeout Protection over)
+[2021-04-28 13:44:18]: ***  [, Level 0]: 'HardreenClutch' has left the game (Timeout Protection over)
+[2021-04-28 13:44:22]: ***  [, Level 0]: 'Mr.DARK' entered and joined the game
+[2021-04-28 13:44:40]: ***  [, Level 0]: 'casserole :p' entered and joined the game
+[2021-04-28 13:44:56]: ***  [, Level 0]: 'Mr.DARK' has left the game
+[2021-04-28 13:45:03]: Kirito [{TQuila}, Level 42]: ye
+[2021-04-28 13:45:06]: Cylox [{TQuila}, Level 34]: hm nıce
+[2021-04-28 13:45:09]: ***  [, Level 0]: 'nameless te' entered and joined the game
+[2021-04-28 13:45:25]: Cylox [{TQuila}, Level 34]: go
+[2021-04-28 13:45:34]: Cylox [{TQuila}, Level 34]: wtf
+[2021-04-28 13:45:46]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-28 13:45:52]: ***  [, Level 0]: 'Bkl' entered and joined the game
+[2021-04-28 13:45:55]: Kirito [{TQuila}, Level 42]: only one jump xD
