@@ -20184,3 +20184,53 @@
 [2021-04-27 18:15:44]: ***  [, Level 0]: 'sun.slow(y)' left the minigame 'Instagib Boom FNG'
 [2021-04-27 18:15:45]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-27 18:15:56]: ***  [, Level 0]: 'ChillerDragon' left the minigame 'Instagib Boom FNG'
+[2021-04-27 18:16:05]: ***  [, Level 0]: 'VIRTUALDREAM' entered and joined the game
+[2021-04-27 18:16:05]: ¡ RodCYREX 神 [Blood Day, Level 13]: survival
+[2021-04-27 18:16:10]: ChillerDragon [Chiller, Level 0]: Ok
+[2021-04-27 18:16:21]: ***  [, Level 0]: 'ChillerDragon' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-27 18:16:27]: ***  [, Level 0]: '¡ RodCYREX 神' left the minigame 'Instagib Boom FNG'
+[2021-04-27 18:16:28]: NeMo [, Level 27]: \\
+[2021-04-27 18:16:42]: ***  [, Level 0]: 'Raven' left the minigame 'Instagib Boom FNG'
+[2021-04-27 18:16:44]: ***  [, Level 0]: '¡ RodCYREX 神' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-27 18:16:53]: ***  [, Level 0]: 'Raven' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-27 18:17:01]: ***  [, Level 0]: 'Raven Dummy' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-27 18:17:06]: ***  [, Level 0]: 'ChillerDragon' left the minigame 'Survival'
+[2021-04-27 18:17:19]: NeMo [, Level 27]: faker ChillerDragon
+[2021-04-27 18:17:25]: ChillerDragon [Chiller, Level 0]: :)
+[2021-04-27 18:17:40]: ChillerDragon [Chiller, Level 0]: Can Join The Survival
+[2021-04-27 18:17:54]: ***  [, Level 0]: 'Bruh.' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-27 18:17:59]: NeMo [, Level 27]: sry
+[2021-04-27 18:18:01]: NeMo [, Level 27]: join
+[2021-04-27 18:18:02]: ***  [, Level 0]: 'sun.slow(y)' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-27 18:18:06]: sun.slow(y) [FookinLads, Level 35]: maybe work
+[2021-04-27 18:18:07]: ***  [, Level 0]: 'Bruh.' left the minigame 'Survival'
+[2021-04-27 18:18:08]: sun.slow(y) [FookinLads, Level 35]: maybe no
+[2021-04-27 18:18:08]: ***  [, Level 0]: 'VIRTUALDREAM' has left the game
+[2021-04-27 18:18:19]: NeMo [, Level 27]: sryyy
+[2021-04-27 18:18:30]: NeMo [, Level 27]: do it
+[2021-04-27 18:18:32]: sun.slow(y) [FookinLads, Level 35]: ez
+[2021-04-27 18:18:34]: ¡ RodCYREX 神 [Blood Day, Level 13]: Xd
+[2021-04-27 18:18:51]: ***  [, Level 0]: 'ChillerDragon' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-27 18:19:20]: ***  [, Level 0]: ChillerDragon is on a killing spree with 5 kills
+[2021-04-27 18:19:23]: sun.slow(y) [FookinLads, Level 35]: ez
+[2021-04-27 18:19:26]: sun.slow(y) [FookinLads, Level 35]: XDDD
+[2021-04-27 18:19:28]: ***  [, Level 0]: 'ChillerDragon' left the minigame 'Survival'
+[2021-04-27 18:19:32]: sun.slow(y) [FookinLads, Level 35]: SOWY
+[2021-04-27 18:19:34]: sun.slow(y) [FookinLads, Level 35]: BROS
+[2021-04-27 18:19:37]: ***  [, Level 0]: ¡ RodCYREX 神 is on a killing spree with 5 kills
+[2021-04-27 18:19:37]: sun.slow(y) [FookinLads, Level 35]: SOWY
+[2021-04-27 18:19:39]: ¡ RodCYREX 神 [Blood Day, Level 13]: xd
+[2021-04-27 18:19:46]: ChillerDragon [Chiller, Level 0]: Mute Sun
+[2021-04-27 18:19:54]: sun.slow(y) [FookinLads, Level 35]: FFFFFFFFFFFUCK
+[2021-04-27 18:19:56]: ¡ RodCYREX 神 [Blood Day, Level 13]: ez :d
+[2021-04-27 18:19:56]: sun.slow(y) [FookinLads, Level 35]: I KILLED ALL
+[2021-04-27 18:19:59]: sun.slow(y) [FookinLads, Level 35]: AND YOU UST ME
+[2021-04-27 18:20:05]: sun.slow(y) [FookinLads, Level 35]: NOT FAIR
+[2021-04-27 18:20:30]: ¡ RodCYREX 神 [Blood Day, Level 13]: xD
+[2021-04-27 18:20:31]: ***  [, Level 0]: 'ChillerDragon' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-27 18:20:35]: NeMo [, Level 27]: (1)Kirito:
+[2021-04-27 18:20:45]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-27 18:20:46]: NeMo [, Level 27]: .
+[2021-04-27 18:20:46]: sun.slow(y) [FookinLads, Level 35]: bro
+[2021-04-27 18:20:47]: NeMo [, Level 27]: ..
+[2021-04-27 18:20:48]: sun.slow(y) [FookinLads, Level 35]: u play with 2
