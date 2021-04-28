@@ -21381,3 +21381,13 @@
 [2021-04-27 20:41:22]: ***  [, Level 0]: '1410299307' entered and joined the game
 [2021-04-27 20:41:25]: ***  [, Level 0]: '1410299307' has left the game
 [2021-04-27 20:41:50]: ***  [, Level 0]: 'Kitty' entered and joined the game
+[2021-04-27 20:43:17]: Bruh. [Blood Day, Level 11]: Kitty:  random name ?
+[2021-04-27 20:44:18]: Bruh. [Blood Day, Level 11]: :D
+[2021-04-27 20:44:35]: TeigHuhn [WmS, Level 12]: :)
+[2021-04-27 20:45:00]: Kitty [, Level 1]: Bruh.: Can I borrow your grenade for a moment, I shall return
+[2021-04-27 20:45:17]: Kitty [, Level 1]: Thanks
+[2021-04-27 20:45:23]: Bruh. [Blood Day, Level 11]: ^^
+[2021-04-27 20:45:38]: TeigHuhn [WmS, Level 12]: you got it Bruh. ?
+[2021-04-27 20:45:45]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-27 20:45:47]: TeigHuhn [WmS, Level 12]: show
+[2021-04-27 20:46:13]: Bruh. [Blood Day, Level 11]: thx
