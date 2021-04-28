@@ -19671,3 +19671,24 @@
 [2021-04-27 17:10:05]: ***  [, Level 0]: 'PL4T5' entered and joined the game
 [2021-04-27 17:10:12]: ***  [, Level 0]: 'PL4T5' has left the game
 [2021-04-27 17:10:12]: (1)P4Pyr0s [FookinLads, Level 11]: 1 sec
+[2021-04-27 17:10:44]: ***  [, Level 0]: '(2)Xeaber' entered and joined the game
+[2021-04-27 17:10:45]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-27 17:10:47]: (2)Xeaber [, Level 0]: back see
+[2021-04-27 17:11:21]: (2)Xeaber [, Level 0]: 2 clients
+[2021-04-27 17:11:26]: ***  [, Level 0]: '(2)Xeaber' has left the game
+[2021-04-27 17:11:26]: s 🅱 e v e [Scorpiøn, Level 7]: Xeaber: :0
+[2021-04-27 17:11:31]: (1)Xeaber [, Level 5]: mhm
+[2021-04-27 17:11:47]: (1)Xeaber [, Level 5]: u can do that and keep switching windows
+[2021-04-27 17:11:56]: (1)Xeaber [, Level 5]: or u can use k-client
+[2021-04-27 17:12:00]: s 🅱 e v e [Scorpiøn, Level 7]: Thats great, thx dude
+[2021-04-27 17:12:09]: (1)Xeaber [, Level 5]: but i think k-client is too outdated for fokkonaut server
+[2021-04-27 17:12:24]: s 🅱 e v e [Scorpiøn, Level 7]: I rather open 2 clients than get k-client. i'd get banned from FNG servers :C
+[2021-04-27 17:12:25]: ***  [, Level 0]: 'VE deadrian092' entered and joined the game
+[2021-04-27 17:12:35]: (1)Xeaber [, Level 5]: just dont put on the bots
+[2021-04-27 17:12:38]: (1)Xeaber [, Level 5]: u wont get banned
+[2021-04-27 17:12:42]: s 🅱 e v e [Scorpiøn, Level 7]: :0 k then
+[2021-04-27 17:13:57]: ***  [, Level 0]: 'hhh3' has left the game
+[2021-04-27 17:14:10]: Xeaber [, Level 32]: can u stop bruh
+[2021-04-27 17:14:13]: Xeaber [, Level 32]: ur so annoying
+[2021-04-27 17:14:21]: (1)[D] P4Pyr0s [FookinLads, Level 7]: ty ^^
+[2021-04-27 17:14:49]: (1)[D] P4Pyr0s [FookinLads, Level 7]: I would have saved you but okay xD Xeaber
