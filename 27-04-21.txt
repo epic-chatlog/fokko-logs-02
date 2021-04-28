@@ -20785,3 +20785,28 @@
 [2021-04-27 19:15:20]: ***  [, Level 0]: 'Vpure' entered and joined the game
 [2021-04-27 19:15:45]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-27 19:16:08]: ***  [, Level 0]: 'Bruh.' left the minigame 'Survival'
+[2021-04-27 19:16:33]: VAUSA [, Level 0]: ¡ RodCYREX 神:
+[2021-04-27 19:16:33]: ***  [, Level 0]: '¡ RodCYREX 神' joined the minigame 'Survival', use '/survival' to join aswell
+[2021-04-27 19:16:37]: ¡ RodCYREX 神 [Blood Day, Level 13]: yes ?
+[2021-04-27 19:16:46]: VAUSA [, Level 0]: ¡ RodCYREX 神: Can you help me please<3
+[2021-04-27 19:16:48]: ¡ RodCYREX 神 [Blood Day, Level 13]: no
+[2021-04-27 19:16:49]: Bruh. [Blood Day, Level 11]: sry
+[2021-04-27 19:16:58]: VAUSA [, Level 0]: ¡ RodCYREX 神: I'm a useful asset
+[2021-04-27 19:17:14]: VAUSA [, Level 0]: ¡ RodCYREX 神: Promise
+[2021-04-27 19:18:14]: TeigHuhn [WmS, Level 12]: Kirito:
+[2021-04-27 19:18:59]: TeigHuhn [WmS, Level 12]: sun.slow(y):  wollen wir Kirito  verarschen
+[2021-04-27 19:19:15]: ***  [, Level 0]: 617. Bruh. Time: 01:45.30, requested by Bruh.
+[2021-04-27 19:19:27]: TeigHuhn [WmS, Level 12]: dann nicht
+[2021-04-27 19:19:31]: VAUSA [, Level 0]: sun.slow(y):
+[2021-04-27 19:19:49]: ***  [, Level 0]: 'IwillBlockYou' entered and joined the game
+[2021-04-27 19:19:53]: VAUSA [, Level 0]: sun.slow(y): help me please
+[2021-04-27 19:20:23]: sun.slow(y) [FookinLads, Level 35]: VAUSA:
+[2021-04-27 19:20:44]: sun.slow(y) [FookinLads, Level 35]: VAUSA: stop using bot or ban
+[2021-04-27 19:20:45]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-27 19:20:57]: VAUSA [, Level 0]: :0
+[2021-04-27 19:21:02]: sun.slow(y) [FookinLads, Level 35]: TeigHuhn: helf niewieder meine gegner
+[2021-04-27 19:21:03]: TeigHuhn [WmS, Level 12]: VAUSA: :)
+[2021-04-27 19:21:09]: TeigHuhn [WmS, Level 12]: sun.slow(y):  geht klar
+[2021-04-27 19:21:09]: sun.slow(y) [FookinLads, Level 35]: TeigHuhn: nemo ist war
+[2021-04-27 19:21:12]: TeigHuhn [WmS, Level 12]: okay
+[2021-04-27 19:21:25]: ***  [, Level 0]: 'IwillBlockYou' has left the game
