@@ -22063,3 +22063,21 @@
 [2021-04-27 22:27:02]: (D)le_trackers [Limoncello, Level 1]: wait
 [2021-04-27 22:27:39]: ***  [, Level 0]: 'nameless tee' has left the game
 [2021-04-27 22:27:47]: (D)le_trackers [Limoncello, Level 1]: stoppppppppp
+[2021-04-27 22:28:39]: homeless tee [, Level 1]: how to deposit in bank?
+[2021-04-27 22:30:06]: KillerCamper [, Level 0]: xD
+[2021-04-27 22:30:08]: SelfReport [\ЧՁθ/, Level 13]: XD
+[2021-04-27 22:30:21]: homeless tee [, Level 1]: guys how can i deposit my money ?
+[2021-04-27 22:30:31]: KillerCamper [, Level 0]: why you get me first lol
+[2021-04-27 22:30:37]: SelfReport [\ЧՁθ/, Level 13]: homeless tee: deposit ?
+[2021-04-27 22:30:43]: homeless tee [, Level 1]: in bank
+[2021-04-27 22:30:45]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-27 22:30:46]: SelfReport [\ЧՁθ/, Level 13]: wait
+[2021-04-27 22:30:51]: SelfReport [\ЧՁθ/, Level 13]: OMG
+[2021-04-27 22:30:55]: SelfReport [\ЧՁθ/, Level 13]: Ksler: herlp
+[2021-04-27 22:30:59]: SelfReport [\ЧՁθ/, Level 13]: KillerCamper:
+[2021-04-27 22:31:02]: SelfReport [\ЧՁθ/, Level 13]: left xD
+[2021-04-27 22:31:35]: SelfReport [\ЧՁθ/, Level 13]: if u have menu
+[2021-04-27 22:31:43]: SelfReport [\ЧՁθ/, Level 13]: press 2 times 3
+[2021-04-27 22:31:46]: SelfReport [\ЧՁθ/, Level 13]: press 2 times f3
+[2021-04-27 22:32:14]: homeless tee [, Level 1]: doesnt work
+[2021-04-27 22:32:20]: homeless tee [, Level 1]: which menu u mean ?
