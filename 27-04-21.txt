@@ -21433,3 +21433,11 @@
 [2021-04-27 20:56:07]: ***  [, Level 0]: 'I like pussy' entered and joined the game
 [2021-04-27 20:56:45]: ***  [, Level 0]: 'I like pussy' has left the game
 [2021-04-27 20:56:45]: ***  [, Level 0]: 'I like Dick' has left the game
+[2021-04-27 20:57:56]: Kitty [, Level 1]: Anygiga: sory
+[2021-04-27 20:58:36]: ***  [, Level 0]: '(1)¡ RodCYREX 神' entered and joined the game
+[2021-04-27 20:59:05]: TeigHuhn [WmS, Level 12]: Kitty:
+[2021-04-27 20:59:32]: Kitty [, Level 1]: train
+[2021-04-27 21:00:45]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-27 21:02:02]: (1)¡ RodCYREX  [Blood Day, Level 0]: omh
+[2021-04-27 21:02:05]: (1)¡ RodCYREX  [Blood Day, Level 0]: omg im fail
+[2021-04-27 21:02:12]: (1)¡ RodCYREX  [Blood Day, Level 0]: k
