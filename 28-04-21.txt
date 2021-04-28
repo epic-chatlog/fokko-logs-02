@@ -20551,3 +20551,9 @@
 [2021-04-28 15:25:46]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-28 15:26:04]: Seaber [, Level 32]: come Bozzkurt we going for a ride
 [2021-04-28 15:26:42]: Seaber [, Level 32]: Bozzkurt: im tryna fly
+[2021-04-28 15:27:38]: ***  [, Level 0]: '||KÆNK||' entered and joined the game
+[2021-04-28 15:27:41]: ***  [, Level 0]: '||KÆNK||' has left the game
+[2021-04-28 15:28:21]: Seaber [, Level 32]: Bozzkurt: u try
+[2021-04-28 15:29:31]: Seaber [, Level 32]: ok imma farm
+[2021-04-28 15:30:46]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-28 15:31:04]: ***  [, Level 0]: '[RUS]' has left the game
