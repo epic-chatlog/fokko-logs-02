@@ -17963,3 +17963,112 @@
 [2021-04-28 12:20:07]: Anygiga [, Level 7]: El patron:  ?
 [2021-04-28 12:20:08]: [D] El patron [FookinLads, Level 37]: Axandos: RESTART
 [2021-04-28 12:20:09]:   [, Level 0]: SanoreX: (1)Ƭevan: dont trap flappy xd
+[2021-04-28 12:20:16]: [D] El patron [FookinLads, Level 37]: Axandos: restart
+[2021-04-28 12:20:17]: ***  [, Level 0]: ### 'WarHammer' sano fps çok düştü eskiden bu kadar yoktu önerin varmı
+[2021-04-28 12:20:18]:   [, Level 0]: Axandos: ne
+[2021-04-28 12:20:19]: whutasme [, Level 0]:  touche pr cest quoi
+[2021-04-28 12:20:22]: hhh3 [, Level 48]: HeavyGeneral:
+[2021-04-28 12:20:25]:   [, Level 0]: Cylox.: oooo
+[2021-04-28 12:20:28]: CROW [, Level 30]: whutasme: 1envoie un message
+[2021-04-28 12:20:29]:   [, Level 0]: SanoreX: WarHammer: ekran kartı güncelle
+[2021-04-28 12:20:36]: ***  [, Level 0]: 'WarHammer' has left the game
+[2021-04-28 12:20:37]: whutasme [, Level 0]: salut
+[2021-04-28 12:20:43]: ***  [, Level 0]: 'Axandos' has left the game
+[2021-04-28 12:20:43]: ***  [, Level 0]: 'Axandos²' has left the game
+[2021-04-28 12:20:45]: ERROR [404, Level 76]: Hevi Hooneral:  damn i missed flappy xDDD
+[2021-04-28 12:20:46]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-28 12:20:48]:   [, Level 0]: SanoreX: ok
+[2021-04-28 12:20:50]: Hevi Hooneral [FookinLads, Level 37]: ERROR: no i didnt
+[2021-04-28 12:20:52]: whutasme [, Level 0]: salut
+[2021-04-28 12:20:53]: Hevi Hooneral [FookinLads, Level 37]: ERROR: fuck this niga
+[2021-04-28 12:20:54]: whutasme [, Level 0]: salut
+[2021-04-28 12:20:57]: ERROR [404, Level 76]: NOOOO
+[2021-04-28 12:20:59]: ***  [, Level 0]: 'abc' entered and joined the game
+[2021-04-28 12:21:01]: whutasme [, Level 0]: ahh ok merci CROW
+[2021-04-28 12:21:07]: CROW [, Level 30]: whutasme: 1envoie un message 2 tu mets la touche pour env
+[2021-04-28 12:21:08]:   [, Level 0]: SanoreX: Cylox: yok olmaz
+[2021-04-28 12:21:11]: ***  [, Level 0]: 'Rainbow Tee' entered and joined the game
+[2021-04-28 12:21:12]:   [, Level 0]: Cylox.: nedn
+[2021-04-28 12:21:12]: ***  [, Level 0]: 'ReXi' entered and joined the game
+[2021-04-28 12:21:15]: ***  [, Level 0]: '(1)Cosmo' has left the game
+[2021-04-28 12:21:15]: ***  [, Level 0]: 'Cosmo' has left the game
+[2021-04-28 12:21:19]: CROW [, Level 30]: whutasme: t sur ?
+[2021-04-28 12:21:20]:   [, Level 0]: SanoreX: Cylox: gel iç içe sokulak
+[2021-04-28 12:21:24]:   [, Level 0]: SanoreX: Cylox: portalla
+[2021-04-28 12:21:30]: whutasme [, Level 0]: oui CROW regarde
+[2021-04-28 12:21:35]: Hevi Hooneral [FookinLads, Level 37]: xa-xa-xa-xa00))
+[2021-04-28 12:21:36]: CROW [, Level 30]: whutasme: cool
+[2021-04-28 12:21:37]: Hevi Hooneral [FookinLads, Level 37]: xa-xa-xa-xa00))
+[2021-04-28 12:21:47]: ***  [, Level 0]: 'mamikral011' entered and joined the game
+[2021-04-28 12:21:51]:   [, Level 0]: f3llax: sun.slow(y):  did we already have endless hook ?
+[2021-04-28 12:21:51]: ***  [, Level 0]: 'abc' has left the game
+[2021-04-28 12:21:51]: ***  [, Level 0]: 'mamikral011' has left the game
+[2021-04-28 12:21:53]: ***  [, Level 0]: 'twixx' has left the game
+[2021-04-28 12:21:59]:   [, Level 0]: SanoreX: Cylox: kal az öyle
+[2021-04-28 12:22:02]: whutasme [, Level 0]: je revien
+[2021-04-28 12:22:02]:   [, Level 0]: SanoreX: hareket etme
+[2021-04-28 12:22:02]:   [, Level 0]: Cylox.: aa,
+[2021-04-28 12:22:03]:   [, Level 0]: ReXi: wtf
+[2021-04-28 12:22:03]: whutasme [, Level 0]: je revien
+[2021-04-28 12:22:04]:   [, Level 0]: sun.slow(y): f3llax: endless is at startroom
+[2021-04-28 12:22:09]:   [, Level 0]: SanoreX: zıpla
+[2021-04-28 12:22:11]: ***  [, Level 0]: 'Rainbow Tee' has left the game (Timeout)
+[2021-04-28 12:22:15]:   [, Level 0]: f3llax: sun.slow(y):  ah
+[2021-04-28 12:22:17]: ***  [, Level 0]: 'power' has left the game
+[2021-04-28 12:22:17]: ***  [, Level 0]: 'power2' has left the game
+[2021-04-28 12:22:17]:   [, Level 0]: SanoreX: aa
+[2021-04-28 12:22:19]:   [, Level 0]: SanoreX: olmadi
+[2021-04-28 12:22:19]: ***  [, Level 0]: 'yoshi' entered and joined the game
+[2021-04-28 12:22:29]:   [, Level 0]: Cylox.: olm nası yapıyon onu
+[2021-04-28 12:22:31]: ***  [, Level 0]: 'Kamciø' entered and joined the game
+[2021-04-28 12:22:32]: hhnaut31 [, Level 43]: HardreenClutch:
+[2021-04-28 12:22:32]:   [, Level 0]: SanoreX: (1)Ƭevan: dont care flappy xd
+[2021-04-28 12:22:35]:   [, Level 0]: LICKbek.nh.fck: sry
+[2021-04-28 12:22:50]:   [, Level 0]: Cylox.: SanoreX: gel suraya gızl ıyer yapak
+[2021-04-28 12:22:54]:   [, Level 0]: SanoreX: ok Cylox
+[2021-04-28 12:22:59]:   [, Level 0]: SanoreX: Cylox: ama
+[2021-04-28 12:23:03]:   [, Level 0]: SanoreX: Cylox: freeze var
+[2021-04-28 12:23:06]:   [, Level 0]: Cylox.: hmm
+[2021-04-28 12:23:08]: Anygiga [, Level 7]: Cup:
+[2021-04-28 12:23:08]: ***  [, Level 0]: '[D] aro' has left the game
+[2021-04-28 12:23:09]:   [, Level 0]: SanoreX: Cylox: keşke freze silebilcek
+[2021-04-28 12:23:10]: Anygiga [, Level 7]: Cup:  ali
+[2021-04-28 12:23:11]:   [, Level 0]: SanoreX: Cylox: keşke freze silebilsek
+[2021-04-28 12:23:13]:   [, Level 0]: SanoreX: demi?
+[2021-04-28 12:23:14]: ***  [, Level 0]: 'Kamciø' has left the game
+[2021-04-28 12:23:15]:   [, Level 0]: Cylox.: ne kadar a aldın plotu
+[2021-04-28 12:23:19]:   [, Level 0]: SanoreX: Cylox: bedava
+[2021-04-28 12:23:23]:   [, Level 0]: SanoreX: kais verdi
+[2021-04-28 12:23:23]: ***  [, Level 0]: 'your mother' entered and joined the game
+[2021-04-28 12:23:23]:   [, Level 0]: Cylox.: iyi kaç gun var
+[2021-04-28 12:23:29]: f3llax [, Level 1]: fameless tee:  come
+[2021-04-28 12:23:37]:   [, Level 0]: SanoreX: Cylox: bilmem rented until 30.05.2021 dio
+[2021-04-28 12:23:47]: SanoreX [Chilli.*, Level 30]: Cylox: bilmem rented until 30.04.2021 dio
+[2021-04-28 12:23:47]:   [, Level 0]: yoshi: [D] El patron: come were i am if u want 10k money
+[2021-04-28 12:23:55]: SanoreX [Chilli.*, Level 30]: Cylox: bilmem rented until 30.04.2021 dio bu nedemek? kaç gün kaldı
+[2021-04-28 12:23:55]: ***  [, Level 0]: 'ĝƦøø†' has left the game
+[2021-04-28 12:23:55]: ***  [, Level 0]: 'schwans' has left the game
+[2021-04-28 12:23:58]: Cylox. [{TQuila}, Level 0]: tmm
+[2021-04-28 12:24:01]: Cylox. [{TQuila}, Level 0]: mother fucker
+[2021-04-28 12:24:01]: hhnaut31 [, Level 43]: Toniloni: and Mr. Luck
+[2021-04-28 12:24:03]: ***  [, Level 0]: 'Bozzkurt' has left the game (Timeout)
+[2021-04-28 12:24:05]: hhnaut31 [, Level 43]: Mr. White:
+[2021-04-28 12:24:09]: ***  [, Level 0]: 'rexi' entered and joined the game
+[2021-04-28 12:24:10]: hhnaut31 [, Level 43]: Come jet
+[2021-04-28 12:24:19]:   [, Level 0]: SanoreX: (1)Ƭevan: this money is my if I get it?
+[2021-04-28 12:24:22]: hhnaut31 [, Level 43]: Toniloni: special race?
+[2021-04-28 12:24:23]: fameless tee [Stack Sat's, Level 0]: f3llax: close
+[2021-04-28 12:24:27]: (1)Toniloni [\ЧՁθ/, Level 0]: ?
+[2021-04-28 12:24:30]: hhnaut31 [, Level 43]: kill
+[2021-04-28 12:24:34]:   [, Level 0]: SanoreX: wtff
+[2021-04-28 12:24:35]: fameless tee [Stack Sat's, Level 0]: f3llax: jump
+[2021-04-28 12:24:36]:   [, Level 0]: SanoreX: hardd
+[2021-04-28 12:24:43]: ***  [, Level 0]: '__init__(self):' has left the game
+[2021-04-28 12:24:43]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-28 12:24:49]: f3llax [, Level 1]: fameless tee:  wait ?
+[2021-04-28 12:24:51]: fameless tee [Stack Sat's, Level 0]: f3llax: i meant while shootin
+[2021-04-28 12:24:57]: fameless tee [Stack Sat's, Level 0]: f3llax: shure ^^
+[2021-04-28 12:24:57]:   [, Level 0]: SanoreX: (1)Ƭevan: wtf fokkonaut fixed plot doors skip XDD
+[2021-04-28 12:24:58]: Anygiga [, Level 7]: Cup:  top
+[2021-04-28 12:24:59]: ***  [, Level 0]: 'yair' entered and joined the game
+[2021-04-28 12:25:06]: hhh3 [, Level 48]: .: help
