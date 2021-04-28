@@ -20616,3 +20616,10 @@
 [2021-04-28 16:06:40]: (1)Seaber [, Level 0]: Devastator: <<
 [2021-04-28 16:06:50]: Seaber [, Level 32]: Devastator: hurry <<
 [2021-04-28 16:07:01]: .yanis [Ømbre, Level 0]: zzz
+[2021-04-28 16:07:24]: .yanis [Ømbre, Level 0]: Seaber:  k
+[2021-04-28 16:07:24]: ***  [, Level 0]: 'McFly.JesuS' entered and joined the game
+[2021-04-28 16:07:46]: ***  [, Level 0]: 'McFly.JesuS' has left the game
+[2021-04-28 16:08:57]: .yanis [Ømbre, Level 0]: Seaber:
+[2021-04-28 16:10:12]: ***  [, Level 0]: 'Mondaa' entered and joined the game
+[2021-04-28 16:10:45]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-28 16:11:02]: ***  [, Level 0]: '.yanis' has left the game
