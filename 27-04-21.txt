@@ -21418,3 +21418,18 @@
 [2021-04-27 20:51:46]: Anygiga [, Level 6]: let him
 [2021-04-27 20:51:47]: Anygiga [, Level 6]: use me
 [2021-04-27 20:52:16]: Kitty [, Level 1]: ouch
+[2021-04-27 20:52:19]: Kitty [, Level 1]: im bad
+[2021-04-27 20:52:28]: ***  [, Level 0]: 'ClemEntine' has left the game
+[2021-04-27 20:52:30]: Bruh. [Blood Day, Level 11]: so la .
+[2021-04-27 20:52:34]: Bruh. [Blood Day, Level 11]: lag
+[2021-04-27 20:52:34]: TeigHuhn [WmS, Level 12]: gy
+[2021-04-27 20:53:02]: Anygiga [, Level 6]: xD
+[2021-04-27 20:53:04]: Kitty [, Level 1]: ouch
+[2021-04-27 20:53:27]: ***  [, Level 0]: 'kirdanj' entered and joined the game
+[2021-04-27 20:54:43]: ***  [, Level 0]: 'kirdanj' has left the game
+[2021-04-27 20:54:44]: ***  [, Level 0]: 617. Bruh. Time: 01:45.30, requested by Bruh.
+[2021-04-27 20:55:36]: ***  [, Level 0]: 'I like Dick' entered and joined the game
+[2021-04-27 20:55:45]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-27 20:56:07]: ***  [, Level 0]: 'I like pussy' entered and joined the game
+[2021-04-27 20:56:45]: ***  [, Level 0]: 'I like pussy' has left the game
+[2021-04-27 20:56:45]: ***  [, Level 0]: 'I like Dick' has left the game
