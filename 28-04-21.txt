@@ -20626,3 +20626,14 @@
 [2021-04-28 16:12:38]: ***  [, Level 0]: 'aro' entered and joined the game
 [2021-04-28 16:12:59]: ***  [, Level 0]: 'your mother' entered and joined the game
 [2021-04-28 16:15:45]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-28 16:18:43]: GODLIKe [, Level 44]: Mondaa:
+[2021-04-28 16:19:21]: ***  [, Level 0]: your mother finished in: 2 minute(s) 34.46 second(s)
+[2021-04-28 16:19:25]: ***  [, Level 0]: aro finished in: 3 minute(s) 48.02 second(s)
+[2021-04-28 16:20:21]: ***  [, Level 0]: 'Flipper' entered and joined the game
+[2021-04-28 16:20:31]: aro [, Level 16]: Flipper: hi
+[2021-04-28 16:20:33]: Flipper [CrazyMf's, Level 0]: hi
+[2021-04-28 16:20:45]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-28 16:20:50]: ***  [, Level 0]: 'poler' entered and joined the game
+[2021-04-28 16:21:14]: ***  [, Level 0]: 'josemendo737' entered and joined the game
+[2021-04-28 16:22:13]: ***  [, Level 0]: 'your mother' finished the special race!
+[2021-04-28 16:22:17]: ***  [, Level 0]: 'aro' finished the special race!
