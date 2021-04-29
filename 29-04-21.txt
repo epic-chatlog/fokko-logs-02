@@ -13265,3 +13265,8 @@
 [2021-04-29 15:38:11]: ***  [, Level 0]: '(3)Zʷʰʸˀ' has left the game
 [2021-04-29 15:38:11]: ***  [, Level 0]: '(2)Zʷʰʸˀ' has left the game
 [2021-04-29 15:39:29]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-29 15:44:29]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-29 15:47:15]: ***  [, Level 0]: 'naabitte' entered and joined the game
+[2021-04-29 15:47:22]: ***  [, Level 0]: 'naabitte' has left the game
+[2021-04-29 15:47:37]: NeMo [, Level 28]: xDDDD
+[2021-04-29 15:47:40]: NeMo [, Level 28]: FUN WAR?
