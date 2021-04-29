@@ -13579,3 +13579,10 @@
 [2021-04-29 16:43:13]: LGBT+ General [, Level 43]: xaxaxaxaxaa
 [2021-04-29 16:43:15]: Shiro. [, Level 51]: rq Hunter.exe
 [2021-04-29 16:43:16]: Shiro. [, Level 51]: xaxaxaxaxaa
+[2021-04-29 16:43:17]: LGBT+ General [, Level 43]: rq Hunter.exe
+[2021-04-29 16:43:42]: ***  [, Level 0]: 'LGBT+ General' has left the game
+[2021-04-29 16:43:42]: ***  [, Level 0]: 'Shiro.' has left the game
+[2021-04-29 16:44:29]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-29 16:45:18]: Hunter.exe [DogParty, Level 37]: Isegrin
+[2021-04-29 16:46:10]: ***  [, Level 0]: 'Neosia' entered and joined the game
+[2021-04-29 16:46:14]: ***  [, Level 0]: 'Neosia' has left the game
