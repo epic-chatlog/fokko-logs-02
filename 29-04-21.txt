@@ -1,2 +1,23 @@
 [2021-04-29 00:00:40]: Black Mamba [, Level 0]: Beaux.: right :)
 [2021-04-29 00:00:45]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-29 00:01:39]: Santa Claus [, Level 0]: more more
+[2021-04-29 00:01:44]: ***  [, Level 0]: No~Filter is on a killing spree with 5 blocks
+[2021-04-29 00:01:49]: ***  [, Level 0]: 'çloße.' entered and joined the game
+[2021-04-29 00:02:13]: ***  [, Level 0]: '[D] SenZe' has left the game
+[2021-04-29 00:02:33]: ***  [, Level 0]: 'Santa Claus' has left the game
+[2021-04-29 00:03:03]: ***  [, Level 0]: '[D] Nuagebiscui' has left the game
+[2021-04-29 00:03:03]: ***  [, Level 0]: 'Nuagebiscuit' has left the game
+[2021-04-29 00:03:06]: nenny [\ЧՁθ/, Level 0]: :ddD
+[2021-04-29 00:03:15]: ***  [, Level 0]: 'Bozzkurt' entered and joined the game
+[2021-04-29 00:03:26]: nenny [\ЧՁθ/, Level 0]: Black Mamba: only hammer?
+[2021-04-29 00:03:27]: Black Mamba [, Level 0]: nenny:  first time on this map xD
+[2021-04-29 00:03:39]: Black Mamba [, Level 0]: i dont have weapons i dont know xD
+[2021-04-29 00:03:44]: nenny [\ЧՁθ/, Level 0]: ok only hammer
+[2021-04-29 00:04:32]: ***  [, Level 0]: 'ByRushYT' has left the game
+[2021-04-29 00:04:40]: ***  [, Level 0]: 'Solaraty' has left the game
+[2021-04-29 00:05:15]: Bozzkurt [SkinLover, Level 0]: nenny: sag
+[2021-04-29 00:05:18]: nenny [\ЧՁθ/, Level 0]: wait
+[2021-04-29 00:05:25]: ***  [, Level 0]: 'K.O' entered and joined the game
+[2021-04-29 00:05:45]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-29 00:06:01]: ***  [, Level 0]: 'noob' entered and joined the game
+[2021-04-29 00:06:05]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
