@@ -1457,3 +1457,4 @@
 [2021-04-29 01:26:50]: ERROR, [404, Level 76]: BulgarianTee:  huh?
 [2021-04-29 01:26:50]: ***  [, Level 0]: 'Leazerteam' entered and joined the game
 [2021-04-29 01:26:50]: SenZe [\ЧՁθ/, Level 31]: disc=ord
+[2021-04-29 01:26:56]:   [, Level 0]: BulgarianTee: (1)P4Pyr0s: cat go deposittt noobs server will reset
