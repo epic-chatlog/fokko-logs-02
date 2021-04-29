@@ -12900,3 +12900,21 @@
 [2021-04-29 14:05:25]: ZillyKek [, Level 0]: (3)Zʷʰʸˀ:
 [2021-04-29 14:05:34]: ZillyKek [, Level 0]: (3)Zʷʰʸˀ: help)
 [2021-04-29 14:06:02]: ZillyKek [, Level 0]: (3)Zʷʰʸˀ: thx
+[2021-04-29 14:07:25]: ***  [, Level 0]: (3)Zʷʰʸˀ finished in: 0 minute(s) 46.38 second(s)
+[2021-04-29 14:07:25]: ***  [, Level 0]: New record: 1 minute(s) 49.34 second(s) better.
+[2021-04-29 14:07:52]: ***  [, Level 0]: (2)Zʷʰʸˀ finished in: 2 minute(s) 59.96 second(s)
+[2021-04-29 14:08:14]: (3)NeMo [, Level 19]: Zʷʰʸˀ:
+[2021-04-29 14:08:15]: (3)NeMo [, Level 19]: >>
+[2021-04-29 14:08:37]: ***  [, Level 0]: 'Split' entered and joined the game
+[2021-04-29 14:08:40]: ***  [, Level 0]: 'Split' has left the game
+[2021-04-29 14:08:42]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-29 14:08:42]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-29 14:08:54]: ***  [, Level 0]: 'magik D' entered and joined the game
+[2021-04-29 14:09:21]: NeMo [, Level 28]: f3llax: u here
+[2021-04-29 14:09:30]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-29 14:09:36]: NeMo [, Level 28]: u friend of lolipop right ?
+[2021-04-29 14:09:40]: NeMo [, Level 28]: u killed me with him
+[2021-04-29 14:09:49]: NeMo [, Level 28]: is it u???
+[2021-04-29 14:10:53]: ***  [, Level 0]: 'magik E' entered and joined the game
+[2021-04-29 14:11:44]: ***  [, Level 0]: 'Axel ²' has left the game
+[2021-04-29 14:11:44]: ***  [, Level 0]: 'Axel' has left the game
