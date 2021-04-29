@@ -12925,3 +12925,19 @@
 [2021-04-29 14:14:30]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-29 14:17:01]: ***  [, Level 0]: '(1)casserole :p' has left the game (Timeout)
 [2021-04-29 14:17:02]: ***  [, Level 0]: 'casserole :p' has left the game (Timeout)
+[2021-04-29 14:18:29]: NeMo [, Level 28]: what ever fuck off
+[2021-04-29 14:18:34]: Tut [, Level 0]: How To login
+[2021-04-29 14:18:48]: NeMo [, Level 28]: u have acc>?
+[2021-04-29 14:19:30]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-29 14:19:38]: NeMo [, Level 28]: press alt + f4 to login Tut
+[2021-04-29 14:19:47]: NeMo [, Level 28]: xDDDDD
+[2021-04-29 14:19:48]: Tut [, Level 0]: no
+[2021-04-29 14:19:49]: NeMo [, Level 28]: dontt
+[2021-04-29 14:19:53]: NeMo [, Level 28]: dont
+[2021-04-29 14:19:55]: NeMo [, Level 28]: jk
+[2021-04-29 14:19:59]: ZillyKek [, Level 0]: NeMo: nice joke
+[2021-04-29 14:20:05]: Tut [, Level 0]: tHIS iS Quit
+[2021-04-29 14:20:08]: NeMo [, Level 28]: xD
+[2021-04-29 14:20:27]: ZillyKek [, Level 0]: Tut: use command in chat /login /register
+[2021-04-29 14:20:45]: Tut [, Level 0]: That Is Wrong
+[2021-04-29 14:21:06]: ZillyKek [, Level 0]: Tut: if u use command, only u seen message
