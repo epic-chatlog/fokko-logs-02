@@ -12734,3 +12734,10 @@
 [2021-04-29 13:15:53]: ***  [, Level 0]: 'Dke' entered and joined the game
 [2021-04-29 13:15:57]: ***  [, Level 0]: 'fokkonaut' entered and joined the game
 [2021-04-29 13:16:06]: ***  [, Level 0]: 'fokkonaut' has left the game
+[2021-04-29 13:17:04]: ***  [, Level 0]: 'Cylox.' entered and joined the game
+[2021-04-29 13:17:24]: ***  [, Level 0]: 'taco bell' entered and joined the game
+[2021-04-29 13:17:29]: ***  [, Level 0]: '[D] taco bell' entered and joined the game
+[2021-04-29 13:18:29]: ***  [, Level 0]: 'Nudelsaft c:' has left the game (Timeout Protection over)
+[2021-04-29 13:18:30]: ***  [, Level 0]: 'the last AMOGUS' has left the game (Timeout Protection over)
+[2021-04-29 13:19:30]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-29 13:20:29]: Cylox. [, Level 0]: flappy: fuck you
