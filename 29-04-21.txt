@@ -12979,3 +12979,15 @@
 [2021-04-29 14:26:29]: ***  [, Level 0]: 'Diwik' entered and joined the game
 [2021-04-29 14:26:48]: ZillyKek [, Level 0]: Tut: give u pass and login, and I can help u with authorization
 [2021-04-29 14:26:59]: Tut [, Level 0]: Why ?/
+[2021-04-29 14:27:20]: ***  [, Level 0]: 'Shymoux' entered and joined the game
+[2021-04-29 14:27:21]: Tut [, Level 0]: 7No logs
+[2021-04-29 14:27:23]: ZillyKek [, Level 0]: Tut: why what?
+[2021-04-29 14:27:34]: ZillyKek [, Level 0]: Tut: did u created account?
+[2021-04-29 14:27:35]: ***  [, Level 0]: 'Bozzkurt' entered and joined the game
+[2021-04-29 14:27:37]: Tut [, Level 0]: No
+[2021-04-29 14:28:05]: ZillyKek [, Level 0]: Tut: type /register you_name your_pass
+[2021-04-29 14:29:30]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-29 14:30:23]: ***  [, Level 0]: 'Tut' has left the game
+[2021-04-29 14:30:28]: ***  [, Level 0]: 'Diwik' has left the game
+[2021-04-29 14:30:32]: ***  [, Level 0]: 'Tut' entered and joined the game
+[2021-04-29 14:30:41]: ***  [, Level 0]: 'ghfdjxc' entered and joined the game
