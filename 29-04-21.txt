@@ -13242,3 +13242,4 @@
 [2021-04-29 15:19:30]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-29 15:20:25]: ***  [, Level 0]: '~DemoizL~' has left the game
 [2021-04-29 15:20:25]: ***  [, Level 0]: 'Shymoux' has left the game
+[2021-04-29 15:24:29]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
