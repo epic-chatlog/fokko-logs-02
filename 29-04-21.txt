@@ -7375,3 +7375,71 @@
 [2021-04-29 08:24:01]: ***  [, Level 0]: '(1)nenny' would have timed out, but can use timeout protection now
 [2021-04-29 08:24:01]: ***  [, Level 0]: 'Link' entered and joined the game
 [2021-04-29 08:24:03]: Link [\ЧՁθ/, Level 0]: omg
+[2021-04-29 08:24:09]: ***  [, Level 0]: 'avoocals 2.0' has left the game (Timeout Protection over)
+[2021-04-29 08:24:13]: ***  [, Level 0]: 'avioocals' has left the game (Timeout Protection over)
+[2021-04-29 08:24:14]: ***  [, Level 0]: '(1)Souly' entered and joined the game
+[2021-04-29 08:24:15]: ***  [, Level 0]: 'Mondaa' entered and joined the game
+[2021-04-29 08:24:19]: ***  [, Level 0]: 'remix' has left the game (Timeout Protection over)
+[2021-04-29 08:24:22]: Link [\ЧՁθ/, Level 14]: DOOCK:
+[2021-04-29 08:24:28]: Mondaa [(none), Level 0]: ayyy finally serrver back
+[2021-04-29 08:24:30]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-29 08:24:40]: (1)Souly [:troll:, Level 0]: i cant fucking join
+[2021-04-29 08:24:42]: ***  [, Level 0]: 'Taro négro' entered and joined the game
+[2021-04-29 08:24:42]: (1)Souly [:troll:, Level 0]: with ddnet
+[2021-04-29 08:24:44]: (1)Souly [:troll:, Level 0]: wtf
+[2021-04-29 08:24:48]: (1)Souly [:troll:, Level 0]: rip my tee
+[2021-04-29 08:25:03]: ***  [, Level 0]: 'Cylox.' entered and joined the game
+[2021-04-29 08:25:08]: ***  [, Level 0]: 'DOOCK' has left the game (Timeout Protection over)
+[2021-04-29 08:25:10]: ***  [, Level 0]: '[D] DOOCK' has left the game (Timeout Protection over)
+[2021-04-29 08:25:11]: ***  [, Level 0]: 'SanoreX' has left the game (Timeout Protection over)
+[2021-04-29 08:25:11]: ***  [, Level 0]: 'SanoreX.*' has left the game (Timeout Protection over)
+[2021-04-29 08:25:13]: ***  [, Level 0]: 'ReccoTRTR' has left the game (Timeout Protection over)
+[2021-04-29 08:25:25]: Link [\ЧՁθ/, Level 14]: ¡ RodCYREX 神: moni
+[2021-04-29 08:25:29]: ***  [, Level 0]: 'ReccoTR' has left the game (Timeout Protection over)
+[2021-04-29 08:25:29]: Link [\ЧՁθ/, Level 14]: ¡ RodCYREX 神: moni
+[2021-04-29 08:25:55]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-29 08:25:57]: ¡ RodCYREX 神 [Blood Day, Level 14]: xD
+[2021-04-29 08:26:01]: ¡ RodCYREX 神 [Blood Day, Level 14]: moni hello
+[2021-04-29 08:26:08]: ***  [, Level 0]: 'Bruh.' entered and joined the game
+[2021-04-29 08:26:15]: Mondaa [(none), Level 0]: Souly:
+[2021-04-29 08:26:25]: (1)Souly [:troll:, Level 0]: i cant move dude
+[2021-04-29 08:26:28]: (1)Souly [:troll:, Level 0]: on main
+[2021-04-29 08:26:33]: ***  [, Level 0]: '(1)Souly' has left the game
+[2021-04-29 08:26:34]: ***  [, Level 0]: '(1)Souly' entered and joined the game
+[2021-04-29 08:26:41]: Taro négro [Shokokuki, Level 0]: hmm
+[2021-04-29 08:26:48]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-29 08:26:54]: ***  [, Level 0]: 'Souly' has left the game (Timeout Protection over)
+[2021-04-29 08:26:55]: ***  [, Level 0]: 'Souly' entered and joined the game
+[2021-04-29 08:26:58]: (1)Souly [:troll:, Level 0]: omfg
+[2021-04-29 08:27:01]: Souly [real noby, Level 61]: what
+[2021-04-29 08:27:06]: Mondaa [(none), Level 0]: what
+[2021-04-29 08:27:07]: Mondaa [(none), Level 0]: I like turtles.
+[2021-04-29 08:27:09]: ¡ RodCYREX 神 [Blood Day, Level 14]: AwakeneDemoN☣:
+[2021-04-29 08:27:09]: Mondaa [(none), Level 0]: LMAO
+[2021-04-29 08:27:11]: ¡ RodCYREX 神 [Blood Day, Level 14]: rly ?
+[2021-04-29 08:27:17]: Souly [real noby, Level 61]: i couldnt claim my timeout tee
+[2021-04-29 08:27:20]: Zephir ツ [404, Level 40]: ¡ RodCYREX 神: i lag stupid guy
+[2021-04-29 08:27:23]: Souly [real noby, Level 61]: and when it went off then i could join
+[2021-04-29 08:27:26]: Souly [real noby, Level 61]: wtf is wrong with this
+[2021-04-29 08:27:30]: Mondaa [(none), Level 0]: someone ddos
+[2021-04-29 08:27:31]: ***  [, Level 0]: '(1)Souly' has left the game
+[2021-04-29 08:27:42]: Link [\ЧՁθ/, Level 14]: nenny: help
+[2021-04-29 08:27:45]: Souly [real noby, Level 61]: i know that server is ddosed but i couldnt join
+[2021-04-29 08:27:46]: nenny [\ЧՁθ/, Level 15]: wait
+[2021-04-29 08:27:52]: Souly [real noby, Level 61]: and claim my tee back
+[2021-04-29 08:27:54]: nenny [\ЧՁθ/, Level 15]: ,:dddd
+[2021-04-29 08:27:55]: nenny [\ЧՁθ/, Level 15]: xddd
+[2021-04-29 08:28:01]: ***  [, Level 0]: '(1)nenny' has left the game (Timeout Protection over)
+[2021-04-29 08:28:01]: Taro [Shokokuki, Level 0]: what
+[2021-04-29 08:28:02]: ***  [, Level 0]: '(1)nenny' entered and joined the game
+[2021-04-29 08:28:03]: Taro [Shokokuki, Level 0]: sex world
+[2021-04-29 08:28:04]: Mondaa [(none), Level 0]: I wish fokkonaut removed portal gun
+[2021-04-29 08:28:08]: Mondaa [(none), Level 0]: its so fucking op
+[2021-04-29 08:28:11]: nenny [\ЧՁθ/, Level 15]: SRY Link
+[2021-04-29 08:28:17]: ***  [, Level 0]: 'SanoreX' entered and joined the game
+[2021-04-29 08:28:22]: ***  [, Level 0]: 'El patron' entered and joined the game
+[2021-04-29 08:28:28]: ***  [, Level 0]: '[D] El patron' entered and joined the game
+[2021-04-29 08:28:42]: Link [\ЧՁθ/, Level 14]: nenny: xD
+[2021-04-29 08:28:44]: (1)nenny [\ЧՁθ/, Level 0]: :d
+[2021-04-29 08:28:48]: SanoreX [Chilli.*, Level 30]: Ðream: I give u 10k and peace
+[2021-04-29 08:28:56]: SanoreX [Chilli.*, Level 30]: Ðream: pls peacceeee
