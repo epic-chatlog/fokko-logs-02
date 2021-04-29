@@ -13262,3 +13262,6 @@
 [2021-04-29 15:35:32]: NeMo [, Level 28]: PL4T5:
 [2021-04-29 15:37:30]: ***  [, Level 0]: 'Zʷʰʸˀ' has left the game
 [2021-04-29 15:37:30]: ***  [, Level 0]: '(1)Zʷʰʸˀ' has left the game
+[2021-04-29 15:38:11]: ***  [, Level 0]: '(3)Zʷʰʸˀ' has left the game
+[2021-04-29 15:38:11]: ***  [, Level 0]: '(2)Zʷʰʸˀ' has left the game
+[2021-04-29 15:39:29]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
