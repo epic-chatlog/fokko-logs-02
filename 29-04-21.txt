@@ -13270,3 +13270,19 @@
 [2021-04-29 15:47:22]: ***  [, Level 0]: 'naabitte' has left the game
 [2021-04-29 15:47:37]: NeMo [, Level 28]: xDDDD
 [2021-04-29 15:47:40]: NeMo [, Level 28]: FUN WAR?
+[2021-04-29 15:48:09]: NeMo [, Level 28]: ok i let u farm
+[2021-04-29 15:48:10]: NeMo [, Level 28]: sry
+[2021-04-29 15:49:29]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-29 15:49:48]: (1)PL4T5 [, Level 5]: NeMo: Ur low lvl
+[2021-04-29 15:49:53]: (3)NeMo [, Level 19]: yes
+[2021-04-29 15:50:07]: NeMo [, Level 28]: I KNOW
+[2021-04-29 15:50:17]: (1)PL4T5 [, Level 5]: u cant get into police by yourself
+[2021-04-29 15:50:23]: NeMo [, Level 28]: what?
+[2021-04-29 15:50:24]: NeMo [, Level 28]: wait
+[2021-04-29 15:51:07]: (3)NeMo [, Level 19]: spec
+[2021-04-29 15:51:30]: (3)NeMo [, Level 19]: oh
+[2021-04-29 15:51:32]: (3)NeMo [, Level 19]: wait
+[2021-04-29 15:51:40]: PL4T5 [, Level 32]: NeMo: is that how u get in
+[2021-04-29 15:51:48]: (3)NeMo [, Level 19]: yes
+[2021-04-29 15:52:20]: (3)NeMo [, Level 19]: erhuhifer
+[2021-04-29 15:52:27]: (3)NeMo [, Level 19]: i swear it works
