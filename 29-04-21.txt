@@ -12718,3 +12718,19 @@
 [2021-04-29 13:03:40]: ***  [, Level 0]: 'Mr. Luck' has left the game (Timeout)
 [2021-04-29 13:03:41]: ***  [, Level 0]: 'Mr. White' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-29 13:03:52]: ***  [, Level 0]: 'AMOGUS(fake)' would have timed out, but can use timeout protection now
+[2021-04-29 13:12:47]: ***  [, Level 0]: '(1)o' entered and joined the game
+[2021-04-29 13:12:47]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.2, by fokkonaut
+[2021-04-29 13:12:50]: ***  [, Level 0]: '(1)DiscordBridge' entered and joined the game
+[2021-04-29 13:12:50]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.2, by fokkonaut
+[2021-04-29 13:12:50]: ***  [, Level 0]: Successfully logged in
+[2021-04-29 13:14:29]: ***  [, Level 0]: 'Nudelsaft c:' would have timed out, but can use timeout protection now
+[2021-04-29 13:14:30]: ***  [, Level 0]: 'the last AMOGUS' would have timed out, but can use timeout protection now
+[2021-04-29 13:14:30]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-29 13:14:36]: ***  [, Level 0]: 'CAPITAN DNO' has left the game (Timeout)
+[2021-04-29 13:14:37]: ***  [, Level 0]: '(1)P4Pyr0s' has left the game (Timeout)
+[2021-04-29 13:15:02]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-29 13:15:29]: ***  [, Level 0]: 'fokkonaut' entered and joined the game
+[2021-04-29 13:15:49]: ***  [, Level 0]: 'fokkonaut' has left the game
+[2021-04-29 13:15:53]: ***  [, Level 0]: 'Dke' entered and joined the game
+[2021-04-29 13:15:57]: ***  [, Level 0]: 'fokkonaut' entered and joined the game
+[2021-04-29 13:16:06]: ***  [, Level 0]: 'fokkonaut' has left the game
