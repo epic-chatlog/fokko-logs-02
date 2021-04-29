@@ -12991,3 +12991,19 @@
 [2021-04-29 14:30:28]: ***  [, Level 0]: 'Diwik' has left the game
 [2021-04-29 14:30:32]: ***  [, Level 0]: 'Tut' entered and joined the game
 [2021-04-29 14:30:41]: ***  [, Level 0]: 'ghfdjxc' entered and joined the game
+[2021-04-29 14:33:11]: ghfdjxc [, Level 0]: Tut:
+[2021-04-29 14:33:31]: ghfdjxc [, Level 0]: ZillyDreck:
+[2021-04-29 14:33:35]: ghfdjxc [, Level 0]: Bozzkurt:
+[2021-04-29 14:33:41]: ***  [, Level 0]: 'Tut' has left the game
+[2021-04-29 14:33:50]: ***  [, Level 0]: 'Tut' entered and joined the game
+[2021-04-29 14:34:30]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-29 14:34:37]: NeMo [, Level 28]: صاخ شقث ع
+[2021-04-29 14:34:38]: ghfdjxc [, Level 0]: NeMo: why ?
+[2021-04-29 14:34:40]: NeMo [, Level 28]: who are u
+[2021-04-29 14:34:46]: ghfdjxc [, Level 0]: I'm friendly
+[2021-04-29 14:34:48]: ghfdjxc [, Level 0]: Bozzkurt: know me
+[2021-04-29 14:35:45]: ghfdjxc [, Level 0]: NeMo: reset ?
+[2021-04-29 14:35:52]: NeMo [, Level 28]: iyeah
+[2021-04-29 14:36:26]: NeMo [, Level 28]: Bozzkurt:
+[2021-04-29 14:36:37]: NeMo [, Level 28]: (2)Zʷʰʸˀ:
+[2021-04-29 14:36:39]: NeMo [, Level 28]: (1)Zʷʰʸˀ:
