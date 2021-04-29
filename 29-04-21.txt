@@ -12741,3 +12741,4 @@
 [2021-04-29 13:18:30]: ***  [, Level 0]: 'the last AMOGUS' has left the game (Timeout Protection over)
 [2021-04-29 13:19:30]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-29 13:20:29]: Cylox. [, Level 0]: flappy: fuck you
+[2021-04-29 13:24:30]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
