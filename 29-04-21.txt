@@ -13356,3 +13356,15 @@
 [2021-04-29 16:02:31]: (1)PL4T5 [, Level 5]: he gunna portal spike
 [2021-04-29 16:02:40]: ***  [, Level 0]: NeMo's killing spree was ended by Hunter.exe (8 blocks)
 [2021-04-29 16:02:41]: NeMo [, Level 28]: oh there is ur 100k xDDDDD
+[2021-04-29 16:03:42]: ***  [, Level 0]: '[D] Hunter.exe' entered and joined the game
+[2021-04-29 16:04:29]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-29 16:05:01]: ***  [, Level 0]: 'power' entered and joined the game
+[2021-04-29 16:05:09]: power [, Level 0]: PARTYY PARTYYY
+[2021-04-29 16:05:12]: power [, Level 0]: sup ppl
+[2021-04-29 16:05:34]: power [, Level 0]: police
+[2021-04-29 16:05:36]: power [, Level 0]: anyone
+[2021-04-29 16:05:38]: power [, Level 0]: free booze
+[2021-04-29 16:07:18]: power [, Level 0]: wakee wakeee PL4T5
+[2021-04-29 16:07:42]: (1)PL4T5 [, Level 5]: power: dumb
+[2021-04-29 16:07:46]: power [, Level 0]: :D
+[2021-04-29 16:07:54]: power [, Level 0]: sup Hunter.exe <3
