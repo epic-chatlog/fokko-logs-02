@@ -340,3 +340,64 @@
 [2021-04-29 00:31:09]: Axandos [, Level 27]: pidar
 [2021-04-29 00:31:09]: Isegrin [, Level 55]: Axandos: prank
 [2021-04-29 00:31:19]: nenny [\ЧՁθ/, Level 0]: hey cat   i am in the right
+[2021-04-29 00:31:29]: ryen [, Level 0]: rly
+[2021-04-29 00:31:35]: ***  [, Level 0]: Axandos is on a killing spree with 5 blocks
+[2021-04-29 00:31:38]: Axandos [, Level 27]: Isegrin:  pussy
+[2021-04-29 00:31:41]: Isegrin [, Level 55]: u
+[2021-04-29 00:31:48]: ***  [, Level 0]: 'ГУСЬ' entered and joined the game
+[2021-04-29 00:31:49]: birthday keeper [Chilli.*, Level 31]: Ƭevan: look down
+[2021-04-29 00:31:52]: (1)Toniloni [\ЧՁθ/, Level 12]: Axandos:  also Isegrin  der nur eine gehirnhälfte hat zu besiegen ist auch nicht schwer
+[2021-04-29 00:32:07]: Isegrin [, Level 55]: f"{self.name}": prank
+[2021-04-29 00:32:09]: Axandos [, Level 27]: Isegrin:  he hates u
+[2021-04-29 00:32:15]: f"{self.name}" [, Level 0]: Isegrin: prank :D
+[2021-04-29 00:32:28]: ***  [, Level 0]: 'Leazerteam' has left the game
+[2021-04-29 00:32:33]: KingCuBer3 [KVKY, Level 24]: off
+[2021-04-29 00:32:38]: KingCuBer3 [KVKY, Level 24]: oof
+[2021-04-29 00:32:39]: Isegrin [, Level 55]: Hawli bir insan: jail
+[2021-04-29 00:32:41]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-29 00:32:47]: ***  [, Level 0]: Bozzkurt is on a killing spree with 5 blocks
+[2021-04-29 00:32:50]: ***  [, Level 0]: 'CuBerMaN1' entered and joined the game
+[2021-04-29 00:33:01]: ***  [, Level 0]: 'Nuagebiscuit' has left the game
+[2021-04-29 00:33:01]: ***  [, Level 0]: '[D] Nuagebiscui' has left the game
+[2021-04-29 00:33:03]: ***  [, Level 0]: 'Nerien' has left the game
+[2021-04-29 00:33:03]: ***  [, Level 0]: 'Neiren' has left the game
+[2021-04-29 00:33:06]: ***  [, Level 0]: 'Nerien' entered and joined the game
+[2021-04-29 00:33:10]: ***  [, Level 0]: 'Neiren' entered and joined the game
+[2021-04-29 00:33:20]: (1)nenny [\ЧՁθ/, Level 14]: f"{self.name}":  life4war
+[2021-04-29 00:33:22]: (1)nenny [\ЧՁθ/, Level 14]: P4Pyr0s:  help
+[2021-04-29 00:33:34]: le_trackers [Limoncello, Level 8]: wtf
+[2021-04-29 00:33:42]: ***  [, Level 0]: 'Graphy' entered and joined the game
+[2021-04-29 00:33:57]: Adleg [, Level 4]: help by bank pls
+[2021-04-29 00:33:58]: ryen [, Level 0]: Tevan pls
+[2021-04-29 00:34:03]: Axandos² [, Level 22]: AAAAAAAAAA
+[2021-04-29 00:34:04]: ryen [, Level 0]: Tevan pls
+[2021-04-29 00:34:08]: ***  [, Level 0]: 'Marcisten' entered and joined the game
+[2021-04-29 00:34:09]: ryen [, Level 0]: Tevan pls
+[2021-04-29 00:34:12]: ***  [, Level 0]: 'ryen' has been muted for 60 seconds
+[2021-04-29 00:34:29]: CuBerMaN1 [KVKY, Level 0]: brrooo
+[2021-04-29 00:34:31]: CuBerMaN1 [KVKY, Level 0]: why
+[2021-04-29 00:34:45]: ***  [, Level 0]: 'Graphy' has left the game
+[2021-04-29 00:34:46]: ***  [, Level 0]: Nerien finished in: 1 minute(s) 29.44 second(s)
+[2021-04-29 00:34:48]: ***  [, Level 0]: Neiren finished in: 1 minute(s) 32.64 second(s)
+[2021-04-29 00:34:48]:   [, Level 0]: Marcisten: f"{self.name}": pro xD
+[2021-04-29 00:34:53]: nenny [\ЧՁθ/, Level 0]: good
+[2021-04-29 00:35:00]: ***  [, Level 0]: 'keity tee' has left the game
+[2021-04-29 00:35:07]: (1)Toniloni [\ЧՁθ/, Level 12]: oh sry
+[2021-04-29 00:35:15]: Hawli bir insan [freeporçay, Level 0]: at insan: gel
+[2021-04-29 00:35:18]: nenny [\ЧՁθ/, Level 0]: Toniloni:
+[2021-04-29 00:35:20]: ***  [, Level 0]: 'Seya' entered and joined the game
+[2021-04-29 00:35:23]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
+[2021-04-29 00:35:26]: P4Pyr0s [FookinLads, Level 31]: Fearless:
+[2021-04-29 00:35:29]: ***  [, Level 0]: '1' entered and joined the game
+[2021-04-29 00:35:30]: Fearless [, Level 40]: dogs
+[2021-04-29 00:35:32]: P4Pyr0s [FookinLads, Level 31]: IU wont save you again
+[2021-04-29 00:35:33]: ***  [, Level 0]: '1' has left the game
+[2021-04-29 00:35:34]: KingCuBer3 [KVKY, Level 24]: give money
+[2021-04-29 00:35:35]: KingCuBer3 [KVKY, Level 24]: 500
+[2021-04-29 00:35:35]: Fearless [, Level 40]: Axandos:  men cant
+[2021-04-29 00:35:39]: KingCuBer3 [KVKY, Level 24]: giveee
+[2021-04-29 00:35:40]: ***  [, Level 0]: '1' entered and joined the game
+[2021-04-29 00:35:45]: Fearless [, Level 40]: Beaux.:
+[2021-04-29 00:35:45]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-29 00:35:55]: Fearless [, Level 40]: nenny:  btw gg ur out of police
+[2021-04-29 00:36:01]: ***  [, Level 0]: 'nameless tee' has left the game
