@@ -13254,3 +13254,11 @@
 [2021-04-29 15:30:51]: GODLIKe [, Level 44]: PRANK
 [2021-04-29 15:30:52]: power [, Level 0]: Zʷʰʸˀ: hi
 [2021-04-29 15:31:26]: ***  [, Level 0]: 'power' has left the game
+[2021-04-29 15:34:20]: ***  [, Level 0]: 'GODLIKe' has left the game
+[2021-04-29 15:34:29]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-29 15:34:54]: (3)NeMo [, Level 19]: (1)PL4T5:
+[2021-04-29 15:35:05]: (3)NeMo [, Level 19]: Zʷʰʸˀ:
+[2021-04-29 15:35:27]: NeMo [, Level 28]: (1)Zʷʰʸˀ:
+[2021-04-29 15:35:32]: NeMo [, Level 28]: PL4T5:
+[2021-04-29 15:37:30]: ***  [, Level 0]: 'Zʷʰʸˀ' has left the game
+[2021-04-29 15:37:30]: ***  [, Level 0]: '(1)Zʷʰʸˀ' has left the game
