@@ -23376,3 +23376,33 @@
 [2021-04-28 22:34:47]: PL4T5 [, Level 0]: one sec Boti.
 [2021-04-28 22:34:49]: Boti. [.bad, Level 33]: okay
 [2021-04-28 22:34:54]: PL4T5 [, Level 0]: do whatever u want
+[2021-04-28 22:35:40]: Link [\ЧՁθ/, Level 0]: BulgarianTee: help siefx3005 ???
+[2021-04-28 22:35:45]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-28 22:35:49]: BulgarianTee [Bulgaria, Level 0]: Link: yes
+[2021-04-28 22:36:31]: ***  [, Level 0]: 'bob' entered and joined the game
+[2021-04-28 22:36:35]: PL4T5 [, Level 0]: ok i switched it to see levels now
+[2021-04-28 22:36:40]: BulgarianTee [Bulgaria, Level 0]: bob: yooo
+[2021-04-28 22:36:42]: ***  [, Level 0]: 'bob' has left the game
+[2021-04-28 22:36:54]: Boti. [.bad, Level 33]: rq
+[2021-04-28 22:36:56]: PL4T5 [, Level 0]: oof lag
+[2021-04-28 22:37:05]: PL4T5 [, Level 0]: damn he immediately left
+[2021-04-28 22:37:05]: ***  [, Level 0]: '自由' has left the game
+[2021-04-28 22:37:18]: PL4T5 [, Level 0]: BulgarianTee: what kinda of voodoo magic did u do to the poor guy xd
+[2021-04-28 22:37:26]: BulgarianTee [Bulgaria, Level 0]: PL4T5: doesnt matter now
+[2021-04-28 22:37:33]: PL4T5 [, Level 0]: mf back off
+[2021-04-28 22:37:50]: Boti. [.bad, Level 33]: siefx3005: bad coffe
+[2021-04-28 22:37:55]: BulgarianTee [Bulgaria, Level 0]: coffee*
+[2021-04-28 22:37:56]: siefx3005 [ANIME MAN, Level 0]: WHY
+[2021-04-28 22:37:57]: Link [\ЧՁθ/, Level 14]: PL4T5: and ?
+[2021-04-28 22:37:59]: Boti. [.bad, Level 33]: e
+[2021-04-28 22:38:10]: Boti. [.bad, Level 33]: siefx3005: because yes
+[2021-04-28 22:38:14]: ***  [, Level 0]: 'siefx3005' joined the spectators
+[2021-04-28 22:38:17]: PL4T5 [, Level 0]: Link: whats the problem
+[2021-04-28 22:38:18]: ***  [, Level 0]: 'siefx3005' joined the game
+[2021-04-28 22:38:24]: PL4T5 [, Level 0]: Link: u dont need to be here
+[2021-04-28 22:38:30]: Link [\ЧՁθ/, Level 14]: PL4T5: ????
+[2021-04-28 22:38:34]: PL4T5 [, Level 0]: Link: ur not high enough level to get perks here it doesnt matter
+[2021-04-28 22:38:52]: BulgarianTee [Bulgaria, Level 0]: BRUH 40 MORE MIN TILL PHYSICS END BRUUUUH
+[2021-04-28 22:39:17]: PL4T5 [, Level 0]: i just realized
+[2021-04-28 22:39:59]: Boti. [.bad, Level 33]: You added flappy to the police helpers
+[2021-04-28 22:40:00]: Boti. [.bad, Level 33]: gud
