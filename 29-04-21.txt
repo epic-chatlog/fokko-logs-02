@@ -12699,3 +12699,12 @@
 [2021-04-29 12:51:00]: ***  [, Level 0]: 'Ƭevan' has left the game (Timeout)
 [2021-04-29 12:51:01]: ***  [, Level 0]: '(2)casserole :p' has left the game (Timeout)
 [2021-04-29 12:51:01]: ***  [, Level 0]: 'ByRushYT' has left the game (Timeout)
+[2021-04-29 12:51:23]: ***  [, Level 0]: 'casserole :p' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-29 12:52:00]: ***  [, Level 0]: '(1)[D] P4Pyr0s' has left the game (Timeout)
+[2021-04-29 12:52:07]: ***  [, Level 0]: '(3)Zʷʰʸˀ' has left the game (Timeout)
+[2021-04-29 12:54:05]: ***  [, Level 0]: '[D] Senpaii' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-29 12:54:13]: ***  [, Level 0]: 'Toniloni' has left the game (Timeout Protection over)
+[2021-04-29 12:54:31]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-29 12:54:41]: [D] taco bell [, Level 13]: kind of lagging
+[2021-04-29 12:55:41]: ***  [, Level 0]: '[D] taco bell' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-29 12:55:50]: ***  [, Level 0]: 'Zephir ツ' has left the game (Timeout Protection over)
