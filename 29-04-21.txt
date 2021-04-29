@@ -12742,3 +12742,13 @@
 [2021-04-29 13:19:30]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-29 13:20:29]: Cylox. [, Level 0]: flappy: fuck you
 [2021-04-29 13:24:30]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-29 13:27:35]: ***  [, Level 0]: 'taco bell' has left the game
+[2021-04-29 13:27:35]: ***  [, Level 0]: '[D] taco bell' has left the game
+[2021-04-29 13:28:01]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-29 13:28:22]: ***  [, Level 0]: 'f"{self.name}"' has left the game
+[2021-04-29 13:29:30]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-29 13:29:36]: ***  [, Level 0]: 'Dke' has left the game
+[2021-04-29 13:30:09]: ***  [, Level 0]: 'Shiro.' entered and joined the game
+[2021-04-29 13:30:41]: ***  [, Level 0]: 'Shiro,' entered and joined the game
+[2021-04-29 13:30:46]: Cylox. [, Level 0]: Shiro,:
+[2021-04-29 13:31:00]: Cylox. [, Level 0]: wtf
