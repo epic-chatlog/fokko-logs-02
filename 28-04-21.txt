@@ -21992,3 +21992,24 @@
 [2021-04-28 19:23:21]: UwU [, Level 42]: why does it ping me? do you have it already?
 [2021-04-28 19:23:38]: NeMo [, Level 28]: 0
 [2021-04-28 19:23:40]: ***  [, Level 0]: 'okok' has left the game
+[2021-04-28 19:24:18]: UwU. [, Level 1]: UwU: I get every one
+[2021-04-28 19:24:18]: ok [BDSM, Level 45]: dont move
+[2021-04-28 19:24:30]: UwU [, Level 42]: UwU.: wdym?
+[2021-04-28 19:24:43]: UwU. [, Level 1]: UwU: If you say "hack" "krx" it will give you the details
+[2021-04-28 19:24:47]: ***  [, Level 0]: 'ok' has left the game
+[2021-04-28 19:24:59]: UwU. [, Level 1]: UwU: TeigHuhn Has v.2
+[2021-04-28 19:25:06]: UwU. [, Level 1]: UwU: I hasve v.3
+[2021-04-28 19:25:10]: NeMo [, Level 28]: i want ur client kir
+[2021-04-28 19:25:25]: YemDx [, Level 0]: K Client Or KRX-client
+[2021-04-28 19:25:28]: NeMo [, Level 28]: client
+[2021-04-28 19:25:33]: UwU. [, Level 1]: YemDx: KRX
+[2021-04-28 19:25:35]: NeMo [, Level 28]: oh TeigHuhn  is a bot or what
+[2021-04-28 19:25:38]: YemDx [, Level 0]: ?
+[2021-04-28 19:25:42]: UwU. [, Level 1]: YemDx: k client sucks
+[2021-04-28 19:25:45]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-28 19:26:38]: UwU [, Level 42]: NeMo: i havent uploaded the client yet
+[2021-04-28 19:26:45]: UwU [, Level 42]: i just compiled it with visual studio
+[2021-04-28 19:26:45]: NeMo [, Level 28]: OH
+[2021-04-28 19:26:57]: UwU [, Level 42]: NeMo: so when i publish it anytime idk if i do you can use it xD
+[2021-04-28 19:28:26]: UwU [, Level 42]: UwU: next feature i will code for my client will be auto unfreeze. I try to do this with laser
+[2021-04-28 19:28:49]: ***  [, Level 0]: 'AbdoZX17' entered and joined the game
