@@ -12752,3 +12752,9 @@
 [2021-04-29 13:30:41]: ***  [, Level 0]: 'Shiro,' entered and joined the game
 [2021-04-29 13:30:46]: Cylox. [, Level 0]: Shiro,:
 [2021-04-29 13:31:00]: Cylox. [, Level 0]: wtf
+[2021-04-29 13:34:30]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-29 13:34:36]: ***  [, Level 0]: 'WikiDean' entered and joined the game
+[2021-04-29 13:34:56]: ***  [, Level 0]: 'Axel' entered and joined the game
+[2021-04-29 13:35:11]: ***  [, Level 0]: 'Tut' entered and joined the game
+[2021-04-29 13:35:47]: Tut [, Level 0]: Isegrin:
+[2021-04-29 13:35:56]: ***  [, Level 0]: 'Axel ²' entered and joined the game
