@@ -21350,3 +21350,6 @@
 [2021-04-28 17:40:45]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-28 17:42:57]: !TeeF_ [, Level 0]: oh no
 [2021-04-28 17:45:45]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-28 17:50:13]: !TeeF_ [, Level 0]: COME ON
+[2021-04-28 17:50:14]: !TeeF_ [, Level 0]: :@@@@@@@@@
+[2021-04-28 17:50:45]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
