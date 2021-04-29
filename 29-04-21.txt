@@ -13586,3 +13586,6 @@
 [2021-04-29 16:45:18]: Hunter.exe [DogParty, Level 37]: Isegrin
 [2021-04-29 16:46:10]: ***  [, Level 0]: 'Neosia' entered and joined the game
 [2021-04-29 16:46:14]: ***  [, Level 0]: 'Neosia' has left the game
+[2021-04-29 16:49:29]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-29 16:51:42]: ***  [, Level 0]: 'HeavyGeneral' entered and joined the game
+[2021-04-29 16:52:08]: ***  [, Level 0]: 'HeavyGeneral' has left the game
