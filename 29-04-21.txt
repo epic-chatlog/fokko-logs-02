@@ -12863,3 +12863,23 @@
 [2021-04-29 13:54:31]: Isegrin [, Level 55]: JEBAT
 [2021-04-29 13:55:07]: ***  [, Level 0]: 'Zʷʰʸˀ' entered and joined the game
 [2021-04-29 13:55:37]: ***  [, Level 0]: '(1)Zʷʰʸˀ' entered and joined the game
+[2021-04-29 13:58:01]: ***  [, Level 0]: Zʷʰʸˀ finished in: 1 minute(s)  2.46 second(s)
+[2021-04-29 13:58:01]: ***  [, Level 0]: New record: 1 minute(s) 36.90 second(s) better.
+[2021-04-29 13:58:03]: ***  [, Level 0]: (1)Zʷʰʸˀ finished in: 2 minute(s) 20.84 second(s)
+[2021-04-29 13:58:03]: ***  [, Level 0]: New record: 14.28 second(s) better.
+[2021-04-29 13:58:03]: ***  [, Level 0]: ZillyKek finished in: 4 minute(s) 18.92 second(s)
+[2021-04-29 13:58:27]: Isegrin [, Level 55]: suka
+[2021-04-29 13:59:10]: Isegrin [, Level 55]: lox
+[2021-04-29 13:59:14]: Axel [TrRShClNrRs, Level 31]: sam takoy
+[2021-04-29 13:59:20]: Axel [TrRShClNrRs, Level 31]: senior pidorashka
+[2021-04-29 13:59:30]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-29 13:59:41]: ***  [, Level 0]: 'Virus' has left the game
+[2021-04-29 13:59:41]: ***  [, Level 0]: 'Isegrin' has left the game
+[2021-04-29 13:59:43]: Axel [TrRShClNrRs, Level 31]: rq
+[2021-04-29 13:59:54]: Axel [TrRShClNrRs, Level 31]: ez moni
+[2021-04-29 14:00:31]: ***  [, Level 0]: '(1)Zʷʰʸˀ' finished the special race!
+[2021-04-29 14:00:34]: ***  [, Level 0]: 'ZillyKek' finished the special race!
+[2021-04-29 14:00:38]: ***  [, Level 0]: 'Zʷʰʸˀ' finished the special race!
+[2021-04-29 14:00:50]: ***  [, Level 0]: '(2)NeMo' entered and joined the game
+[2021-04-29 14:00:53]: ZillyKek [, Level 0]: Zʷʰʸˀ: thx
+[2021-04-29 14:01:09]: ***  [, Level 0]: '(2)NeMo' has left the game
