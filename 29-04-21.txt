@@ -12918,3 +12918,10 @@
 [2021-04-29 14:10:53]: ***  [, Level 0]: 'magik E' entered and joined the game
 [2021-04-29 14:11:44]: ***  [, Level 0]: 'Axel ²' has left the game
 [2021-04-29 14:11:44]: ***  [, Level 0]: 'Axel' has left the game
+[2021-04-29 14:12:05]: ***  [, Level 0]: 'magik D' has left the game
+[2021-04-29 14:12:05]: ***  [, Level 0]: 'magik E' has left the game
+[2021-04-29 14:12:29]: ***  [, Level 0]: 'Split' entered and joined the game
+[2021-04-29 14:12:32]: ***  [, Level 0]: 'Split' has left the game
+[2021-04-29 14:14:30]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-29 14:17:01]: ***  [, Level 0]: '(1)casserole :p' has left the game (Timeout)
+[2021-04-29 14:17:02]: ***  [, Level 0]: 'casserole :p' has left the game (Timeout)
