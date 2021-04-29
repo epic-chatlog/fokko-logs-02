@@ -12712,3 +12712,9 @@
 [2021-04-29 12:56:51]: Nudelsaft c: [FookinLads, Level 60]: a
 [2021-04-29 12:56:57]: ***  [, Level 0]: 'noah' has left the game (Timeout Protection over)
 [2021-04-29 12:57:20]: ***  [, Level 0]: 'soleri1' has left the game (Timeout)
+[2021-04-29 13:01:52]: ***  [, Level 0]: '(1)o' entered and joined the game
+[2021-04-29 13:01:52]: ***  [, Level 0]: F-DDrace Mod. Version: 0.7/0.6, 12.2, by fokkonaut
+[2021-04-29 13:01:57]: ***  [, Level 0]: 'xalina' has left the game (Timeout Protection over)
+[2021-04-29 13:03:40]: ***  [, Level 0]: 'Mr. Luck' has left the game (Timeout)
+[2021-04-29 13:03:41]: ***  [, Level 0]: 'Mr. White' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-29 13:03:52]: ***  [, Level 0]: 'AMOGUS(fake)' would have timed out, but can use timeout protection now
