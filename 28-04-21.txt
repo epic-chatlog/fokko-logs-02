@@ -22158,3 +22158,9 @@
 [2021-04-28 19:53:19]: YemDx [MOD-, Level 0]: MOD-
 [2021-04-28 19:53:33]: ***  [, Level 0]: 'YemDx' has left the game (You have been banned for 5 minutes (Too many remote console authentication tries))
 [2021-04-28 19:53:57]: ***  [, Level 0]: AbdoZX17 finished in: 3 minute(s) 48.60 second(s)
+[2021-04-28 19:55:45]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-28 19:57:47]: ***  [, Level 0]: 'siefx3005' entered and joined the game
+[2021-04-28 19:58:43]: UwU [, Level 42]: AbdoZX17: really?
+[2021-04-28 19:58:47]: AbdoZX17 [, Level 37]: UwU: no jk
+[2021-04-28 19:58:58]: UwU [, Level 42]: ... bro
+[2021-04-28 19:59:04]: ***  [, Level 0]: 'YemDx' entered and joined the game
