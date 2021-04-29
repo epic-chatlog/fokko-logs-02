@@ -21349,3 +21349,4 @@
 [2021-04-28 17:39:49]: Kirito [{TQuila}, Level 42]: ITS BORING HERE :((((
 [2021-04-28 17:40:45]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-28 17:42:57]: !TeeF_ [, Level 0]: oh no
+[2021-04-28 17:45:45]: ***  [, Level 0]: [INFO] You can create an account using '/register'
