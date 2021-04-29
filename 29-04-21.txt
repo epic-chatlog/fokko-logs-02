@@ -13225,3 +13225,7 @@
 [2021-04-29 15:11:13]: Tut [, Level 0]: hOW
 [2021-04-29 15:11:21]: ***  [, Level 0]: ### 'Tut' hOW
 [2021-04-29 15:11:44]: weqe [669, Level 0]: Bozzkurt [D]:
+[2021-04-29 15:14:30]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-29 15:15:06]: weqe [669, Level 0]: Bozzkurt [D]:
+[2021-04-29 15:15:31]: Bozzkurt [SkinLover, Level 0]: weqe: he need his dummy xD
+[2021-04-29 15:15:55]: ***  [, Level 0]: 'Tut' has left the game (Too weak connection (not acked for 60 seconds))
