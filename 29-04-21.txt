@@ -12708,3 +12708,7 @@
 [2021-04-29 12:54:41]: [D] taco bell [, Level 13]: kind of lagging
 [2021-04-29 12:55:41]: ***  [, Level 0]: '[D] taco bell' has left the game (Too weak connection (not acked for 60 seconds))
 [2021-04-29 12:55:50]: ***  [, Level 0]: 'Zephir ツ' has left the game (Timeout Protection over)
+[2021-04-29 12:56:40]: ***  [, Level 0]: 'AwakeneDemoN☣' has left the game (Timeout Protection over)
+[2021-04-29 12:56:51]: Nudelsaft c: [FookinLads, Level 60]: a
+[2021-04-29 12:56:57]: ***  [, Level 0]: 'noah' has left the game (Timeout Protection over)
+[2021-04-29 12:57:20]: ***  [, Level 0]: 'soleri1' has left the game (Timeout)
