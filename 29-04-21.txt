@@ -13393,3 +13393,35 @@
 [2021-04-29 16:10:45]: power [, Level 0]: cool game tho!
 [2021-04-29 16:10:52]: (1)PL4T5 [, Level 5]: ye
 [2021-04-29 16:12:06]: power [, Level 0]: that looks cool Hunter.exe
+[2021-04-29 16:13:25]: ***  [, Level 0]: 'Shiro.' entered and joined the game
+[2021-04-29 16:13:27]: Shiro. [, Level 0]: Hunter.exe: MEN
+[2021-04-29 16:13:30]: Shiro. [, Level 0]: SEND ME UR GAME.PNG
+[2021-04-29 16:13:33]: (1)PL4T5 [, Level 5]: Shiro.: long time no see
+[2021-04-29 16:13:35]: Shiro. [, Level 51]: SEND ME UR GAME.PNG
+[2021-04-29 16:13:39]: Hunter.exe [DogParty, Level 37]: Shiro.: 5 uro
+[2021-04-29 16:13:40]: Shiro. [, Level 51]: Hunter.exe: MEN
+[2021-04-29 16:13:42]: Shiro. [, Level 51]: SEND ME UR GAME.PNG
+[2021-04-29 16:13:42]: ***  [, Level 0]: 'power' has left the game (Timeout)
+[2021-04-29 16:13:46]: Shiro. [, Level 51]: Hunter.exe: MEN
+[2021-04-29 16:13:47]: ***  [, Level 0]: 'Shiro.' has been muted for 60 seconds
+[2021-04-29 16:14:29]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-29 16:15:04]: ***  [, Level 0]: 'GODLIKe' entered and joined the game
+[2021-04-29 16:15:13]: ***  [, Level 0]: 'Shiro.' changed name to 'lookscreenshare'
+[2021-04-29 16:16:48]: lookscreenshare [, Level 51]: Hunter.exe: gimme grenade
+[2021-04-29 16:16:52]: ***  [, Level 0]: 'lookscreenshare' changed name to 'Shiro.'
+[2021-04-29 16:16:54]: Shiro. [, Level 51]: i do pp move
+[2021-04-29 16:17:09]: Shiro. [, Level 51]: ALED
+[2021-04-29 16:17:10]: Shiro. [, Level 51]: AELLDLL
+[2021-04-29 16:17:11]: Shiro. [, Level 51]: ALAIDE
+[2021-04-29 16:17:12]: Shiro. [, Level 51]: ALED
+[2021-04-29 16:17:14]: Shiro. [, Level 51]: HELP ME
+[2021-04-29 16:17:23]: Shiro. [, Level 51]: how much points in wat
+[2021-04-29 16:17:26]: Hunter.exe [DogParty, Level 37]: KOG
+[2021-04-29 16:17:27]: Hunter.exe [DogParty, Level 37]: gores
+[2021-04-29 16:17:29]: Shiro. [, Level 51]: 1k
+[2021-04-29 16:17:31]: Shiro. [, Level 51]: i dot play it
+[2021-04-29 16:17:33]: Hunter.exe [DogParty, Level 37]: noob
+[2021-04-29 16:17:38]: Shiro. [, Level 51]: im just tester
+[2021-04-29 16:17:40]: Shiro. [, Level 51]: and mapper
+[2021-04-29 16:18:00]: GODLIKe [, Level 44]: mad
+[2021-04-29 16:18:03]: Shiro. [, Level 51]: Hunter.exe: look pp move
