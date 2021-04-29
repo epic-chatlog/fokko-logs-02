@@ -13542,3 +13542,12 @@
 [2021-04-29 16:33:00]: Hunter.exe [DogParty, Level 37]: bad
 [2021-04-29 16:33:09]: ***  [, Level 0]: 'LaikaGoesHome' entered and joined the game
 [2021-04-29 16:33:10]: Hunter.exe [DogParty, Level 37]: <3
+[2021-04-29 16:33:22]: ***  [, Level 0]: 'LaikaGoesHome' has left the game
+[2021-04-29 16:33:24]: ***  [, Level 0]: 'LaikaGoesHome' entered and joined the game
+[2021-04-29 16:33:31]: ***  [, Level 0]: 'LaikaGoesHome' joined the spectators
+[2021-04-29 16:33:39]: ***  [, Level 0]: 'LaikaGoesHome' has left the game
+[2021-04-29 16:34:29]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-29 16:37:21]: Shiro. [, Level 51]: go fuck yo motha
+[2021-04-29 16:37:22]: Shiro. [, Level 51]: go die
+[2021-04-29 16:37:25]: Hunter.exe [DogParty, Level 37]: O_O
+[2021-04-29 16:37:34]: ***  [, Level 0]: 'LGBT+ General' entered and joined the game
