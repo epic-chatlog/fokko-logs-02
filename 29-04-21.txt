@@ -8413,3 +8413,87 @@
 [2021-04-29 09:24:29]: (1)nenny [\ЧՁθ/, Level 0]: AwakeneDemoN☣:
 [2021-04-29 09:24:30]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-29 09:24:34]:   [, Level 0]: Coca: (2)NeMo: DJ
+[2021-04-29 09:24:42]: [D] im_cloud_ [, Level 0]: Coca:
+[2021-04-29 09:24:52]: ***  [, Level 0]: 'Rengoku' entered and joined the game
+[2021-04-29 09:24:56]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-29 09:24:56]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-29 09:25:01]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-29 09:25:01]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-29 09:25:03]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-29 09:25:04]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-29 09:25:05]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-29 09:25:06]: ***  [, Level 0]: 'Nudelsaft c:' has left the game
+[2021-04-29 09:25:13]: (1)nenny [\ЧՁθ/, Level 0]: nudelsaft c: xd
+[2021-04-29 09:25:33]: Souly [real noby, Level 61]: ChillerDragon:
+[2021-04-29 09:25:33]: Raidon [TrRShCINrRs, Level 21]: P4Pyr0s:
+[2021-04-29 09:25:36]: ***  [, Level 0]: SoulyD's killing spree was ended by AwakeneDemoN☣ (6 blocks)
+[2021-04-29 09:25:42]: Raidon [TrRShCINrRs, Level 21]: P4Pyr0s:
+[2021-04-29 09:25:44]: Hey [, Level 0]: P4Pyr0s:  ?
+[2021-04-29 09:25:47]: (1)nenny [\ЧՁθ/, Level 0]: (1)[D] P4Pyr0s:  help
+[2021-04-29 09:26:00]: ***  [, Level 0]: Good man finished in: 2 minute(s) 21.18 second(s)
+[2021-04-29 09:26:02]: (1)nenny [\ЧՁθ/, Level 0]: Toniloni:
+[2021-04-29 09:26:02]: ***  [, Level 0]: (2)NeMo finished in: 1 minute(s) 31.20 second(s)
+[2021-04-29 09:26:08]: ***  [, Level 0]: Coca finished in: 3 minute(s) 20.60 second(s)
+[2021-04-29 09:26:10]: ***  [, Level 0]: 'Cylox' entered and joined the game
+[2021-04-29 09:26:14]: Raidon [TrRShCINrRs, Level 21]: Souly: come
+[2021-04-29 09:26:27]: ***  [, Level 0]: 'Taro négro' has left the game
+[2021-04-29 09:26:27]: ***  [, Level 0]: 'Taro' has left the game
+[2021-04-29 09:26:34]:   [, Level 0]: Cylox: AA
+[2021-04-29 09:26:35]: CuBerMaN1 [KVKY, Level 19]: cylox
+[2021-04-29 09:26:38]: CuBerMaN1 [KVKY, Level 19]: rifle
+[2021-04-29 09:26:41]: ***  [, Level 0]: 'Nera' entered and joined the game
+[2021-04-29 09:26:43]: CuBerMaN1 [KVKY, Level 19]: rifle
+[2021-04-29 09:26:48]: ***  [, Level 0]: '[D] Nera' entered and joined the game
+[2021-04-29 09:26:49]: Hey [, Level 0]: nenny:  i couldnt help u
+[2021-04-29 09:26:50]: El patron [FookinLads, Level 33]: P4Pyr0s: call
+[2021-04-29 09:26:50]: ***  [, Level 0]: 'hardbass' entered and joined the game
+[2021-04-29 09:26:54]: Duke Ellington [, Level 1]: f"{self.name}": where can i get jetpack ?
+[2021-04-29 09:26:56]: ***  [, Level 0]: 'ĝƦøø†' has left the game
+[2021-04-29 09:27:03]: f"{self.name}" [, Level 18]: Duke Ellington: you gotta do the race
+[2021-04-29 09:27:05]: [D] Hey [, Level 0]: nenny:  team
+[2021-04-29 09:27:08]: ***  [, Level 0]: '[D] Hey' has left the game
+[2021-04-29 09:27:08]: ***  [, Level 0]: 'Hey' has left the game
+[2021-04-29 09:27:09]: ***  [, Level 0]: '(2)NeMo' finished the special race!
+[2021-04-29 09:27:11]: Duke Ellington [, Level 1]: f"{self.name}": wich one ?
+[2021-04-29 09:27:12]: (1)nenny [\ЧՁθ/, Level 0]: no
+[2021-04-29 09:27:15]: Duke Ellington [, Level 1]: f"{self.name}": special ?
+[2021-04-29 09:27:21]: ***  [, Level 0]: '[D] El patron' entered and joined the game
+[2021-04-29 09:27:24]: ***  [, Level 0]: 'Hey' entered and joined the game
+[2021-04-29 09:27:26]: Raidon [TrRShCINrRs, Level 21]: nub
+[2021-04-29 09:27:27]: ***  [, Level 0]: 'Bozzkurt [D]' entered and joined the game
+[2021-04-29 09:27:29]: ***  [, Level 0]: 'Hey' has left the game
+[2021-04-29 09:27:45]: ***  [, Level 0]: 'Teighuhn' entered and joined the game
+[2021-04-29 09:27:48]: Raidon [TrRShCINrRs, Level 21]: Bozzkurt: 2v1 dummy noob
+[2021-04-29 09:27:49]: Raidon [TrRShCINrRs, Level 21]: xddd
+[2021-04-29 09:27:49]: CuBerMaN1 [KVKY, Level 19]: ?
+[2021-04-29 09:28:10]: f"{self.name}" [, Level 18]: Duke Ellington: when you spawn go to the left and ther you will find it
+[2021-04-29 09:28:11]:   [, Level 0]: Vesorp: ChillerDragon:
+[2021-04-29 09:28:16]: Raidon [TrRShCINrRs, Level 21]: Bozzkurt: korkak oç xd
+[2021-04-29 09:28:23]:   [, Level 0]: Cylox: wtf
+[2021-04-29 09:28:26]: ***  [, Level 0]: 'Cylox.' entered and joined the game
+[2021-04-29 09:28:26]: CuBerMaN1 [KVKY, Level 19]: za
+[2021-04-29 09:28:27]: Kodi [train, Level 0]: f"{self.name}": kk
+[2021-04-29 09:28:29]: [D] P4Pyr0s [FookinLads, Level 26]: Zephir ツ:  ich kriege ja auch einen anteil oder xD
+[2021-04-29 09:28:29]: ***  [, Level 0]: 'Good man' finished the special race!
+[2021-04-29 09:28:30]: ***  [, Level 0]: 'Coca' finished the special race!
+[2021-04-29 09:28:31]: Kodi [train, Level 0]: f"{self.name}": thx
+[2021-04-29 09:28:40]: MieSlime [FookinLads, Level 43]: Raidon:  -__- u killed us with ur portal
+[2021-04-29 09:28:44]:   [, Level 0]: SoulyD: omfg
+[2021-04-29 09:28:46]:   [, Level 0]: Cylox.: dur
+[2021-04-29 09:28:49]: Raidon [TrRShCINrRs, Level 21]: MieSlime: ?
+[2021-04-29 09:28:50]: ***  [, Level 0]: 'Rengoku' has left the game
+[2021-04-29 09:28:52]: [D] P4Pyr0s [FookinLads, Level 26]: Zephir ツ:  i will get a piece of the money xD
+[2021-04-29 09:28:53]: ***  [, Level 0]: 'anygiga' entered and joined the game
+[2021-04-29 09:29:03]: ***  [, Level 0]: 'Gojo' entered and joined the game
+[2021-04-29 09:29:06]: ***  [, Level 0]: 'hardbass' has left the game
+[2021-04-29 09:29:06]:   [, Level 0]: (1)Vesorp: Cylox: mnom
+[2021-04-29 09:29:09]:   [, Level 0]: [D] El patron: Nera: wait
+[2021-04-29 09:29:10]: ***  [, Level 0]: 'CuBerMaN1' has left the game
+[2021-04-29 09:29:10]: ***  [, Level 0]: 'KingCuBer3' has left the game
+[2021-04-29 09:29:11]: ***  [, Level 0]: 'Gojo' has left the game
+[2021-04-29 09:29:26]: Raidon [TrRShCINrRs, Level 21]: XDDDDD
+[2021-04-29 09:29:28]: Raidon [TrRShCINrRs, Level 21]: TASER NOOBS
+[2021-04-29 09:29:30]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-29 09:29:31]: ***  [, Level 0]: 'Nudelsaft c:' entered and joined the game
+[2021-04-29 09:29:31]: ***  [, Level 0]: 'KingCuBer3' entered and joined the game
+[2021-04-29 09:29:36]:   [, Level 0]: Cylox.: Vesorp: mnomm
