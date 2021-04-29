@@ -12652,3 +12652,50 @@
 [2021-04-29 12:45:56]:   [, Level 0]: :D: KingCuBer3: bekle
 [2021-04-29 12:46:00]:   [, Level 0]: CuBerMaN1: i dor
 [2021-04-29 12:46:11]: P4Pyr0s [FookinLads, Level 31]: kais:  xD
+[2021-04-29 12:46:21]: ***  [, Level 0]: '»!ʍul†ïï'' has left the game
+[2021-04-29 12:46:24]: Toniloni [\ЧՁθ/, Level 22]: kais:  why you are not a POKEBALL
+[2021-04-29 12:46:26]: P4Pyr0s [FookinLads, Level 31]: kais:  xD
+[2021-04-29 12:46:31]: kais [, Level 66]: P4Pyr0s: -_-
+[2021-04-29 12:46:41]: ***  [, Level 0]: 'James' entered and joined the game
+[2021-04-29 12:46:47]: kais [, Level 66]: Toniloni: because i'm not on ddnet
+[2021-04-29 12:46:51]: ***  [, Level 0]: 'nameless tee' entered and joined the game
+[2021-04-29 12:46:51]: ***  [, Level 0]: 'LichT' has left the game
+[2021-04-29 12:46:51]: ***  [, Level 0]: 'JxK|JoK'Air' has left the game
+[2021-04-29 12:46:55]: Toniloni [\ЧՁθ/, Level 22]: kais: kk
+[2021-04-29 12:47:00]: Link☣ [\ЧՁθ/, Level 14]: Ƭevan: ???
+[2021-04-29 12:47:05]: ***  [, Level 0]: 'tayrel' entered and joined the game
+[2021-04-29 12:47:11]:   [, Level 0]: Only Senpai!: lag var
+[2021-04-29 12:48:20]: ***  [, Level 0]: 'kais' would have timed out, but can use timeout protection now
+[2021-04-29 12:48:22]: ***  [, Level 0]: 'f"{self.name}"' would have timed out, but can use timeout protection now
+[2021-04-29 12:48:25]: ***  [, Level 0]: '[RUS]' has left the game (Timeout)
+[2021-04-29 12:48:25]: ***  [, Level 0]: 'tayrel' would have timed out, but can use timeout protection now
+[2021-04-29 12:48:34]: ***  [, Level 0]: 'lolpoep' has left the game (Timeout)
+[2021-04-29 12:48:37]: KingCuBer3 [KVKY, Level 0]: lag
+[2021-04-29 12:48:40]: ***  [, Level 0]: 'rafel' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-29 12:48:41]: ***  [, Level 0]: 'Only Senpai!' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-29 12:48:47]: ***  [, Level 0]: 'Rainbow Tee' has left the game (Timeout)
+[2021-04-29 12:48:49]: ***  [, Level 0]: 'nameless tee' would have timed out, but can use timeout protection now
+[2021-04-29 12:48:54]: ***  [, Level 0]: 'James' has left the game (Timeout)
+[2021-04-29 12:48:56]: ***  [, Level 0]: 'Bruh.' would have timed out, but can use timeout protection now
+[2021-04-29 12:48:59]: ***  [, Level 0]: 'mT 『Jester』' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-29 12:49:05]: ***  [, Level 0]: '¡ RodCYREX 神' would have timed out, but can use timeout protection now
+[2021-04-29 12:49:10]: ***  [, Level 0]: ':D' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-29 12:49:23]: ***  [, Level 0]: 'YemDx' has left the game (Timeout)
+[2021-04-29 12:49:30]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-29 12:49:35]: ***  [, Level 0]: 'power' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-29 12:49:38]: ***  [, Level 0]: 'power2' has left the game (Timeout)
+[2021-04-29 12:49:45]: ***  [, Level 0]: 'P4Pyr0s' would have timed out, but can use timeout protection now
+[2021-04-29 12:49:49]: ***  [, Level 0]: 'Link☣' has left the game (Timeout)
+[2021-04-29 12:49:53]: ***  [, Level 0]: 'Hawli bir insan' has left the game (Timeout)
+[2021-04-29 12:49:55]: ***  [, Level 0]: '(1)Toniloni' would have timed out, but can use timeout protection now
+[2021-04-29 12:49:57]: ***  [, Level 0]: '[D] P4Pyr0s' would have timed out, but can use timeout protection now
+[2021-04-29 12:50:08]: ***  [, Level 0]: 'CuBerMaN1' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-29 12:50:12]: ***  [, Level 0]: 'Toniloni' would have timed out, but can use timeout protection now
+[2021-04-29 12:50:36]: ***  [, Level 0]: 'the last kozlik' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-29 12:50:41]: ***  [, Level 0]: 'Ļåҕ Lobster' has left the game (Timeout)
+[2021-04-29 12:50:44]: ***  [, Level 0]: 'the last golub' has left the game (Timeout)
+[2021-04-29 12:50:49]: ***  [, Level 0]: '(1)casserole :p' has left the game (Too weak connection (not acked for 60 seconds))
+[2021-04-29 12:50:53]: ***  [, Level 0]: 'LENIN CHRIST' has left the game (Timeout)
+[2021-04-29 12:51:00]: ***  [, Level 0]: 'Ƭevan' has left the game (Timeout)
+[2021-04-29 12:51:01]: ***  [, Level 0]: '(2)casserole :p' has left the game (Timeout)
+[2021-04-29 12:51:01]: ***  [, Level 0]: 'ByRushYT' has left the game (Timeout)
