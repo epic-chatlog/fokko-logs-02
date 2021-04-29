@@ -21,3 +21,41 @@
 [2021-04-29 00:05:45]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
 [2021-04-29 00:06:01]: ***  [, Level 0]: 'noob' entered and joined the game
 [2021-04-29 00:06:05]: ***  [, Level 0]: 'f"{self.name}"' entered and joined the game
+[2021-04-29 00:06:30]: Bozzkurt [SkinLover, Level 0]: vay
+[2021-04-29 00:06:31]: nenny [\ЧՁθ/, Level 0]: .D
+[2021-04-29 00:06:34]: No~Filter [, Level 0]: P4Pyr0s: war
+[2021-04-29 00:06:59]: nenny [\ЧՁθ/, Level 0]: :Ddd
+[2021-04-29 00:07:11]: P4Pyr0s [FookinLads, Level 31]: SenZe: =
+[2021-04-29 00:07:20]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
+[2021-04-29 00:07:43]: ***  [, Level 0]: nenny is on a killing spree with 5 blocks
+[2021-04-29 00:07:47]: SenZe [\ЧՁθ/, Level 31]: lag
+[2021-04-29 00:07:55]: nenny [\ЧՁθ/, Level 0]: pro vs pro
+[2021-04-29 00:08:19]: ***  [, Level 0]: 'Huba' entered and joined the game
+[2021-04-29 00:08:29]: nenny [\ЧՁθ/, Level 0]: Black Mamba: won
+[2021-04-29 00:08:30]: Bozzkurt [SkinLover, Level 0]: well played
+[2021-04-29 00:08:36]: Black Mamba [, Level 0]: GGS
+[2021-04-29 00:08:42]: SenZe [\ЧՁθ/, Level 31]: FOF
+[2021-04-29 00:09:13]: nenny [\ЧՁθ/, Level 0]: oh ok
+[2021-04-29 00:09:20]: nenny [\ЧՁθ/, Level 0]: sry
+[2021-04-29 00:09:26]: Black Mamba [, Level 0]: Bozzkurt:  oh damn the real block starts xD this map is wierd
+[2021-04-29 00:09:26]: (1)Toniloni [\ЧՁθ/, Level 12]: Neiren:  dont save guys with them i have war
+[2021-04-29 00:09:32]: P4Pyr0s [FookinLads, Level 31]: SenZe:  nenny  stop it
+[2021-04-29 00:09:33]: No~Filter [, Level 0]: bruh you dont have life
+[2021-04-29 00:09:34]: No~Filter [, Level 0]: kys
+[2021-04-29 00:09:39]: (1)Toniloni [\ЧՁθ/, Level 12]: this guy tryed to raid me
+[2021-04-29 00:09:46]: Bozzkurt [SkinLover, Level 0]: Black Mamba: isnt real blocking the noobs play whit endless and taser
+[2021-04-29 00:09:52]: nenny [\ЧՁθ/, Level 0]: Black Mamba:  Bozzkurt sry :(
+[2021-04-29 00:09:58]: Bozzkurt [SkinLover, Level 0]: nenny: bosver
+[2021-04-29 00:10:05]: P4Pyr0s [FookinLads, Level 31]: SenZe:  you know you clan?
+[2021-04-29 00:10:13]: Black Mamba [, Level 0]: Bozzkurt:  ye we can fuckem up anyway lets go
+[2021-04-29 00:10:13]: nenny [\ЧՁθ/, Level 0]: klan arkadaşma karşı gelemem diye düşünüyorum
+[2021-04-29 00:10:19]: (1)Toniloni [\ЧՁθ/, Level 12]: SenZe:  we are in a clan
+[2021-04-29 00:10:28]: No~Filter [, Level 0]: f"{self.name}":  kill your self
+[2021-04-29 00:10:33]: Matiteusz [TrRShClNrRs, Level 37]: SenZe: he looks like he can let me farm in his spot xD
+[2021-04-29 00:10:45]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-29 00:10:56]: ***  [, Level 0]: f"{self.name}" is on a killing spree with 5 blocks
+[2021-04-29 00:11:00]: ***  [, Level 0]: 'noob' has left the game
+[2021-04-29 00:11:00]: ***  [, Level 0]: 'No~Filter' has left the game
+[2021-04-29 00:11:00]: nenny [\ЧՁθ/, Level 0]: best
+[2021-04-29 00:11:05]: ***  [, Level 0]: 'Jonas' entered and joined the game
+[2021-04-29 00:11:13]: P4Pyr0s [FookinLads, Level 31]: Axandos: ?
