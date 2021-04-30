@@ -13608,3 +13608,6 @@
 [2021-04-29 17:24:29]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-29 17:26:32]: ***  [, Level 0]: '(1)NeMo' entered and joined the game
 [2021-04-29 17:26:35]: ***  [, Level 0]: '(2)NeMo' entered and joined the game
+[2021-04-29 17:28:50]: ***  [, Level 0]: '(3)NeMo' entered and joined the game
+[2021-04-29 17:29:29]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-29 17:33:21]: ***  [, Level 0]: 'KYOTOMIAMOR' entered and joined the game
