@@ -14010,3 +14010,24 @@
 [2021-04-29 23:30:58]: ***  [, Level 0]: '再见各位0A0' entered and joined the game
 [2021-04-29 23:31:12]: Coca [Drunks, Level 26]: жажаа
 [2021-04-29 23:31:34]: 再见各位0A0 [, Level 0]: thx
+[2021-04-29 23:31:48]: Coca [Drunks, Level 26]: бля
+[2021-04-29 23:32:34]: ***  [, Level 0]: '(1)ERROR' entered and joined the game
+[2021-04-29 23:32:41]: ***  [, Level 0]: '[D] 再见各�' entered and joined the game
+[2021-04-29 23:32:48]: ***  [, Level 0]: '(1)ERROR,' entered and joined the game
+[2021-04-29 23:33:25]: ***  [, Level 0]: '(1)ERROR,' has left the game
+[2021-04-29 23:33:25]: ***  [, Level 0]: '(1)ERROR' has left the game
+[2021-04-29 23:33:26]: nameless tee [, Level 15]: war?
+[2021-04-29 23:34:29]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-29 23:34:30]: Coca [Drunks, Level 26]: всё
+[2021-04-29 23:34:37]: nameless tee [, Level 15]: ı am nenny
+[2021-04-29 23:35:34]: ERROR, [404, Level 58]: no
+[2021-04-29 23:35:36]: Coca [Drunks, Level 26]: k
+[2021-04-29 23:35:39]: ***  [, Level 0]: 'DerPate' has left the game
+[2021-04-29 23:35:41]: ***  [, Level 0]: 'Marcisten' entered and joined the game
+[2021-04-29 23:35:44]: ***  [, Level 0]: 'Adleg' has left the game
+[2021-04-29 23:35:48]: ***  [, Level 0]: '(1)Good man' has left the game
+[2021-04-29 23:35:48]: ***  [, Level 0]: '(1)Coca' has left the game
+[2021-04-29 23:35:55]: ***  [, Level 0]: 'nameless tee' has left the game
+[2021-04-29 23:36:11]: Good man [Drunks, Level 34]: ERROR,: how are you?
+[2021-04-29 23:36:31]: ***  [, Level 0]: 'nenny' entered and joined the game
+[2021-04-29 23:36:37]: ***  [, Level 0]: '(1)nenny' entered and joined the game
