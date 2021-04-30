@@ -13592,3 +13592,6 @@
 [2021-04-29 16:54:29]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-29 16:58:53]: ***  [, Level 0]: 'mrwodka936' entered and joined the game
 [2021-04-29 16:59:29]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-29 17:04:29]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-29 17:05:06]: Hunter.exe [DogParty, Level 37]: KRX
+[2021-04-29 17:07:59]: [D] Hunter.exe [DogParty, Level 28]: KRX
