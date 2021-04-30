@@ -13631,3 +13631,4 @@
 [2021-04-29 18:24:29]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-29 18:26:52]: ***  [, Level 0]: 'YemDx' entered and joined the game
 [2021-04-29 18:27:53]: ***  [, Level 0]: 'YemDx' has left the game
+[2021-04-29 18:29:29]: ***  [, Level 0]: [INFO] You can create an account using '/register'
