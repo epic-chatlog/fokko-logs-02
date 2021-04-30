@@ -13683,3 +13683,12 @@
 [2021-04-29 19:57:12]: NeMo [, Level 0]: HOWW
 [2021-04-29 19:57:47]: ***  [, Level 0]: ### 'Tut' KRX_client Download github KRX-client
 [2021-04-29 19:59:29]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-29 20:00:40]: ***  [, Level 0]: ### 'Tut' y
+[2021-04-29 20:03:04]: Tut [, Level 0]: NeMo:
+[2021-04-29 20:03:09]: NeMo [, Level 0]: yes
+[2021-04-29 20:03:19]: Tut [, Level 0]: That Endless room
+[2021-04-29 20:03:24]: NeMo [, Level 0]: yes?
+[2021-04-29 20:04:24]: NeMo [, Level 0]: portal
+[2021-04-29 20:04:26]: NeMo [, Level 0]: or come
+[2021-04-29 20:04:29]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-29 20:04:35]: NeMo [, Level 0]: U PAY 10 EURO
