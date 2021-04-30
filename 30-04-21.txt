@@ -2941,3 +2941,93 @@
 [2021-04-30 02:48:13]:   [, Level 0]: KingCuBer3: oraya atl
 [2021-04-30 02:48:15]: ***  [, Level 0]: 'mamikral011' has left the game
 [2021-04-30 02:48:17]:   [, Level 0]: Lets Go: sorry if i dont understand iydrss
+[2021-04-30 02:48:28]: ***  [, Level 0]: 'fokkonaut' has left the game
+[2021-04-30 02:48:34]:   [, Level 0]: Lets Go: [D] iydrss: ok
+[2021-04-30 02:48:35]: ***  [, Level 0]: 'mamikral011' entered and joined the game
+[2021-04-30 02:48:43]: ***  [, Level 0]: 'killerMami**' entered and joined the game
+[2021-04-30 02:48:47]:   [, Level 0]: f"{self.name}": [D] Nera: why you help (1)Soros ??
+[2021-04-30 02:48:54]: [D] iydrss [|TR| Agalar, Level 0]: DaBaby:  hook wall
+[2021-04-30 02:48:58]:   [, Level 0]: f"{self.name}": Nera:  he bad
+[2021-04-30 02:49:02]:   [, Level 0]: KingCuBer3: wtf
+[2021-04-30 02:49:05]:   [, Level 0]: f"{self.name}": Cylox.:
+[2021-04-30 02:49:06]: ***  [, Level 0]: 'Keeeper.*' has left the game
+[2021-04-30 02:49:06]: ***  [, Level 0]: 'Keeper.*' has left the game
+[2021-04-30 02:49:09]: ***  [, Level 0]: 'oyun krallı' joined the spectators
+[2021-04-30 02:49:09]: ***  [, Level 0]: 'noob' entered and joined the game
+[2021-04-30 02:49:09]:   [, Level 0]: Yin: bruh
+[2021-04-30 02:49:11]:   [, Level 0]: f"{self.name}": Cylox.: help plz
+[2021-04-30 02:49:13]: ***  [, Level 0]: 'oyun krallı' joined the game
+[2021-04-30 02:49:17]: [D] iydrss [|TR| Agalar, Level 0]: coming wait Lets Go
+[2021-04-30 02:49:22]:   [, Level 0]: mamikral011: iydrss:
+[2021-04-30 02:49:23]: [D] iydrss [|TR| Agalar, Level 0]: my dummy Lets Go
+[2021-04-30 02:49:24]: Lets Go [Chillie.*, Level 0]: ok
+[2021-04-30 02:49:24]:   [, Level 0]: Yin: aa internet
+[2021-04-30 02:49:30]: ***  [, Level 0]: '__init__(self):' entered and joined the game
+[2021-04-30 02:49:30]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-30 02:49:31]:   [, Level 0]: Ðeathscyth: P4Pyr0s:
+[2021-04-30 02:49:34]:   [, Level 0]: DaBaby: what
+[2021-04-30 02:49:34]:   [, Level 0]: Yin: knk dersler bitince konuşarak yapakmı
+[2021-04-30 02:49:35]: ***  [, Level 0]: 'oyun krallı' joined the spectators
+[2021-04-30 02:49:38]: ***  [, Level 0]: 'oyun krallı' joined the game
+[2021-04-30 02:49:39]: KingCuBer3 [KVKY, Level 24]: k
+[2021-04-30 02:49:41]: KingCuBer3 [KVKY, Level 24]: ama pls
+[2021-04-30 02:49:45]: KingCuBer3 [KVKY, Level 24]: yapcaz
+[2021-04-30 02:49:46]:   [, Level 0]: mamikral011: amk lagı
+[2021-04-30 02:49:46]: KingCuBer3 [KVKY, Level 24]: çok az
+[2021-04-30 02:49:48]: Lets Go [Chillie.*, Level 0]: [D] iydrss: dont understand bro
+[2021-04-30 02:49:50]: #5 blocker [Chilli.*, Level 24]: Axandos: help
+[2021-04-30 02:49:52]: [D] iydrss [|TR| Agalar, Level 0]: Lets Go:  coming with dummy
+[2021-04-30 02:49:54]:   [, Level 0]: Yin: şu lag a
+[2021-04-30 02:50:02]: ***  [, Level 0]: iydrss finished in: 20 minute(s) 41.36 second(s)
+[2021-04-30 02:50:04]:   [, Level 0]: DaBaby: [D] iydrss: ahh ok
+[2021-04-30 02:50:05]: KingCuBer3 [KVKY, Level 24]: ahbe
+[2021-04-30 02:50:08]:   [, Level 0]: mamikral011: P4Pyr0s:
+[2021-04-30 02:50:11]:   [, Level 0]: Yin: he napıcamı anladım
+[2021-04-30 02:50:13]: Lets Go [Chillie.*, Level 0]: f3llax: we will wait
+[2021-04-30 02:50:16]:   [, Level 0]: __init__(self):: Nerien: stop it
+[2021-04-30 02:50:23]: iydrss [|TR| Agalar, Level 24]: __init__(self)::
+[2021-04-30 02:50:30]: ***  [, Level 0]: 'noob' has left the game
+[2021-04-30 02:50:30]: ***  [, Level 0]: 'Spaß tee' entered and joined the game
+[2021-04-30 02:50:39]:   [, Level 0]: mamikral011: YelloWorlD: hi
+[2021-04-30 02:50:42]: f3llax [, Level 4]: Lets Go:  do you have weapons
+[2021-04-30 02:50:47]: iydrss [|TR| Agalar, Level 24]: #5 blocker:
+[2021-04-30 02:50:53]: iydrss [|TR| Agalar, Level 24]: if you come help pls :D
+[2021-04-30 02:50:55]:   [, Level 0]: Yin: sen yapsana
+[2021-04-30 02:50:55]: Lets Go [Chillie.*, Level 0]: f3llax: yes
+[2021-04-30 02:50:58]: KingCuBer3 [KVKY, Level 24]: bak
+[2021-04-30 02:51:10]: ***  [, Level 0]: 'oyun krallı' joined the spectators
+[2021-04-30 02:51:15]: ***  [, Level 0]: 'oyun krallı' joined the game
+[2021-04-30 02:51:29]:   [, Level 0]: Ðeathscyth: ByRushYT: come down special race
+[2021-04-30 02:51:31]: Lets Go [Chillie.*, Level 0]:  dont have tesla
+[2021-04-30 02:51:43]: Lets Go [Chillie.*, Level 0]: but its not a big problem
+[2021-04-30 02:51:51]: KingCuBer3 [KVKY, Level 24]: yapma
+[2021-04-30 02:51:52]:   [, Level 0]: Yin: napıcaz burda?
+[2021-04-30 02:51:52]: [D] iydrss [|TR| Agalar, Level 0]: f3llax:  no
+[2021-04-30 02:51:53]:   [, Level 0]: killerMami**: [D] El patron: ?
+[2021-04-30 02:51:53]: KingCuBer3 [KVKY, Level 24]: oraya geç
+[2021-04-30 02:51:54]: [D] iydrss [|TR| Agalar, Level 0]: f3llax:  pick self
+[2021-04-30 02:51:56]: KingCuBer3 [KVKY, Level 24]: çek
+[2021-04-30 02:51:57]: ***  [, Level 0]: 'YelloWorlD' has left the game
+[2021-04-30 02:52:06]:   [, Level 0]: killerMami**: :D
+[2021-04-30 02:52:09]: ***  [, Level 0]: '(1)oyun krallı' entered and joined the game
+[2021-04-30 02:52:09]:   [, Level 0]: killerMami**: El patron: ?
+[2021-04-30 02:52:10]: KingCuBer3 [KVKY, Level 24]: geç knk
+[2021-04-30 02:52:12]: #5 blocker [Chilli.*, Level 24]: casserole :p: help
+[2021-04-30 02:52:13]: KingCuBer3 [KVKY, Level 24]: #5 blocker:
+[2021-04-30 02:52:14]: ***  [, Level 0]: 'Spaß tee' has left the game
+[2021-04-30 02:52:14]:   [, Level 0]: Yin: lag
+[2021-04-30 02:52:18]: KingCuBer3 [KVKY, Level 24]: sry ping
+[2021-04-30 02:52:19]:   [, Level 0]: killerMami**: El patron: war?
+[2021-04-30 02:52:19]: KingCuBer3 [KVKY, Level 24]: wrong
+[2021-04-30 02:52:22]: [D] iydrss [|TR| Agalar, Level 0]: f3llax:  and we rushing because we have no good powers keep far enemies
+[2021-04-30 02:52:24]: #5 blocker [Chilli.*, Level 24]: casserole :p: help pls
+[2021-04-30 02:52:31]:   [, Level 0]: Ðeathscyth: P4Pyr0s: special race
+[2021-04-30 02:52:34]: Lets Go [Chillie.*, Level 0]: f3llax: laser me
+[2021-04-30 02:52:43]: Lets Go [Chillie.*, Level 0]: not yet
+[2021-04-30 02:52:43]:   [, Level 0]: killerMami**: P4Pyr0s: war
+[2021-04-30 02:52:43]: P4Pyr0s [FookinLads, Level 31]: sry mamikral011  but clan
+[2021-04-30 02:52:49]:   [, Level 0]: Ðeathscyth: [D] El patron: special race
+[2021-04-30 02:52:52]: KingCuBer3 [KVKY, Level 24]: fk
+[2021-04-30 02:52:59]: ***  [, Level 0]: 'killerMami**' has left the game
+[2021-04-30 02:53:08]: KingCuBer3 [KVKY, Level 24]: Yin atla knk
+[2021-04-30 02:53:09]: KingCuBer3 [KVKY, Level 24]: al
