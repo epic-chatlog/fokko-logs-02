@@ -3031,3 +3031,67 @@
 [2021-04-30 02:52:59]: ***  [, Level 0]: 'killerMami**' has left the game
 [2021-04-30 02:53:08]: KingCuBer3 [KVKY, Level 24]: Yin atla knk
 [2021-04-30 02:53:09]: KingCuBer3 [KVKY, Level 24]: al
+[2021-04-30 02:53:20]: ***  [, Level 0]: 'oyun krallı' joined the spectators
+[2021-04-30 02:53:24]: ***  [, Level 0]: 'oyun krallı' joined the game
+[2021-04-30 02:53:30]: KingCuBer3 [KVKY, Level 24]: normak
+[2021-04-30 02:53:31]:   [, Level 0]: mamikral011: f3llax: ?
+[2021-04-30 02:53:33]: KingCuBer3 [KVKY, Level 24]: double
+[2021-04-30 02:53:34]:   [, Level 0]: mamikral011: f3llax: ok war
+[2021-04-30 02:53:36]:   [, Level 0]: mamikral011: Lets Go: war
+[2021-04-30 02:53:38]: ***  [, Level 0]: 'killerMami**' entered and joined the game
+[2021-04-30 02:53:50]: KingCuBer3 [KVKY, Level 24]: FK OFFFF
+[2021-04-30 02:53:52]: KingCuBer3 [KVKY, Level 24]: FKKKKKKKKKKKKKKKKKKKKKKKKK
+[2021-04-30 02:53:56]: ***  [, Level 0]: 'killerMami**' has left the game
+[2021-04-30 02:53:57]:   [, Level 0]: Yin: aşağı gelimmi
+[2021-04-30 02:54:01]:   [, Level 0]: mamikral011: f3llax: helpp
+[2021-04-30 02:54:06]:   [, Level 0]: Yin: KingCuBer3:
+[2021-04-30 02:54:08]: KingCuBer3 [KVKY, Level 24]: buraya gelme
+[2021-04-30 02:54:11]: ***  [, Level 0]: f"{self.name}" finished in: 4 minute(s) 48.34 second(s)
+[2021-04-30 02:54:11]: ***  [, Level 0]: New record: 6 minute(s) 48.84 second(s) better.
+[2021-04-30 02:54:11]:   [, Level 0]: Ðeathscyth: ByRushYT: Solaraty come down special race
+[2021-04-30 02:54:13]: ***  [, Level 0]: __init__(self): finished in: 4 minute(s)  0.36 second(s)
+[2021-04-30 02:54:13]: ***  [, Level 0]: New record: 42.58 second(s) better.
+[2021-04-30 02:54:27]:   [, Level 0]: mamikral011: (1)Soros:
+[2021-04-30 02:54:30]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-30 02:54:31]:   [, Level 0]: mamikral011: (1)Soros: riflee
+[2021-04-30 02:54:34]:   [, Level 0]: #5 blocker: (1)oyun krallı: HOW?
+[2021-04-30 02:54:38]:   [, Level 0]: mamikral011: (1)Soros: war?
+[2021-04-30 02:54:43]: KingCuBer3 [KVKY, Level 24]: hay aq
+[2021-04-30 02:54:44]:   [, Level 0]: mamikral011: (1)Soros: war?
+[2021-04-30 02:54:57]:   [, Level 0]: mamikral011: D:
+[2021-04-30 02:55:21]:   [, Level 0]: Yin: what the fuck is going on
+[2021-04-30 02:55:27]: ***  [, Level 0]: 'gizmod' has left the game
+[2021-04-30 02:55:27]: ***  [, Level 0]: 'gizmo' has left the game
+[2021-04-30 02:55:29]: ***  [, Level 0]: 'Neiren' has left the game
+[2021-04-30 02:55:29]: ***  [, Level 0]: 'Nerien' has left the game
+[2021-04-30 02:55:36]: ***  [, Level 0]: 'CuBerMaN1' has left the game
+[2021-04-30 02:55:36]: ***  [, Level 0]: 'KingCuBer3' has left the game
+[2021-04-30 02:55:41]: ***  [, Level 0]: 'nenny' entered and joined the game
+[2021-04-30 02:55:52]: Lets Go [Chillie.*, Level 0]: f3llax: we trie us best
+[2021-04-30 02:55:52]:   [, Level 0]: Yin: hello there
+[2021-04-30 02:55:58]: ***  [, Level 0]: '(1)nenny' entered and joined the game
+[2021-04-30 02:56:20]: f3llax [, Level 4]: iydrss:  im going goodbye
+[2021-04-30 02:56:22]: ***  [, Level 0]: 'f3llax' has left the game
+[2021-04-30 02:56:38]: Yin [, Level 0]: ??
+[2021-04-30 02:56:46]: oyun krallı [, Level 20]: Cylox help yukardayım
+[2021-04-30 02:56:52]:   [, Level 0]: (1)nenny: omg
+[2021-04-30 02:56:53]:   [, Level 0]: (1)nenny: :Dd
+[2021-04-30 02:57:21]: ***  [, Level 0]: 1057. [D] iydrss Time: 10:52.02, requested by [D] iydrss
+[2021-04-30 02:57:23]: oyun krallı [, Level 20]: Cylox help yukardayım
+[2021-04-30 02:57:25]: ***  [, Level 0]: 768. iydrss Time: 02:58.54, requested by iydrss
+[2021-04-30 02:57:26]: oyun krallı [, Level 20]: Cylox help yukardayım
+[2021-04-30 02:57:26]: mamikral011 [DogParty, Level 28]: :D
+[2021-04-30 02:57:28]: ***  [, Level 0]: 768. iydrss Time: 02:58.54, requested by iydrss
+[2021-04-30 02:57:29]: ***  [, Level 0]: '__init__(self):' finished the special race!
+[2021-04-30 02:57:30]: ***  [, Level 0]: 'Mr.EastcoastMF' has left the game
+[2021-04-30 02:57:32]: ***  [, Level 0]: [D] Nera is on a killing spree with 10 blocks
+[2021-04-30 02:57:34]: ***  [, Level 0]: 'f"{self.name}"' finished the special race!
+[2021-04-30 02:57:34]: (1)casserole :p [, Level 0]: El patron:
+[2021-04-30 02:57:45]: ***  [, Level 0]: 'Yin' joined the minigame 'Block', use '/block' to join aswell
+[2021-04-30 02:57:46]: (1)casserole :p [, Level 0]: Nera:
+[2021-04-30 02:58:07]: mamikral011 [DogParty, Level 28]: [D] Nera:
+[2021-04-30 02:58:08]: oyun krallı [, Level 20]: Cylox help yukardayım
+[2021-04-30 02:58:10]:   [, Level 0]: iydrss: Lets Go:  lez goo
+[2021-04-30 02:58:12]: oyun krallı [, Level 20]: Cylox help yukardayım
+[2021-04-30 02:58:12]: mamikral011 [DogParty, Level 28]: ok
+[2021-04-30 02:58:15]:   [, Level 0]: iydrss: DaBaby:
