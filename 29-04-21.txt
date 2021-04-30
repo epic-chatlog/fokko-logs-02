@@ -13673,3 +13673,9 @@
 [2021-04-29 19:44:29]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
 [2021-04-29 19:48:41]: ***  [, Level 0]: 'NeMo' entered and joined the game
 [2021-04-29 19:49:29]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-29 19:51:47]: ***  [, Level 0]: 'YemDx' entered and joined the game
+[2021-04-29 19:52:11]: ***  [, Level 0]: 'YemDx' has left the game
+[2021-04-29 19:52:36]: ***  [, Level 0]: 'Tut' entered and joined the game
+[2021-04-29 19:53:20]: ***  [, Level 0]: 'Tut' has left the game
+[2021-04-29 19:53:38]: ***  [, Level 0]: 'Tut' entered and joined the game
+[2021-04-29 19:54:29]: ***  [, Level 0]: [INFO] You can create an account using '/register'
