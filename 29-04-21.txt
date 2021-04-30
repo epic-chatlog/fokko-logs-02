@@ -13798,3 +13798,5 @@
 [2021-04-29 22:40:05]: ***  [, Level 0]: '(1)S Y T H N' has left the game
 [2021-04-29 22:40:32]: ***  [, Level 0]: 'S Y T H N' has left the game
 [2021-04-29 22:44:29]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-29 22:49:29]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-29 22:50:39]: ***  [, Level 0]: 'Ƭevan' entered and joined the game
