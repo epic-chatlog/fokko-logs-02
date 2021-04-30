@@ -13599,3 +13599,7 @@
 [2021-04-29 17:11:32]: ***  [, Level 0]: 'mrwodka936' has left the game
 [2021-04-29 17:11:46]: ***  [, Level 0]: '(1)Hunter.exe' entered and joined the game
 [2021-04-29 17:12:18]: ***  [, Level 0]: '(1)[D] Hunter.ex' entered and joined the game
+[2021-04-29 17:14:20]: ***  [, Level 0]: 'NeMo' entered and joined the game
+[2021-04-29 17:14:29]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-29 17:15:24]: ***  [, Level 0]: 'mrwodka936' entered and joined the game
+[2021-04-29 17:17:03]: ***  [, Level 0]: 'f3llax' has left the game (Timeout)
