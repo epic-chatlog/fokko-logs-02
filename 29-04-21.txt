@@ -13618,3 +13618,4 @@
 [2021-04-29 17:42:42]: ***  [, Level 0]: '(1)NeMo' has left the game
 [2021-04-29 17:42:42]: ***  [, Level 0]: '(2)NeMo' has left the game
 [2021-04-29 17:42:43]: ***  [, Level 0]: '(3)NeMo' has left the game
+[2021-04-29 17:44:29]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
