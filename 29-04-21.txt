@@ -13761,3 +13761,4 @@
 [2021-04-29 20:54:29]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-29 20:59:29]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-29 21:04:29]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-29 21:09:29]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
