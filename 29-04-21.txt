@@ -13590,3 +13590,5 @@
 [2021-04-29 16:51:42]: ***  [, Level 0]: 'HeavyGeneral' entered and joined the game
 [2021-04-29 16:52:08]: ***  [, Level 0]: 'HeavyGeneral' has left the game
 [2021-04-29 16:54:29]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-29 16:58:53]: ***  [, Level 0]: 'mrwodka936' entered and joined the game
+[2021-04-29 16:59:29]: ***  [, Level 0]: [INFO] You can create an account using '/register'
