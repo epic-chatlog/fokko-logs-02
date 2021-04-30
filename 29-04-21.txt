@@ -13715,3 +13715,17 @@
 [2021-04-29 20:09:40]: NeMo [, Level 0]: ./login Tut TUT123
 [2021-04-29 20:09:43]: Tut [, Level 0]: No
 [2021-04-29 20:09:46]: Tut [, Level 0]: Is Not Working
+[2021-04-29 20:09:58]: NeMo [, Level 0]: yes it is just be sure
+[2021-04-29 20:10:05]: NeMo [, Level 0]: and the capitle and small
+[2021-04-29 20:10:33]: NeMo [, Level 0]: U IDIOT
+[2021-04-29 20:11:09]: NeMo [, Level 0]: ok write
+[2021-04-29 20:11:15]: NeMo [, Level 0]: ./login tut tut123
+[2021-04-29 20:11:21]: Tut [, Level 0]: That
+[2021-04-29 20:11:39]: Tut [, Level 0]: This Is  My MMOTEE
+[2021-04-29 20:11:46]: Tut [, Level 0]: Be loggws
+[2021-04-29 20:11:50]: NeMo [, Level 0]: what
+[2021-04-29 20:12:28]: ***  [, Level 0]: 'IwillBlockYou' has left the game
+[2021-04-29 20:13:53]: ***  [, Level 0]: 'NeMo' has left the game
+[2021-04-29 20:14:03]: ***  [, Level 0]: 'BisZ' entered and joined the game
+[2021-04-29 20:14:07]: ***  [, Level 0]: 'BisZ' has left the game
+[2021-04-29 20:14:29]: ***  [, Level 0]: [INFO] You can create an account using '/register'
