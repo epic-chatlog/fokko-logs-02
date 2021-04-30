@@ -13605,3 +13605,6 @@
 [2021-04-29 17:17:03]: ***  [, Level 0]: 'f3llax' has left the game (Timeout)
 [2021-04-29 17:19:29]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
 [2021-04-29 17:22:11]: ***  [, Level 0]: 'mrwodka936' has left the game
+[2021-04-29 17:24:29]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-29 17:26:32]: ***  [, Level 0]: '(1)NeMo' entered and joined the game
+[2021-04-29 17:26:35]: ***  [, Level 0]: '(2)NeMo' entered and joined the game
