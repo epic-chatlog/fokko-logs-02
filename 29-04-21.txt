@@ -14031,3 +14031,13 @@
 [2021-04-29 23:36:11]: Good man [Drunks, Level 34]: ERROR,: how are you?
 [2021-04-29 23:36:31]: ***  [, Level 0]: 'nenny' entered and joined the game
 [2021-04-29 23:36:37]: ***  [, Level 0]: '(1)nenny' entered and joined the game
+[2021-04-29 23:37:30]: ***  [, Level 0]: 'Marcisten' has left the game
+[2021-04-29 23:39:28]: ***  [, Level 0]: 'OP|Supers' entered and joined the game
+[2021-04-29 23:39:29]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-29 23:40:26]: ***  [, Level 0]: '#5 blocker' entered and joined the game
+[2021-04-29 23:40:33]: #5 blocker [Chilli.*, Level 0]: Kiøn1029:szia
+[2021-04-29 23:40:37]: #5 blocker [Chilli.*, Level 0]: Kiøn1029: szia
+[2021-04-29 23:41:05]: (1)nenny [\ЧՁθ/, Level 0]: ahah xd
+[2021-04-29 23:41:11]: ***  [, Level 0]: 'Supers' entered and joined the game
+[2021-04-29 23:41:35]: Kiøn1029 [.bad, Level 32]: #5 blocker: témazárót írok
+[2021-04-29 23:41:39]: #5 blocker [Chilli.*, Level 0]: ok
