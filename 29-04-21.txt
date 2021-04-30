@@ -13732,3 +13732,24 @@
 [2021-04-29 20:15:26]: ***  [, Level 0]: 'Tut' has left the game
 [2021-04-29 20:19:29]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
 [2021-04-29 20:24:29]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
+[2021-04-29 20:27:11]: ***  [, Level 0]: 'jaime666' entered and joined the game
+[2021-04-29 20:27:21]: ***  [, Level 0]: 'jaime666' has left the game
+[2021-04-29 20:27:25]: ***  [, Level 0]: 'jaime666' entered and joined the game
+[2021-04-29 20:27:44]: ***  [, Level 0]: 'jaime666' has left the game
+[2021-04-29 20:27:48]: ***  [, Level 0]: 'jaime666' entered and joined the game
+[2021-04-29 20:28:04]: ***  [, Level 0]: 'jaime666' has left the game
+[2021-04-29 20:28:09]: ***  [, Level 0]: 'jaime666' entered and joined the game
+[2021-04-29 20:28:11]: ***  [, Level 0]: You are now level 29!
+[2021-04-29 20:28:52]: ***  [, Level 0]: 'jaime666' has left the game
+[2021-04-29 20:28:58]: ***  [, Level 0]: 'jaime666' entered and joined the game
+[2021-04-29 20:29:09]: ***  [, Level 0]: 'jaime666' has left the game
+[2021-04-29 20:29:12]: ***  [, Level 0]: 'jaime666' entered and joined the game
+[2021-04-29 20:29:19]: ***  [, Level 0]: 'jaime666' has left the game
+[2021-04-29 20:29:23]: ***  [, Level 0]: 'jaime666' entered and joined the game
+[2021-04-29 20:29:29]: ***  [, Level 0]: [INFO] Join our Discord: https://discord.gg/qccRrtb
+[2021-04-29 20:29:33]: ***  [, Level 0]: 'jaime666' has left the game
+[2021-04-29 20:29:37]: ***  [, Level 0]: 'jaime666' entered and joined the game
+[2021-04-29 20:29:46]: ***  [, Level 0]: 'jaime666' has left the game
+[2021-04-29 20:29:51]: ***  [, Level 0]: 'jaime666' entered and joined the game
+[2021-04-29 20:29:56]: ***  [, Level 0]: 'jaime666' has left the game
+[2021-04-29 20:30:01]: ***  [, Level 0]: 'jaime666' entered and joined the game
