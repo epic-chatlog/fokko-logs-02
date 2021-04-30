@@ -13753,3 +13753,5 @@
 [2021-04-29 20:29:51]: ***  [, Level 0]: 'jaime666' entered and joined the game
 [2021-04-29 20:29:56]: ***  [, Level 0]: 'jaime666' has left the game
 [2021-04-29 20:30:01]: ***  [, Level 0]: 'jaime666' entered and joined the game
+[2021-04-29 20:30:13]: ***  [, Level 0]: 'jaime666' has left the game
+[2021-04-29 20:34:29]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
