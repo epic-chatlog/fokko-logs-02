@@ -14132,3 +14132,41 @@
 [2021-04-29 23:51:00]: ***  [, Level 0]: 'Neiren' entered and joined the game
 [2021-04-29 23:51:32]: Good man [Drunks, Level 34]: ERROR: block
 [2021-04-29 23:51:46]: Good man [Drunks, Level 34]: sorry
+[2021-04-29 23:51:51]: [D] #5 blocker [Chilli.*, Level 0]: ERROR: why man? i dont blocked you and the next day you tell me, wrong clan
+[2021-04-29 23:51:54]: ***  [, Level 0]: 'casserole :p' entered and joined the game
+[2021-04-29 23:51:57]: ***  [, Level 0]: '[D] #5 blocker' has left the game
+[2021-04-29 23:51:57]: ***  [, Level 0]: '#5 blocker' has left the game
+[2021-04-29 23:51:58]: ERROR, [404, Level 58]: u said war did u forget
+[2021-04-29 23:52:24]: Link☣ [\ЧՁθ/, Level 14]: ERROR: ;c
+[2021-04-29 23:52:27]: ***  [, Level 0]: '~DemoizL~' entered and joined the game
+[2021-04-29 23:52:29]: ***  [, Level 0]: Nerien finished in: 1 minute(s) 25.16 second(s)
+[2021-04-29 23:52:29]: ***  [, Level 0]: New record: 17.36 second(s) better.
+[2021-04-29 23:52:33]: ***  [, Level 0]: Neiren finished in: 1 minute(s) 28.26 second(s)
+[2021-04-29 23:52:33]: ***  [, Level 0]: New record: 20.64 second(s) better.
+[2021-04-29 23:52:53]: ***  [, Level 0]: 'Shymoux' entered and joined the game
+[2021-04-29 23:53:07]: Link☣ [\ЧՁθ/, Level 14]: ERROR: how u have 2 dummy ?
+[2021-04-29 23:53:14]: ERROR [404, Level 76]: Link☣:  cuz i have
+[2021-04-29 23:53:17]: Link☣ [\ЧՁθ/, Level 14]: xD
+[2021-04-29 23:53:18]: ERROR, [404, Level 58]: wtf
+[2021-04-29 23:53:24]: Link☣ [\ЧՁθ/, Level 14]: ERROR: rly how :D
+[2021-04-29 23:53:33]: ERROR, [404, Level 58]: connect dummy ? xD wtf
+[2021-04-29 23:53:39]: Link☣ [\ЧՁθ/, Level 14]: but u have 2 dummy
+[2021-04-29 23:53:44]: ERROR, [404, Level 58]: whut?
+[2021-04-29 23:53:49]: Link☣ [\ЧՁθ/, Level 14]: u have wait
+[2021-04-29 23:54:09]: Link☣ [\ЧՁθ/, Level 14]: ERROR: ERROR, (1) ERROR (1) ERROR,
+[2021-04-29 23:54:24]: ERROR, [404, Level 58]:  2x ddnet 2x dummy?
+[2021-04-29 23:54:26]: casserole :p [, Level 24]: ERROR:.
+[2021-04-29 23:54:29]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-29 23:54:31]: Link☣ [\ЧՁθ/, Level 14]: ERROR: thx xD
+[2021-04-29 23:55:11]: ***  [, Level 0]: '(1)Link☣' entered and joined the game
+[2021-04-29 23:55:23]: (1)Link☣ [\ЧՁθ/, Level 0]: xD
+[2021-04-29 23:55:36]: ***  [, Level 0]: '(1)casserole :p' entered and joined the game
+[2021-04-29 23:55:53]: Coca [Drunks, Level 26]: casserole :p:
+[2021-04-29 23:56:00]: ***  [, Level 0]: '[D] Link☣' entered and joined the game
+[2021-04-29 23:56:07]: ***  [, Level 0]: '(1)[D] Link☣' entered and joined the game
+[2021-04-29 23:56:25]: Coca [Drunks, Level 26]: он стак менял
+[2021-04-29 23:56:27]: ***  [, Level 0]: Neiren finished in: 1 minute(s) 51.58 second(s)
+[2021-04-29 23:56:27]: Coca [Drunks, Level 26]: как бы)
+[2021-04-29 23:56:29]: ***  [, Level 0]: Nerien finished in: 1 minute(s) 12.30 second(s)
+[2021-04-29 23:56:29]: ***  [, Level 0]: New record: 12.86 second(s) better.
+[2021-04-29 23:56:38]: (1)Ðream [TrRShClNrRs, Level 38]: и меня типа геть?
