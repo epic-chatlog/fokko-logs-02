@@ -13784,3 +13784,9 @@
 [2021-04-29 22:15:05]: ***  [, Level 0]: 'bringer' has left the game
 [2021-04-29 22:19:29]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-29 22:19:37]: ***  [, Level 0]: '#5 blocker' entered and joined the game
+[2021-04-29 22:22:38]: ***  [, Level 0]: '#5 blocker' has left the game
+[2021-04-29 22:23:05]: ***  [, Level 0]: 'ByRushYT' entered and joined the game
+[2021-04-29 22:23:25]: ***  [, Level 0]: '(1)ByRushYT' entered and joined the game
+[2021-04-29 22:23:28]: ***  [, Level 0]: 'ByRushYT' has left the game
+[2021-04-29 22:24:02]: ***  [, Level 0]: '[D] ByRushYT' entered and joined the game
+[2021-04-29 22:24:29]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
