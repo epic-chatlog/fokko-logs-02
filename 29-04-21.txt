@@ -13780,3 +13780,5 @@
 [2021-04-29 22:05:39]: Rainbow Tee [Chilli.*, Level 12]: bringer:
 [2021-04-29 22:06:03]: ***  [, Level 0]: 'Rainbow Tee' has left the game
 [2021-04-29 22:09:29]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-29 22:14:29]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-29 22:15:05]: ***  [, Level 0]: 'bringer' has left the game
