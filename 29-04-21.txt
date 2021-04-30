@@ -13656,3 +13656,9 @@
 [2021-04-29 19:17:40]: sun.slow(y) [FookinLads, Level 35]: jmd hat ihn gefaket
 [2021-04-29 19:17:47]: zemer [, Level 0]: sun.slow(y): Wer?
 [2021-04-29 19:19:29]: ***  [, Level 0]: [INFO] You can create an account using '/register'
+[2021-04-29 19:20:33]: ***  [, Level 0]: 'zemer dummy' entered and joined the game
+[2021-04-29 19:20:44]: ***  [, Level 0]: 'zemer dummy' has left the game
+[2021-04-29 19:21:03]: ***  [, Level 0]: 'zemer dummy' entered and joined the game
+[2021-04-29 19:21:35]: ***  [, Level 0]: 'zemer dummy' has left the game
+[2021-04-29 19:23:51]: ***  [, Level 0]: 'keloğlan' entered and joined the game
+[2021-04-29 19:24:29]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
