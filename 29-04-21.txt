@@ -13803,3 +13803,17 @@
 [2021-04-29 22:51:26]: ***  [, Level 0]: 'Ðream' entered and joined the game
 [2021-04-29 22:53:20]: [D] ByRushYT [, Level 0]: tevan help me
 [2021-04-29 22:54:29]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-29 22:57:44]: (1)ByRushYT [, Level 0]: Ƭevan: help me pls
+[2021-04-29 22:58:36]: (1)ByRushYT [, Level 0]: Ƭevan: I want get unliimited too
+[2021-04-29 22:58:40]: ***  [, Level 0]: 'Good man' entered and joined the game
+[2021-04-29 22:58:48]: Good man [Drunks, Level 0]: Ƭevan: привет)
+[2021-04-29 22:58:55]: ***  [, Level 0]: 'Coca' entered and joined the game
+[2021-04-29 22:59:15]: Good man [Drunks, Level 34]: cделаешь портал в ендлесс?
+[2021-04-29 22:59:29]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-29 22:59:32]: ***  [, Level 0]: 'Ļåҕ | Jab><' entered and joined the game
+[2021-04-29 23:00:38]: Coca [Drunks, Level 26]: Ðream: не трогай)
+[2021-04-29 23:00:41]: Coca [Drunks, Level 26]: это моё...
+[2021-04-29 23:00:50]: Coca [Drunks, Level 26]: печально)
+[2021-04-29 23:00:52]: ***  [, Level 0]: '[D] ByRushYT' has left the game
+[2021-04-29 23:01:02]: Coca [Drunks, Level 26]: давай иди телепорт ставь
+[2021-04-29 23:01:07]: ***  [, Level 0]: '[D] ByRushYT' entered and joined the game
