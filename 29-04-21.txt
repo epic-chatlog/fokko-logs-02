@@ -13791,3 +13791,4 @@
 [2021-04-29 22:24:02]: ***  [, Level 0]: '[D] ByRushYT' entered and joined the game
 [2021-04-29 22:24:29]: ***  [, Level 0]: [INFO] You can drop weapons with 'f4' (or the key for vote no)
 [2021-04-29 22:29:29]: ***  [, Level 0]: [INFO] Check out the minigames using '/minigames'
+[2021-04-29 22:34:29]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
