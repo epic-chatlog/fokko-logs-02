@@ -13639,3 +13639,6 @@
 [2021-04-29 18:54:29]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-29 18:57:08]: ***  [, Level 0]: 'NeMo' entered and joined the game
 [2021-04-29 18:57:27]: ***  [, Level 0]: 'sun.slow(y)' entered and joined the game
+[2021-04-29 18:59:29]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-29 19:00:31]: ***  [, Level 0]: 'd' entered and joined the game
+[2021-04-29 19:02:33]: ***  [, Level 0]: 'NeMo' has left the game
