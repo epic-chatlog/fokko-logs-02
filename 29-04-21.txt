@@ -13952,3 +13952,36 @@
 [2021-04-29 23:20:07]: ***  [, Level 0]: '(2)Cosmo' has left the game
 [2021-04-29 23:20:17]: ***  [, Level 0]: 'kais' entered and joined the game
 [2021-04-29 23:21:25]: ***  [, Level 0]: '(1)kais' entered and joined the game
+[2021-04-29 23:21:38]: Good man [Drunks, Level 34]: ну да)
+[2021-04-29 23:21:43]: Adleg [, Level 0]: derPate ist mein 2ter tee
+[2021-04-29 23:22:38]: Good man [Drunks, Level 34]: молодец
+[2021-04-29 23:22:44]: ***  [, Level 0]: Cosmo finished in: 6 minute(s) 47.86 second(s)
+[2021-04-29 23:22:44]: ***  [, Level 0]: New record: 7 minute(s)  8.02 second(s) better.
+[2021-04-29 23:22:51]: Good man [Drunks, Level 34]: успеешь?
+[2021-04-29 23:23:13]: Good man [Drunks, Level 34]: ъаъаъа
+[2021-04-29 23:23:16]: kais [, Level 66]: xD
+[2021-04-29 23:23:58]: Good man [Drunks, Level 34]: э
+[2021-04-29 23:24:01]: Good man [Drunks, Level 34]: очнись
+[2021-04-29 23:24:29]: ***  [, Level 0]: [INFO] Go to the bank and deposit your wallet money to make it safe from stealing
+[2021-04-29 23:24:34]: ***  [, Level 0]: '(2)Ðream' entered and joined the game
+[2021-04-29 23:24:35]: ***  [, Level 0]: 'Ƭevan' would have timed out, but can use timeout protection now
+[2021-04-29 23:24:35]: ***  [, Level 0]: 'Ðream' would have timed out, but can use timeout protection now
+[2021-04-29 23:24:35]: ***  [, Level 0]: '(1)Ƭevan' has left the game (Timeout)
+[2021-04-29 23:24:35]: ***  [, Level 0]: '(1)Ðream' has left the game (Timeout)
+[2021-04-29 23:24:39]: (2)Ðream [, Level 0]: мда
+[2021-04-29 23:24:42]: ***  [, Level 0]: '(2)Ðream' has left the game
+[2021-04-29 23:24:46]: ***  [, Level 0]: '(1)Ƭevan' entered and joined the game
+[2021-04-29 23:24:48]: ***  [, Level 0]: '(1)Ƭevan' has left the game (Timeout Protection used)
+[2021-04-29 23:24:49]: Good man [Drunks, Level 34]: kais: why
+[2021-04-29 23:24:52]: kais [, Level 66]: idk
+[2021-04-29 23:24:55]: ***  [, Level 0]: '(1)Ðream' entered and joined the game
+[2021-04-29 23:24:58]: ***  [, Level 0]: '(1)Ðream' has left the game (Timeout Protection used)
+[2021-04-29 23:25:02]: Good man [Drunks, Level 34]: Ƭevan: он явно обиделся
+[2021-04-29 23:25:03]: ***  [, Level 0]: '(1)Ƭevan' entered and joined the game
+[2021-04-29 23:25:06]: ***  [, Level 0]: '(1)Ðream' entered and joined the game
+[2021-04-29 23:25:39]: ***  [, Level 0]: 'Cosmo' has left the game (Timeout)
+[2021-04-29 23:25:39]: ***  [, Level 0]: '(1)Cosmo' has left the game (Timeout)
+[2021-04-29 23:26:16]: Good man [Drunks, Level 34]: Ƭevan: капризный пиздец
+[2021-04-29 23:26:17]: Ƭevan [TrRShClNrRs, Level 50]: kais: u will jump?
+[2021-04-29 23:26:25]: kais [, Level 66]: wdym i'll jump ?
+[2021-04-29 23:26:32]: kais [, Level 66]: in the portal ?
