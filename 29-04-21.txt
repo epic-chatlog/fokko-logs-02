@@ -13692,3 +13692,26 @@
 [2021-04-29 20:04:26]: NeMo [, Level 0]: or come
 [2021-04-29 20:04:29]: ***  [, Level 0]: [INFO] You can create an account using '/register'
 [2021-04-29 20:04:35]: NeMo [, Level 0]: U PAY 10 EURO
+[2021-04-29 20:05:00]: Tut [, Level 0]: Im Not logged
+[2021-04-29 20:05:05]: NeMo [, Level 0]: OK BEY \
+[2021-04-29 20:05:24]: Tut [, Level 0]: You re logged
+[2021-04-29 20:07:07]: Tut [, Level 0]: How to Login
+[2021-04-29 20:07:18]: NeMo [, Level 0]: ./LOGIN asd asd
+[2021-04-29 20:07:22]: NeMo [, Level 0]: u must have acc
+[2021-04-29 20:07:34]: NeMo [, Level 0]: ./LOGIN NAME password
+[2021-04-29 20:07:34]: Tut [, Level 0]: wrong
+[2021-04-29 20:07:38]: NeMo [, Level 0]: i know
+[2021-04-29 20:07:40]: Tut [, Level 0]: Stop Login
+[2021-04-29 20:08:09]: NeMo [, Level 0]: ./LOGIN NAME passw
+[2021-04-29 20:08:20]: Tut [, Level 0]: ?
+[2021-04-29 20:08:29]: Tut [, Level 0]: Register
+[2021-04-29 20:08:38]: NeMo [, Level 0]: HEY U
+[2021-04-29 20:08:43]: NeMo [, Level 0]: WRITE
+[2021-04-29 20:08:54]: NeMo [, Level 0]: ./login Tut TUT123
+[2021-04-29 20:09:07]: NeMo [, Level 0]: with the capitle and small
+[2021-04-29 20:09:18]: Tut [, Level 0]: How
+[2021-04-29 20:09:29]: ***  [, Level 0]: [INFO] You can drop flags with 'f3' (or the key for vote yes)
+[2021-04-29 20:09:37]: NeMo [, Level 0]: Tut:  i mean write it like what i send
+[2021-04-29 20:09:40]: NeMo [, Level 0]: ./login Tut TUT123
+[2021-04-29 20:09:43]: Tut [, Level 0]: No
+[2021-04-29 20:09:46]: Tut [, Level 0]: Is Not Working
